@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-07-10 13:39:47">
+<yml_catalog date="2026-07-10 14:36:32">
   <shop>
     <name>diamarka.com</name>
     <company>ДиаМарка</company>
@@ -17,7 +17,7 @@
     </categories>
     <offers>
       <offer id="100001" available="true">
-        <url>https://diamarka.com/glyukometry/#глюкометр-diacont-compact</url>
+        <url>https://diamarka.com/glyukometry/glyukometr-diakont-mini-diacont/</url>
         <price>1250</price>
         <oldprice>1700</oldprice>
         <currencyId>RUR</currencyId>
@@ -26,12 +26,13 @@
         <typePrefix>Глюкометры</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100001</vendorCode>
+        <picture>https://diamarka.com/upload/resize_cache/webp/iblock/7e8/7e8654568fb698ed8eca4af4f721168a.webp</picture>
         <description>Глюкометр Diacont compact. Товар из категории «Глюкометры» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/glyukometry/</param>
         <param name="Рейтинг" noFilter="true">4.7</param>
       </offer>
       <offer id="100002" available="true">
-        <url>https://diamarka.com/glyukometry/#глюкометр-сателлит-онлайн-в-россии</url>
+        <url>https://diamarka.com/glyukometry/glyukometr_satellit_onlayn/</url>
         <price>3250</price>
         <currencyId>RUR</currencyId>
         <categoryId>1</categoryId>
@@ -39,12 +40,13 @@
         <typePrefix>Глюкометры</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100002</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/59a/e3ks9chrh1k7acf8nycrx9qzbtdwu0hf.webp</picture>
         <description>Глюкометр Сателлит Онлайн в России. Товар из категории «Глюкометры» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/glyukometry/</param>
         <param name="Рейтинг" noFilter="true">4.7</param>
       </offer>
       <offer id="100003" available="true">
-        <url>https://diamarka.com/glyukometry/#глюкометр-contour-plus-с-устройством-для-прокалывания</url>
+        <url>https://diamarka.com/glyukometry_contour/glyukometr_kontur_plyus_v_komplekte_s_prokalyvatelem_mikrolet_nekst/</url>
         <price>1980</price>
         <oldprice>2200</oldprice>
         <currencyId>RUR</currencyId>
@@ -53,12 +55,13 @@
         <typePrefix>Глюкометры</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100003</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/003/0036ef8f7b60c449bcdc135d873c464c.webp</picture>
         <description>Глюкометр Contour plus (с устройством для прокалывания). Товар из категории «Глюкометры» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/glyukometry/</param>
         <param name="Рейтинг" noFilter="true">4.6</param>
       </offer>
       <offer id="100004" available="true">
-        <url>https://diamarka.com/glyukometry/#глюкометр-говорящий-diacont-voice-10-уп-тест-полосок-50</url>
+        <url>https://diamarka.com/glyukometry/glyukometr_diakont_so_skidkoy_10_pachek_test_polosok_50/</url>
         <price>7200</price>
         <oldprice>11400</oldprice>
         <currencyId>RUR</currencyId>
@@ -67,6 +70,7 @@
         <typePrefix>Глюкометры</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100004</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/8c0/r6kgbv1aqugvipax52rfinnyoeab4lb5.webp</picture>
         <description>Глюкометр говорящий Diacont Voice + 10 уп. тест-полосок № 50. Товар из категории «Глюкометры» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/glyukometry/</param>
         <param name="Рейтинг" noFilter="true">4.7</param>
@@ -81,6 +85,7 @@
         <typePrefix>Глюкометры</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100005</vendorCode>
+        <picture>https://diamarka.com/upload/resize_cache/webp/iblock/7e8/7e8654568fb698ed8eca4af4f721168a.webp</picture>
         <description>Глюкометр Diacont. Товар из категории «Глюкометры» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/glyukometry/</param>
         <param name="Рейтинг" noFilter="true">4.7</param>
@@ -94,6 +99,7 @@
         <typePrefix>Глюкометры</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100006</vendorCode>
+        <picture>https://diamarka.com/upload/resize_cache/webp/iblock/7e8/7e8654568fb698ed8eca4af4f721168a.webp</picture>
         <description>Глюкометр Contour plus ONE в России. Товар из категории «Глюкометры» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/glyukometry/</param>
         <param name="Рейтинг" noFilter="true">4.6</param>
@@ -108,6 +114,7 @@
         <typePrefix>Тест-полоски</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100007</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/5b1/idp3u293r8gkzhawzq3o11o1xibiryw4.webp</picture>
         <description>Тест-полоски Diacont №50. Товар из категории «Тест-полоски» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/test_poloski/</param>
         <param name="Рейтинг" noFilter="true">4.9</param>
@@ -121,6 +128,7 @@
         <typePrefix>Тест-полоски</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100008</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/5b1/idp3u293r8gkzhawzq3o11o1xibiryw4.webp</picture>
         <description>Тест-полоски eBsensor №50. Товар из категории «Тест-полоски» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/test_poloski/</param>
         <param name="Рейтинг" noFilter="true">5</param>
@@ -134,6 +142,7 @@
         <typePrefix>Тест-полоски</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100009</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/5b1/idp3u293r8gkzhawzq3o11o1xibiryw4.webp</picture>
         <description>Тест-полоски Contour plus №50. Товар из категории «Тест-полоски» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/test_poloski/</param>
         <param name="Рейтинг" noFilter="true">4.7</param>
@@ -147,6 +156,7 @@
         <typePrefix>Тест-полоски</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100010</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/5b1/idp3u293r8gkzhawzq3o11o1xibiryw4.webp</picture>
         <description>Тест-полоски eBsensor №25. Товар из категории «Тест-полоски» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/test_poloski/</param>
         <param name="Рейтинг" noFilter="true">5</param>
@@ -160,6 +170,7 @@
         <typePrefix>Тест-полоски</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100011</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/5b1/idp3u293r8gkzhawzq3o11o1xibiryw4.webp</picture>
         <description>Тест-полоски Contour TS №50. Товар из категории «Тест-полоски» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/test_poloski/</param>
         <param name="Рейтинг" noFilter="true">4.5</param>
@@ -174,6 +185,7 @@
         <typePrefix>Тест-полоски</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100012</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/5b1/idp3u293r8gkzhawzq3o11o1xibiryw4.webp</picture>
         <description>Тест-полоски OneTouch Verio IQ №50. Товар из категории «Тест-полоски» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/test_poloski/</param>
         <param name="Рейтинг" noFilter="true">4.6</param>
@@ -187,6 +199,7 @@
         <typePrefix>Тест-полоски</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100013</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/5b1/idp3u293r8gkzhawzq3o11o1xibiryw4.webp</picture>
         <description>Тест-полоски OneTouch Verio IQ №100. Товар из категории «Тест-полоски» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/test_poloski/</param>
         <param name="Рейтинг" noFilter="true">4.8</param>
@@ -201,6 +214,7 @@
         <typePrefix>Системы мониторинга глюкозы</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100014</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/432/3dqqt2sl8yhu73idn2ablvwqpouvsrqh.webp</picture>
         <description>Датчик (сенсор) мониторинга глюкозы Hematonix GS1, 1 шт.. Товар из категории «Системы мониторинга глюкозы» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/monitoring_glyukozy/</param>
         <param name="Рейтинг" noFilter="true">4.7</param>
@@ -215,6 +229,7 @@
         <typePrefix>Системы мониторинга глюкозы</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100015</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/432/3dqqt2sl8yhu73idn2ablvwqpouvsrqh.webp</picture>
         <description>Датчик мониторинга глюкозы Lumiflex Linx, 1 шт.. Товар из категории «Системы мониторинга глюкозы» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/monitoring_glyukozy/</param>
         <param name="Рейтинг" noFilter="true">4.7</param>
@@ -229,6 +244,7 @@
         <typePrefix>Системы мониторинга глюкозы</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100016</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/432/3dqqt2sl8yhu73idn2ablvwqpouvsrqh.webp</picture>
         <description>Датчик мониторинга глюкозы Syai X1, 1 шт.. Товар из категории «Системы мониторинга глюкозы» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/monitoring_glyukozy/</param>
         <param name="Рейтинг" noFilter="true">4.7</param>
@@ -243,6 +259,7 @@
         <typePrefix>Системы мониторинга глюкозы</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100017</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/432/3dqqt2sl8yhu73idn2ablvwqpouvsrqh.webp</picture>
         <description>Датчик мониторинга глюкозы Hematonix GS1, 2 шт.. Товар из категории «Системы мониторинга глюкозы» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/monitoring_glyukozy/</param>
         <param name="Рейтинг" noFilter="true">4.7</param>
@@ -257,6 +274,7 @@
         <typePrefix>Системы мониторинга глюкозы</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100018</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/432/3dqqt2sl8yhu73idn2ablvwqpouvsrqh.webp</picture>
         <description>Датчик мониторинга глюкозы Guardian 3 ММТ-7020, 5 шт.. Товар из категории «Системы мониторинга глюкозы» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/monitoring_glyukozy/</param>
         <param name="Рейтинг" noFilter="true">4.8</param>
@@ -271,6 +289,7 @@
         <typePrefix>Системы мониторинга глюкозы</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100019</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/432/3dqqt2sl8yhu73idn2ablvwqpouvsrqh.webp</picture>
         <description>Система мониторинга глюкозы Guardian Link 3 MMT-7910W3 к помпам Medtronic MiniMed 720G, 740G, 780G, 1 шт.. Товар из категории «Системы мониторинга глюкозы» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/monitoring_glyukozy/</param>
         <param name="Рейтинг" noFilter="true">4.7</param>
@@ -284,6 +303,7 @@
         <typePrefix>Системы мониторинга глюкозы</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100020</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/432/3dqqt2sl8yhu73idn2ablvwqpouvsrqh.webp</picture>
         <description>Устройство One-press Serter для установки сенсоров Enlite и Guardian 3, ММТ-7512, 1 шт.. Товар из категории «Системы мониторинга глюкозы» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/monitoring_glyukozy/</param>
         <param name="Рейтинг" noFilter="true">4.7</param>
@@ -298,6 +318,7 @@
         <typePrefix>Системы мониторинга глюкозы</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100021</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/432/3dqqt2sl8yhu73idn2ablvwqpouvsrqh.webp</picture>
         <description>Датчик мониторинга глюкозы Medtrum TouchCare CGM Nano MD3658, 2 шт.. Товар из категории «Системы мониторинга глюкозы» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/monitoring_glyukozy/</param>
         <param name="Рейтинг" noFilter="true">5</param>
@@ -312,6 +333,7 @@
         <typePrefix>Иглы и шприц-ручки для инсулина</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100022</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/736/zqjty68vfx7p58t2iovh6c54gehio9ix.webp</picture>
         <description>Инъекционный порт iPort Advance 6 мм, 10 шт.. Товар из категории «Иглы и шприц-ручки для инсулина» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/shprits_ruchki_i_igly/</param>
         <param name="Рейтинг" noFilter="true">5</param>
@@ -326,6 +348,7 @@
         <typePrefix>Иглы и шприц-ручки для инсулина</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100023</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/736/zqjty68vfx7p58t2iovh6c54gehio9ix.webp</picture>
         <description>Иглы Микро-Файн Плюс / Micro-Fine Plus 32G для шприц-ручек, длина 4 мм, 100 шт.. Товар из категории «Иглы и шприц-ручки для инсулина» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/shprits_ruchki_i_igly/</param>
         <param name="Рейтинг" noFilter="true">5</param>
@@ -340,6 +363,7 @@
         <typePrefix>Иглы и шприц-ручки для инсулина</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100024</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/736/zqjty68vfx7p58t2iovh6c54gehio9ix.webp</picture>
         <description>Иглы ФилФайн / FeelFine 33G для шприц-ручек, ультра-тонкие, длина 4 мм, 100 шт.. Товар из категории «Иглы и шприц-ручки для инсулина» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/shprits_ruchki_i_igly/</param>
         <param name="Рейтинг" noFilter="true">4.7</param>
@@ -353,6 +377,7 @@
         <typePrefix>Иглы и шприц-ручки для инсулина</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100025</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/736/zqjty68vfx7p58t2iovh6c54gehio9ix.webp</picture>
         <description>Шприцы инсулиновые с шагом 1/2 SFM 100МЕ/0,5мл с иглой 30G, 10 шт.. Товар из категории «Иглы и шприц-ручки для инсулина» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/shprits_ruchki_i_igly/</param>
         <param name="Рейтинг" noFilter="true">4.4</param>
@@ -366,6 +391,7 @@
         <typePrefix>Иглы и шприц-ручки для инсулина</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100026</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/736/zqjty68vfx7p58t2iovh6c54gehio9ix.webp</picture>
         <description>Устройство автоматическое Спасилен / Spasilen для самостоятельного проведения инъекций. Товар из категории «Иглы и шприц-ручки для инсулина» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/shprits_ruchki_i_igly/</param>
         <param name="Рейтинг" noFilter="true">4.6</param>
@@ -380,6 +406,7 @@
         <typePrefix>Иглы и шприц-ручки для инсулина</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100027</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/736/zqjty68vfx7p58t2iovh6c54gehio9ix.webp</picture>
         <description>Иглы Микро-Файн Плюс / Micro-Fine Plus 31G для шприц-ручек, длина 5 мм, 100 шт.. Товар из категории «Иглы и шприц-ручки для инсулина» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/shprits_ruchki_i_igly/</param>
         <param name="Рейтинг" noFilter="true">4.8</param>
@@ -393,6 +420,7 @@
         <typePrefix>Иглы и шприц-ручки для инсулина</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100028</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/736/zqjty68vfx7p58t2iovh6c54gehio9ix.webp</picture>
         <description>Инъекционный порт iPort Advance 6 мм, 1 шт.. Товар из категории «Иглы и шприц-ручки для инсулина» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/shprits_ruchki_i_igly/</param>
         <param name="Рейтинг" noFilter="true">4.4</param>
@@ -406,6 +434,7 @@
         <typePrefix>Иглы и шприц-ручки для инсулина</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100029</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/736/zqjty68vfx7p58t2iovh6c54gehio9ix.webp</picture>
         <description>Шприцы инсулиновые БО 100МЕ/0,3мл с иглой 31G, 10 шт.. Товар из категории «Иглы и шприц-ручки для инсулина» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/shprits_ruchki_i_igly/</param>
         <param name="Рейтинг" noFilter="true">4.7</param>
@@ -420,6 +449,7 @@
         <typePrefix>Уход за кожей</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100030</vendorCode>
+        <picture>https://diamarka.com/upload/resize_cache/webp/iblock/36e/9gatkjeo75trk8799gfbscme3ch98v9v.webp</picture>
         <description>Крем Заживление 4SKINcare для рук и тела, 75мл. Товар из категории «Уход за кожей» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/ukhod_za_kozhey/</param>
         <param name="Рейтинг" noFilter="true">4.8</param>
@@ -434,6 +464,7 @@
         <typePrefix>Уход за кожей</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100031</vendorCode>
+        <picture>https://diamarka.com/upload/resize_cache/webp/iblock/36e/9gatkjeo75trk8799gfbscme3ch98v9v.webp</picture>
         <description>Крем-уход для рук 4SKINcare SOS-восстановление ногтей и кутикулы, 75мл. Товар из категории «Уход за кожей» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/ukhod_za_kozhey/</param>
         <param name="Рейтинг" noFilter="true">4.8</param>
@@ -447,6 +478,7 @@
         <typePrefix>Уход за кожей</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100032</vendorCode>
+        <picture>https://diamarka.com/upload/resize_cache/webp/iblock/36e/9gatkjeo75trk8799gfbscme3ch98v9v.webp</picture>
         <description>Обезболивающий гель Light Frost, 30 мл. Товар из категории «Уход за кожей» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/ukhod_za_kozhey/</param>
         <param name="Рейтинг" noFilter="true">4.6</param>
@@ -460,6 +492,7 @@
         <typePrefix>Уход за кожей</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100033</vendorCode>
+        <picture>https://diamarka.com/upload/resize_cache/webp/iblock/36e/9gatkjeo75trk8799gfbscme3ch98v9v.webp</picture>
         <description>Спрей-заморозка АфаФрост, 200мл. Товар из категории «Уход за кожей» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/ukhod_za_kozhey/</param>
         <param name="Рейтинг" noFilter="true">4.9</param>
@@ -474,6 +507,7 @@
         <typePrefix>Уход за кожей</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100034</vendorCode>
+        <picture>https://diamarka.com/upload/resize_cache/webp/iblock/36e/9gatkjeo75trk8799gfbscme3ch98v9v.webp</picture>
         <description>Крем 4SKINcare для ног Питание и защита с Ag+, 75мл. Товар из категории «Уход за кожей» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/ukhod_za_kozhey/</param>
         <param name="Рейтинг" noFilter="true">4.6</param>
@@ -488,6 +522,7 @@
         <typePrefix>Уход за кожей</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100035</vendorCode>
+        <picture>https://diamarka.com/upload/resize_cache/webp/iblock/36e/9gatkjeo75trk8799gfbscme3ch98v9v.webp</picture>
         <description>Крем-комплекс 4SKINcare для очень сухой кожи Увлажнение, для рук, ног и тела, 75мл. Товар из категории «Уход за кожей» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/ukhod_za_kozhey/</param>
         <param name="Рейтинг" noFilter="true">4.5</param>
@@ -501,6 +536,7 @@
         <typePrefix>Уход за кожей</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100036</vendorCode>
+        <picture>https://diamarka.com/upload/resize_cache/webp/iblock/36e/9gatkjeo75trk8799gfbscme3ch98v9v.webp</picture>
         <description>Крем для ухода за кожей Диаультрадерм Сильвер, 75 мл.. Товар из категории «Уход за кожей» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/ukhod_za_kozhey/</param>
         <param name="Рейтинг" noFilter="true">5</param>
@@ -514,6 +550,7 @@
         <typePrefix>Уход за кожей</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100037</vendorCode>
+        <picture>https://diamarka.com/upload/resize_cache/webp/iblock/36e/9gatkjeo75trk8799gfbscme3ch98v9v.webp</picture>
         <description>Крем для ног Диаультрадерм® Сильвер Professional, 670 ml. Товар из категории «Уход за кожей» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/ukhod_za_kozhey/</param>
         <param name="Рейтинг" noFilter="true">4.9</param>
@@ -527,6 +564,7 @@
         <typePrefix>Продукты без сахара</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100038</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/692/xh8twxzyet9fd5lfugcg4g9ogywhhg8e.webp</picture>
         <description>Панкейк без сахара Snaq Fabriq Мягкая карамель 45гр. Товар из категории «Продукты без сахара» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/produkty_bez_sakhara/</param>
         <param name="Рейтинг" noFilter="true">4.8</param>
@@ -540,6 +578,7 @@
         <typePrefix>Продукты без сахара</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100039</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/692/xh8twxzyet9fd5lfugcg4g9ogywhhg8e.webp</picture>
         <description>Чипсы цельнозерновые Snaq Fabriq Сметана и зеленый лук, 50 гр. Товар из категории «Продукты без сахара» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/produkty_bez_sakhara/</param>
         <param name="Рейтинг" noFilter="true">5</param>
@@ -553,6 +592,7 @@
         <typePrefix>Продукты без сахара</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100040</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/692/xh8twxzyet9fd5lfugcg4g9ogywhhg8e.webp</picture>
         <description>Батончик CHIKALAB глазированный с начинкой Хрустящее печенье 60гр.. Товар из категории «Продукты без сахара» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/produkty_bez_sakhara/</param>
         <param name="Рейтинг" noFilter="true">4.9</param>
@@ -566,6 +606,7 @@
         <typePrefix>Продукты без сахара</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100041</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/692/xh8twxzyet9fd5lfugcg4g9ogywhhg8e.webp</picture>
         <description>Батончик CHIKALAB глазированный с начинкой Клубника со сливками 60гр.. Товар из категории «Продукты без сахара» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/produkty_bez_sakhara/</param>
         <param name="Рейтинг" noFilter="true">4.6</param>
@@ -579,6 +620,7 @@
         <typePrefix>Продукты без сахара</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100042</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/692/xh8twxzyet9fd5lfugcg4g9ogywhhg8e.webp</picture>
         <description>Батончик CHIKALAB глазированный с начинкой Арахис 60гр.. Товар из категории «Продукты без сахара» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/produkty_bez_sakhara/</param>
         <param name="Рейтинг" noFilter="true">4.8</param>
@@ -592,6 +634,7 @@
         <typePrefix>Продукты без сахара</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100043</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/692/xh8twxzyet9fd5lfugcg4g9ogywhhg8e.webp</picture>
         <description>Батончик CHIKALAB глазированный с начинкой Кокос 60гр.. Товар из категории «Продукты без сахара» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/produkty_bez_sakhara/</param>
         <param name="Рейтинг" noFilter="true">4.8</param>
@@ -605,6 +648,7 @@
         <typePrefix>Продукты без сахара</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100044</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/692/xh8twxzyet9fd5lfugcg4g9ogywhhg8e.webp</picture>
         <description>Драже CHIKALAB Шарики кукурузные в белом шоколаде 120 гр.. Товар из категории «Продукты без сахара» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/produkty_bez_sakhara/</param>
         <param name="Рейтинг" noFilter="true">4.8</param>
@@ -618,6 +662,7 @@
         <typePrefix>Продукты без сахара</typePrefix>
         <vendor>ДиаМарка</vendor>
         <vendorCode>100045</vendorCode>
+        <picture>https://diamarka.com/upload/dev2fun.imagecompress/webp/iblock/692/xh8twxzyet9fd5lfugcg4g9ogywhhg8e.webp</picture>
         <description>Шоколад Победа Чаржед Молочный с фундуком без сахара, 90г.. Товар из категории «Продукты без сахара» интернет-магазина ДиаМарка.</description>
         <param name="Источник данных" noFilter="true">https://diamarka.com/produkty_bez_sakhara/</param>
         <param name="Рейтинг" noFilter="true">4.6</param>
