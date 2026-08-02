@@ -1,0 +1,35 @@
+{
+  "client": "vitamir",
+  "displayName": "VITAMIR",
+  "sourceUrl": "https://vitamir.ru/",
+  "savedAt": "2026-08-03 00:06:17 MSK",
+  "format": "YML/XML",
+  "categoriesCount": 25,
+  "offersCount": 100,
+  "categoryAssignmentsCount": 150,
+  "productsPerCategory": 6,
+  "validation": "valid XML; 6 offers per category; every offer has a price and unique picture",
+  "sha256": "c974a61af70206147483b4ff073d51bcc81ebdf0c78c685db084233cb2bde38b",
+  "prices": "invented demo prices; the source site does not publish prices",
+  "supplementedCategories": {
+    "623": [
+      "Метилкобаламин Витамин B12 VITAMIR PRO",
+      "Витамин B12 цианокобаламин",
+      "Фолиевая кислота"
+    ],
+    "631": [
+      "Черника Форте для детей VITAMIR PRO",
+      "Пробиотик + Пребиотик Пробифиактив Синбиотик для детей VITAMIR PRO",
+      "Вирусактив детский"
+    ],
+    "62": [
+      "Гидронорм",
+      "Шиповник Форте"
+    ],
+    "90": [
+      "Селен VITAMIR PRO",
+      "Селен",
+      "Цинк хелат VITAMIR PRO"
+    ]
+  }
+}
