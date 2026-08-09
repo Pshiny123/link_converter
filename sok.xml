@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-08-09 19:35">
+  <shop>
+    <name>SOK Coffee</name>
+    <company>СОК Кофе</company>
+    <url>https://sok.coffee/</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Обжаренный кофе в зернах</category>
+      <category id="2">Мерч</category>
+      <category id="3">Подарочные сертификаты</category>
+      <category id="4">Аксессуары</category>
+      <category id="11" parentId="1">Кофе для эспрессо</category>
+      <category id="12" parentId="1">Кофе для фильтра</category>
+      <category id="13" parentId="1">Кофе в дрип-пакетах</category>
+      <category id="14" parentId="1">Семпл-боксы</category>
+      <category id="41" parentId="4">Фильтры</category>
+      <category id="42" parentId="4">Чистящие средства</category>
+    </categories>
+    <offers>
+      <offer id="5948" available="true">
+        <purchasable>true</purchasable>
+        <name>БРАЗИЛИЯ СЕМЬЯ БАРБОСА</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/braziliya_semya_barbosa/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/05d/u0vjt60u50y8qtgt36undxxgov9h0828.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>696</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Тёмный шоколад, вишня, сладкие специи.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="5791" available="true">
+        <purchasable>true</purchasable>
+        <name>БРАЗИЛИЯ ХОРХЕ НАЙМЕГ</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/braziliya_khorkhe_naymeg/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/1f6/pf1bkqkpku6xtza62qr3zvo4fp1euf66.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>762</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Жёлтая слива, молочный шоколад, грецкий орех.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="5123" available="true">
+        <purchasable>true</purchasable>
+        <name>КОЛУМБИЯ ДЕКАФ ХОСВЕ ВАЛЕНСИЯ — Кофе для эспрессо</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/kolumbiya_dekaf_khosve_valensiya/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/b4d/gwj1edxx420rlet1qdh2s9t5zjn6svg4.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>844</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Ржаной хлеб, тёмный шоколад, ваниль.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="5094" available="true">
+        <purchasable>true</purchasable>
+        <name>БЛЕНД ИСТОК</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/blend_istok/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/b9c/nddzwvcmx1dnazf32ybpvtm1hgzjcsfn.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>634</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Грецкий орех, финик, сладкие специи, цитрусы.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="4680" available="true">
+        <purchasable>true</purchasable>
+        <name>ЭФИОПИЯ ВОЛЛАГА АНФИЛО</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/efiopiya_vollaga_anfilo/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/7b3/tveczcy29f3ic8qli04hv9bz9ty5gzo9.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>620</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Кардамон, красный апельсин, зелёный чай.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="887" available="true">
+        <purchasable>true</purchasable>
+        <name>ЭФИОПИЯ ТРАКОН</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/kofe_v_zernakh_efiopiya_trakon/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/f8c/bf7pdkh0i0rcel81l0e2teybg3250m3k.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>616</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Монпансье, финики, апельсин.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="813" available="true">
+        <purchasable>true</purchasable>
+        <name>БРАЗИЛИЯ КАСТАНЬЯ</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/braziliya_kastanya/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/c78/26o1tob1rsauihavl23lq03fn0n3eol9.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>634</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Тёмный шоколад, нуга, сухофрукты.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="886" available="true">
+        <purchasable>true</purchasable>
+        <name>КЕНИЯ ТЕЙЛОР ВИНЧ</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/kofe_v_zernakh_keniya_teylor_vinch/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/ce2/m0x8kov8k5iw0ne743iaybx8su7u65w8.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>692</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Ягодная пастила, лайм, белый чай.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="5907" available="true">
+        <purchasable>true</purchasable>
+        <name>ЭФИОПИЯ АРИЧА</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/efiopiya_aricha/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/38d/m116h2jlwrjlz56hy3s3fo8zwui3db9e.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>611</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Абрикос, красный апельсин, цветы.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="5881" available="true">
+        <purchasable>true</purchasable>
+        <name>КОЛУМБИЯ ПАПАЯН</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/kolumbiya_papayan/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/c4a/idefjjvrvgw7pnbjclt8hz1avyd5lyjy.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>668</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Вяленая клюква, цветы, красное яблоко.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="4489" available="true">
+        <purchasable>true</purchasable>
+        <name>БРАЗИЛИЯ ХЬЮГО БРИТО</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/braziliya_khyugo_brito/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/ee6/v73p51wsd1u7kd2u4ozw45z6ue3cyah4.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>616</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Молочный шоколад, пекан, финики.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="792" available="true">
+        <purchasable>true</purchasable>
+        <name>ЭСПРЕССО СМЕСЬ МИЛК</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/kofe_v_zernakh_espresso_smes_milk/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/604/d9ip4ynse96scudr3ch09ga8ddk21rrv.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>634</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Орехи, сухофрукты, цветы и шоколад.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="756" available="true">
+        <purchasable>true</purchasable>
+        <name>БЛЕНД НА ЗАВТРАК</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/kofe_v_zernakh_blend_na_zavtrak/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/293/r2llfmw874r1h2d19nxo664kyd6pr0dn.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>600</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Темный шоколад, специи.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="4647" available="true">
+        <purchasable>true</purchasable>
+        <name>БРАЗИЛИЯ ДА ЛАГОА</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/braziliya_da_lagoa/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/9e5/wms3rpgxzmvjc8zbjgipjbcsnn49nynt.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>620</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Бобы тонка, молочный шоколад, тёмная слива.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="793" available="true">
+        <purchasable>true</purchasable>
+        <name>БРАЗИЛИЯ ДЕ БОМ ГОСТО</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/kofe_v_zernakh_braziliya_de_bom_gosto/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/8ca/1aplb1hiciqj7ss63cao7cta4wf1w7cb.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>610</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Жареный фундук, темный шоколад.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="758" available="true">
+        <purchasable>true</purchasable>
+        <name>БРАЗИЛИЯ ФЕНИКС</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/kofe_v_zernakh_braziliya_feniks/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/f75/qle00q3fwjnmhma6qhlhxo14pt51lei2.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>620</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Карамель, какао и кешью.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="757" available="true">
+        <purchasable>true</purchasable>
+        <name>БЛЕНД САФАРИ</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/kofe_v_zernakh_blend_safari/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/447/xtvx8brvrr6su6kjd5aetmyoizrr6a27.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>634</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Орехи, сухофрукты, цветы, шоколад.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="890" available="true">
+        <purchasable>true</purchasable>
+        <name>БЛЕНД МАГОРИ</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_espresso/kofe_v_zernakh_blend_magori/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>11</categoryId>
+        <picture>https://sok.coffee/upload/iblock/04e/mbj2qdczf60obsku1w1e56nr6oqvr792.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>646</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Мускатный орех, бергамот, тёмный шоколад.</description>
+        <param name="Раздел">Кофе для эспрессо</param>
+      </offer>
+      <offer id="6104" available="true">
+        <purchasable>true</purchasable>
+        <name>БРАЗИЛИЯ ФЛАВИО РЕЙС</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/braziliya_flavio_reys/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/885/rtxh6zwoproc9gaah1s3t7hprnxcvnuy.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>806</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Шоколадный бисквит, вишнёвый ликёр, пекан.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="6087" available="true">
+        <purchasable>true</purchasable>
+        <name>КОЛУМБИЯ ДЖЕМ ДЕКАФ</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/kolumbiya_dzhem_dekaf/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/4c0/om4qvn34biqzp6fnviatzpe9acz95sz9.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>926</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Сахар мусковадо, тёмные ягоды, красное яблоко.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="6053" available="true">
+        <purchasable>true</purchasable>
+        <name>КОЛУМБИЯ РОКЕТ ФЛАУЭР</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/kolumbiya_roket_flauer/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/018/rywv6p1i690cx45yh0aqj0pn6xb6c5wk.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>1282</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Фиалка, бергамот, ваниль.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="5592" available="true">
+        <purchasable>true</purchasable>
+        <name>БРАЗИЛИЯ ДАНИЛО БАРБОСА</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/braziliya_danilo_barbosa/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/e22/vf079ljqo3e17fpnfxrm8i6zqxozl37p.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>1042</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Ром, темные ягоды, молочный шоколад.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="5589" available="true">
+        <purchasable>true</purchasable>
+        <name>ЙЕМЕН АЛЬ ХАЙМА</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/yemen_al_khayma/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/bee/5g55amqjeelfaflniueacm0qiurw6bby.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>2488</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Манго, вино, жасмин, цитрусовые.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="5127" available="true">
+        <purchasable>true</purchasable>
+        <name>БРАЗИЛИЯ ОСМАР НУНЕС</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/braziliya_osmar_nunes/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/b43/nb2ya2hu51djlab9usm0272bpfj9eog8.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>870</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Макадамия, груша, красные ягоды.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="5126" available="true">
+        <purchasable>true</purchasable>
+        <name>ЭФИОПИЯ ШАРО</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/efiopiya_sharo/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/d61/eaf8sxava7k4jstdlrhk3me1j962f25h.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>894</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Ликёрные ноты, нектарин, клубничный джем.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="5124" available="true">
+        <purchasable>true</purchasable>
+        <name>КОЛУМБИЯ ДЕКАФ ХОСВЕ ВАЛЕНСИЯ — Кофе для фильтра</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/kofe_v_zernakh_kolumbiya_dekaf_khosve_valensiya/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/11d/07l2eaypl13q8yqd9gsuc5yt74vp78qe.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>844</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Красная смородина, тёмный шоколад, ваниль.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="5790" available="true">
+        <purchasable>true</purchasable>
+        <name>ЭФИОПИЯ АЛЕТА ВОНДО</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/efiopiya_aleta_vondo/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/419/gg63i1z3hxvpeimj5xhws4439fitzc8n.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>694</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Абрикос, цветы, апельсин.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="5593" available="true">
+        <purchasable>true</purchasable>
+        <name>БРАЗИЛИЯ ВИРЖИЛИО КУГО</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/braziliya_virzhilio_kugo/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/859/qvbl8lu4vk0w9cci2vqatfswzqxsi5qq.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>696</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Пекан, бобы тонка, чёрная смородина.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="5591" available="true">
+        <purchasable>true</purchasable>
+        <name>КОЛУМБИЯ ХАЙРО АРСИЛА</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/kolumbiya_khayro_arsila/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/3c4/gjj5uzo04e4euvh1kvwr06e0evg681gx.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>959</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Чёрный чай, сухофрукты, цитрусовые.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="5203" available="true">
+        <purchasable>true</purchasable>
+        <name>БАТЧ-БРЮ СОЧНЫЙ</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/batch_bryu_sochnyy/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/fd6/p6ovj6314zx6h5se3b9d1edvs5m2p4ny.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>724</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Лаванда, гранат, цветы, ежевика.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="4486" available="true">
+        <purchasable>true</purchasable>
+        <name>БРАЗИЛИЯ ГАБРИЭЛЬ НУНЕС</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/braziliya_gabriel_nunes/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/eca/8r5zt0se3icun8039ibcaidf6fbvb43g.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>826</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Красные ягоды, апельсин, ликерные ноты.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="5562" available="true">
+        <purchasable>true</purchasable>
+        <name>ЭФИОПИЯ АДОЛА</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/efiopiya_adola/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/694/d4h0zgfpncyr2b4f7ikjww3ki7zm1tty.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>798</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Клубничный джем, чёрный чай, цветы.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="3257" available="true">
+        <purchasable>true</purchasable>
+        <name>ЭФИОПИЯ ГЕЛАНА</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/efiopiya_gelana/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/df9/5pimazadkxyl4h622l8udgvlcti9y6qq.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>830</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Апельсин, сухофрукты, чёрный чай.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="4810" available="true">
+        <purchasable>true</purchasable>
+        <name>ЭФИОПИЯ УРАГА ЭБЕЛА</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/efiopiya_uraga_ebela/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/a06/vbucnk1678qqjbej6dwpa21if1a5dzm8.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>934</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Виноград, темный шоколад, цитрусы.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="5521" available="true">
+        <purchasable>true</purchasable>
+        <name>КЕНИЯ ОСИНДИ</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/keniya_osindi/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/5f4/tl09swvd8ntgknzx6gzf5050s342fi8r.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>724</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Вишня, цитрусовые, чёрный чай.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="4808" available="true">
+        <purchasable>true</purchasable>
+        <name>КЕНИЯ НДУНДУРИ</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/keniya_ndunduri/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/a69/ezdozsi57dz3fk2g533ylh6w71q616n7.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>900</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Цитрусовые, томаты, чёрный чай.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="4807" available="true">
+        <purchasable>true</purchasable>
+        <name>КЕНИЯ МАЧАКОС</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/keniya_machakos/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/79c/dwthr79908zlg6gcdn14uur2ggpp542s.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>904</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Мандарин, темные ягоды, черный чай.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="4769" available="true">
+        <purchasable>true</purchasable>
+        <name>КЕНИЯ РИАРА</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_dlya_filtra/keniya_riara/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>12</categoryId>
+        <picture>https://sok.coffee/upload/iblock/720/9bbzmpbmoq7ahk9yhzd4937ho2f0ses3.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>928</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Клюквенный джем, шиповник, лайм.</description>
+        <param name="Раздел">Кофе для фильтра</param>
+      </offer>
+      <offer id="5600" available="true">
+        <purchasable>true</purchasable>
+        <name>Ассорти дрип-пакетов, 5 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/assorti_drip_paketov_braziliya_kolumbiya_efiopiya_5_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/fa3/rx1y6ed3fsc7glvlwkpmwb12led78i97.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>539</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Ассорти дрип-пакетов, 5 шт</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5594" available="true">
+        <purchasable>true</purchasable>
+        <name>Дрипы в коробке КОЛУМБИЯ ДЕКАФ ХОСВЕ ВАЛЕНСИЯ, 5 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/drip_kolumbiya_dekaf_khosve_valensiya_5_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/52a/xc3mc73fj9j992xd8yxn645q8w82c7kq.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>539</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Ржаной хлеб, тёмный шоколад, ваниль.</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5940" available="true">
+        <purchasable>true</purchasable>
+        <name>Ассорти дрип-пакетов, 18 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/assorti_drip_paketov_18_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/fa6/es4s251h0epce69cfvurpsa43obcvs5w.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>1599</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Ассорти дрип-пакетов, 18 шт</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5941" available="true">
+        <purchasable>true</purchasable>
+        <name>Ассорти дрип-пакетов, 9 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/assorti_drip_paketov_9_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/acc/cback61hhbwm8op0ctzwc26yp23nyngi.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>828</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Ассорти дрип-пакетов, 9 шт</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5599" available="true">
+        <purchasable>true</purchasable>
+        <name>Дрипы в коробке БЛЕНД САФАРИ, 18 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/dripy_v_korobke_blend_safari_18_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/663/izo1wwtgv3230tdnrk1amwlirpnt031f.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>1599</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Орехи, сухофрукты, цветы, шоколад.</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5598" available="true">
+        <purchasable>true</purchasable>
+        <name>Дрипы в коробке БЛЕНД САФАРИ, 9 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/dripy_v_korobke_blend_safari_9_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/9dc/fybwlmvmyki5psftc4aq1f8t8jjc1c81.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>828</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Орехи, сухофрукты, цветы, шоколад.</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5597" available="true">
+        <purchasable>true</purchasable>
+        <name>Дрип в коробке БЛЕНД САФАРИ, 5 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/drip_v_korobke_blend_safari_5_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/8c5/y0b9c5r3jm9v0fy0s3nljogegt3n1r4s.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>539</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Орехи, сухофрукты, цветы, шоколад.</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5596" available="true">
+        <purchasable>true</purchasable>
+        <name>Дрипы в коробке КОЛУМБИЯ ДЕКАФ ХОСВЕ ВАЛЕНСИЯ, 18 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/dripy_v_korobke_kolumbiya_dekaf_khosve_valensiya_18_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/57c/u2i5h40kauxwxj8gtic88dgkz6q9yt0p.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>1599</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Ржаной хлеб, тёмный шоколад, ваниль.</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5595" available="true">
+        <purchasable>true</purchasable>
+        <name>Дрипы в коробке КОЛУМБИЯ ДЕКАФ ХОСВЕ ВАЛЕНСИЯ, 9 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/dripy_v_korobke_kolumbiya_dekaf_khosve_valensiya_9_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/18b/pq3kfr0sgg6318smxb2vra8alx22c9wu.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>828</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Ржаной хлеб, тёмный шоколад, ваниль.</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5909" available="true">
+        <purchasable>true</purchasable>
+        <name>Дрип БАТЧ-БРЮ СОЧНЫЙ, 1 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/drip_batch_bryu_sochnyy_1_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/a75/l1tdbgklgwhfm9e37ifiqg6j3d3g9onw.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>99</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Орехи, сухофрукты, цветы, шоколад.</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5908" available="true">
+        <purchasable>true</purchasable>
+        <name>Дрип ЭФИОПИЯ ГЕЛАНА, 1 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/drip_efiopiya_gelana_1_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/a75/l1tdbgklgwhfm9e37ifiqg6j3d3g9onw.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>99</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Цветы, манго, нектарин.</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5584" available="true">
+        <purchasable>true</purchasable>
+        <name>Дрип Бразилия СЕМЬЯ БАРБОСА, 1 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/drip_braziliya_semya_barbosa_1_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/41f/7q03ugd3eo6dcq6y6l5ojnn0o1pzwgpu.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>99</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Ром, темные ягоды, молочный шоколад.</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5583" available="true">
+        <purchasable>true</purchasable>
+        <name>Дрип Бразилия ОСМАР НУНЕС, 1 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/drip_braziliya_osmar_nunes_1_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/41f/7q03ugd3eo6dcq6y6l5ojnn0o1pzwgpu.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>99</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Макадамия, груша, красные ягоды.</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5582" available="true">
+        <purchasable>true</purchasable>
+        <name>Дрип Кения РИАРА, 1 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/drip_keniya_riara_1_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/41f/7q03ugd3eo6dcq6y6l5ojnn0o1pzwgpu.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>99</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Клюквенный джем, шиповник, лайм.</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5580" available="true">
+        <purchasable>true</purchasable>
+        <name>Дрип КОЛУМБИЯ ДЕКАФ ХОСВЕ ВАЛЕНСИЯ, 1 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/drip_kolumbiya_dekaf_khosve_valensiya_1_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/41f/7q03ugd3eo6dcq6y6l5ojnn0o1pzwgpu.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>99</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Ржаной хлеб, тёмный шоколад, ваниль.</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5579" available="true">
+        <purchasable>true</purchasable>
+        <name>Дрип БЛЕНД САФАРИ, 1 шт</name>
+        <url>https://sok.coffee/catalog/kofe/kofe_v_drip_paketakh/drip_braziliya_efiopiya_safari_1_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>13</categoryId>
+        <picture>https://sok.coffee/upload/iblock/41f/7q03ugd3eo6dcq6y6l5ojnn0o1pzwgpu.webp</picture>
+        <currencyId>RUR</currencyId>
+        <price>99</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Орехи, сухофрукты, цветы, шоколад.</description>
+        <param name="Раздел">Кофе в дрип-пакетах</param>
+      </offer>
+      <offer id="5779" available="true">
+        <purchasable>true</purchasable>
+        <name>Вместительный шопер</name>
+        <url>https://sok.coffee/catalog/merch/vmestitelnyy_shoper/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/dd1/5bp877pediw3s3gmad51jwzvdb2o2yl0.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>1740</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Вместительный шопер</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="5556" available="true">
+        <purchasable>true</purchasable>
+        <name>Сумка для сочной жизни</name>
+        <url>https://sok.coffee/catalog/merch/sumka_dlya_sochnoy_zhizni/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/687/1t42f1ghumtf7ilu0bc1wqrpvq3n9x3y.jpeg</picture>
+        <currencyId>RUR</currencyId>
+        <price>3500</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Сумка для сочной жизни</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="5793" available="true">
+        <purchasable>true</purchasable>
+        <name>Футболка «Символы»</name>
+        <url>https://sok.coffee/catalog/merch/futbolka_simvoly/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/55c/aufed2bndmalq2qhe0e2eq03qzjmz9mq.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>1700</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Футболка «Символы»</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="5792" available="true">
+        <purchasable>true</purchasable>
+        <name>Футболка «Летающая тарелка»</name>
+        <url>https://sok.coffee/catalog/merch/futbolka_letayushchaya_tarelka/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/6e9/pkcch8g9dvp303f6dvs6u8smhzkl8yf2.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>1700</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Футболка «Летающая тарелка»</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="5615" available="true">
+        <purchasable>true</purchasable>
+        <name>Керамическая кружка зеленая СОК 250 мл</name>
+        <url>https://sok.coffee/catalog/merch/keramicheskaya_kruzhka_zelenaya_sok_250_ml/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/c19/i7s2gkkov952hoykk41g9weor18dcaou.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>2190</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Керамическая кружка зеленая СОК 250 мл</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="5614" available="true">
+        <purchasable>true</purchasable>
+        <name>Керамический чашка желтая СОК 250 мл</name>
+        <url>https://sok.coffee/catalog/merch/keramicheskiy_chashka_zheltaya_sok_250_ml/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/c28/2gsdw0k9akrgyttrtvhwykgvkci0mmgu.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>2190</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Керамический чашка желтая СОК 250 мл</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="5613" available="true">
+        <purchasable>true</purchasable>
+        <name>Керамическая кружка белая СОК 250 мл</name>
+        <url>https://sok.coffee/catalog/merch/keramicheskaya_kruzhka_sok_250_ml/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/1db/y1x32unzg2xfusgskc4xv9j6jdxkhu9y.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>2190</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Керамическая кружка белая СОК 250 мл</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="5612" available="true">
+        <purchasable>true</purchasable>
+        <name>Керамический чашка белая СОК 250 мл</name>
+        <url>https://sok.coffee/catalog/merch/keramicheskiy_chashka_belaya_sok_250_ml/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/9bc/ypm7mi1s29amq3qua3q8tgmcq6fd09yi.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>2190</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Керамический чашка белая СОК 250 мл</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="5558" available="true">
+        <purchasable>true</purchasable>
+        <name>Бутылка для воды</name>
+        <url>https://sok.coffee/catalog/merch/butylka_dlya_vody/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/1e5/gv6proavkhwij3ilpyx3y1dek236rn1c.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>920</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Бутылка для воды</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="4193" available="true">
+        <purchasable>true</purchasable>
+        <name>Чехол для каппинговой ложки</name>
+        <url>https://sok.coffee/catalog/merch/chekhol_dlya_kappingovoy_lozhki/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/1af/rxf0rejww86ua3p75bmt52fhn2n4izuw.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>1200</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Чехол для каппинговой ложки</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="4191" available="true">
+        <purchasable>true</purchasable>
+        <name>Дождевик</name>
+        <url>https://sok.coffee/catalog/merch/dozhdevik/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/f22/f7i1zz9dnbfa1z4afmljh1uiztlaxavp.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>2700</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Дождевик</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="4188" available="true">
+        <purchasable>true</purchasable>
+        <name>Футболка «ПЕЙ ЧЕРНЫЙ»</name>
+        <url>https://sok.coffee/catalog/merch/futbolka_pey_chernyy/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/8f6/liwydgf91imck6z0te0qhmrce6aje23g.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>1700</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Футболка «ПЕЙ ЧЕРНЫЙ»</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="4187" available="true">
+        <purchasable>true</purchasable>
+        <name>Футболка «ДЛЯ КАППИНГА»</name>
+        <url>https://sok.coffee/catalog/merch/futbolka_dlya_kappinga/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/227/ik0vztqcex9xcamhhvygb5tt35b76cby.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>1700</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Футболка «ДЛЯ КАППИНГА»</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="5559" available="true">
+        <purchasable>true</purchasable>
+        <name>Ремувка</name>
+        <url>https://sok.coffee/catalog/merch/remuvka/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/674/ex01r89f1vawg9y7hnlxs3cdjdvzfixv.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>290</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Ремувка</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="5557" available="true">
+        <purchasable>true</purchasable>
+        <name>Попсокет</name>
+        <url>https://sok.coffee/catalog/merch/popsoket/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/8b8/enswmwv18r0r8du66xujgqydks46wbw2.jpeg</picture>
+        <currencyId>RUR</currencyId>
+        <price>90</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Попсокет</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="4192" available="true">
+        <purchasable>true</purchasable>
+        <name>Металлический брелок</name>
+        <url>https://sok.coffee/catalog/merch/metallicheskiy_brelok/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/f79/uy0ktpv2r1javhi33g9kv9aipbyix525.jpeg</picture>
+        <currencyId>RUR</currencyId>
+        <price>300</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Металлический брелок</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="4190" available="true">
+        <purchasable>true</purchasable>
+        <name>Авоська, которая выдержит все *даже твой кофейный запас*</name>
+        <url>https://sok.coffee/catalog/merch/avoska_kotoraya_vyderzhit_vse_dazhe_tvoy_kofeynyy_zapas/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/1bc/kb9gf6ewbekooulvtmjjne9mwwa2af7y.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>780</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Авоська, которая выдержит все *даже твой кофейный запас*</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="4189" available="true">
+        <purchasable>true</purchasable>
+        <name>Объёмные стикеры с кофейным вайбом</name>
+        <url>https://sok.coffee/catalog/merch/obyemnye_stikery_s_kofeynym_vaybom/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/ec5/7vut7hg6pmd16qbv48wvfawh80jdtr72.jpeg</picture>
+        <currencyId>RUR</currencyId>
+        <price>290</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Объёмные стикеры с кофейным вайбом</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="859" available="true">
+        <purchasable>true</purchasable>
+        <name>Стикер-пак</name>
+        <url>https://sok.coffee/catalog/merch/stiker_pak/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>2</categoryId>
+        <picture>https://sok.coffee/upload/iblock/70b/7zpvwexmqo8o1s640qkuxq79318x5d6i.jpeg</picture>
+        <currencyId>RUR</currencyId>
+        <price>100</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Стикер-пак</description>
+        <param name="Раздел">Мерч</param>
+      </offer>
+      <offer id="891" available="true">
+        <purchasable>true</purchasable>
+        <name>Электронный подарочный сертификат</name>
+        <url>https://sok.coffee/catalog/podarochnye_sertifikaty/elektronnyy_podarochnyy_sertifikat8180/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>3</categoryId>
+        <picture>https://sok.coffee/upload/iblock/34d/aa9mzwfdhp0wrjw2msezkrvgl6fvqyq6.png</picture>
+        <currencyId>RUR</currencyId>
+        <price>1000</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Электронный подарочный сертификат</description>
+        <param name="Раздел">Подарочные сертификаты</param>
+      </offer>
+      <offer id="772" available="true">
+        <purchasable>true</purchasable>
+        <name>Фильтры бумажные для машин фильтр-кофе 85/245 мм (уп. 250 шт)</name>
+        <url>https://sok.coffee/catalog/aksessuary/filtry/filtry_bumazhnye_dlya_mashin_filtr_kofe_85_245_mm_up_250_sht/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>41</categoryId>
+        <picture>https://sok.coffee/upload/iblock/186/cwokcj4f7qjw3rxj6mf5eypq3wkxwjxo.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>1250</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>Фильтры бумажные для машин фильтр-кофе 85/245 мм (уп. 250 шт)</description>
+        <param name="Раздел">Фильтры</param>
+      </offer>
+      <offer id="779" available="true">
+        <purchasable>true</purchasable>
+        <name>CAFEDEM-G21 Средство для удаления кофейных масел</name>
+        <url>https://sok.coffee/catalog/aksessuary/chistyashchie_sredstva/cafedem-g21-sredstvo-dlya-udaleniya-kofeynykh-masel/</url>
+        <vendor>SOK Coffee</vendor>
+        <categoryId>42</categoryId>
+        <picture>https://sok.coffee/upload/iblock/ade/y1re4j3yr8gp8t1jb401aa1dvmxxbo8m.jpg</picture>
+        <currencyId>RUR</currencyId>
+        <price>1600</price>
+        <store>true</store>
+        <delivery>true</delivery>
+        <description>CAFEDEM-G21 Средство для удаления кофейных масел</description>
+        <param name="Раздел">Чистящие средства</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
+
