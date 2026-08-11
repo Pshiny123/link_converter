@@ -122,7 +122,7 @@
         
         <param name="Размер">18</param>
       </offer>
-      <offer id="38352" available="true" group_id="grp-207795712645ab92">
+      <offer id="38352" available="true">
         <name>Кольцо из желтого золота с бриллиантом</name>
         <shortName>Кольцо из желтого золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota_s_brilliantom_97/</url>
@@ -140,13 +140,13 @@
         <price>269277</price>
         <barcode>2000002603191</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с двумя камнями. Вес: 2.66. Описание камней: 1Кр57-0,53-8-4/7А. Размер: 18</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с двумя камнями</param>
+        <param name="Вес">2.66</param>
+        <param name="Описание камней">1Кр57-0,53-8-4/7А</param>
         <param name="Размер">18</param>
       </offer>
-      <offer id="38351" available="true" group_id="grp-207795712645ab92">
+      <offer id="38351" available="true">
         <name>Кольцо из желтого золота с бриллиантом</name>
         <shortName>Кольцо из желтого золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota_s_brilliantom_96/</url>
@@ -164,10 +164,10 @@
         <price>190795</price>
         <barcode>2000002603184</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с двумя камнями. Вес: 2.65. Описание камней: 1Кр57-0,52-8-5/8Б. Размер: 18</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с двумя камнями</param>
+        <param name="Вес">2.65</param>
+        <param name="Описание камней">1Кр57-0,52-8-5/8Б</param>
         <param name="Размер">18</param>
       </offer>
       <offer id="38350" available="true" group_id="grp-6774ab29406a8978">
@@ -266,7 +266,7 @@
         
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="38354" available="true" group_id="grp-32bd4d90df026144">
+      <offer id="38354" available="true">
         <name>Кольцо из родированного золота с бриллиантом</name>
         <shortName>Кольцо из родированного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantom_264/</url>
@@ -284,10 +284,10 @@
         <price>323943</price>
         <barcode>2000002612971</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с двумя камнями. Вес: 2.6. Описание камней: 1Кр57-0,525-8-3/6А. Размер: 16,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с двумя камнями</param>
+        <param name="Вес">2.6</param>
+        <param name="Описание камней">1Кр57-0,525-8-3/6А</param>
         <param name="Размер">16,5</param>
       </offer>
       <offer id="38361" available="true">
@@ -761,7 +761,7 @@
         
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="38273" available="true" group_id="grp-bc5a422ca6e7a5fb">
+      <offer id="38273" available="true">
         <name>Кольцо из желтого золота с бриллиантом</name>
         <shortName>Кольцо из желтого золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota_s_brilliantom_95/</url>
@@ -780,10 +780,10 @@
         <oldprice>762849</oldprice>
         <barcode>2000000270135</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.64. Описание камней: 1Кр57-0,500-3/5А. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.64</param>
+        <param name="Описание камней">1Кр57-0,500-3/5А</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="38272" available="true" group_id="grp-bc5a422ca6e7a5fb">
@@ -836,7 +836,7 @@
         
         <param name="Размер">19,0</param>
       </offer>
-      <offer id="38279" available="true" group_id="grp-bc5a422ca6e7a5fb">
+      <offer id="38279" available="true">
         <name>Кольцо из желтого золота с бриллиантом</name>
         <shortName>Кольцо из желтого золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota_s_brilliantom_93/</url>
@@ -855,10 +855,10 @@
         <oldprice>779522</oldprice>
         <barcode>2000000470399</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.76. Описание камней: 1КР57-0,510-3/5А. Размер: 18,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.76</param>
+        <param name="Описание камней">1КР57-0,510-3/5А</param>
         <param name="Размер">18,5</param>
       </offer>
       <offer id="38278" available="true" group_id="grp-bc5a422ca6e7a5fb">
@@ -886,7 +886,7 @@
         
         <param name="Размер">18,3</param>
       </offer>
-      <offer id="38277" available="true" group_id="grp-bc5a422ca6e7a5fb">
+      <offer id="38277" available="true">
         <name>Кольцо из красного золота с бриллиантом</name>
         <shortName>Кольцо из красного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantom_307/</url>
@@ -905,13 +905,13 @@
         <oldprice>669636</oldprice>
         <barcode>2000000454924</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.62. Описание камней: 1КР57-0,543-3/7А. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.62</param>
+        <param name="Описание камней">1КР57-0,543-3/7А</param>
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="38262" available="true" group_id="grp-bc5a422ca6e7a5fb">
+      <offer id="38262" available="true">
         <name>Кольцо из красного золота с бриллиантом</name>
         <shortName>Кольцо из красного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantom_306/</url>
@@ -930,13 +930,13 @@
         <oldprice>693507</oldprice>
         <barcode>2000000330013</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Эксклюзив. Вес: 2.84. Описание камней: 1Кр57-0,560-3/7А. Размер: 18,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Эксклюзив</param>
+        <param name="Вес">2.84</param>
+        <param name="Описание камней">1Кр57-0,560-3/7А</param>
         <param name="Размер">18,5</param>
       </offer>
-      <offer id="38261" available="true" group_id="grp-bc5a422ca6e7a5fb">
+      <offer id="38261" available="true">
         <name>Кольцо из родированного золота с бриллиантом</name>
         <shortName>Кольцо из родированного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantom_263/</url>
@@ -955,10 +955,10 @@
         <oldprice>693903</oldprice>
         <barcode>2000000329895</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.79. Описание камней: 1Кр57-0,526-4/6А. Размер: 18,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.79</param>
+        <param name="Описание камней">1Кр57-0,526-4/6А</param>
         <param name="Размер">18,5</param>
       </offer>
       <offer id="38100" available="true" group_id="grp-fcb8769e5b266d68">
@@ -1003,7 +1003,7 @@
         
         <param name="Размер">185</param>
       </offer>
-      <offer id="38084" available="true" group_id="grp-fcb8769e5b266d68">
+      <offer id="38084" available="true">
         <name>Браслет из родированного золота с бриллиантами</name>
         <shortName>Браслет из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/braslet_iz_rodirovannogo_zolota_s_brilliantami_30/</url>
@@ -1018,10 +1018,10 @@
         <price>479024</price>
         <barcode>2000002611554</barcode>
         <description>Тип изделия: Браслет. Дизайн: Фантазийный. Вес: 7.85. Описание камней: 2Кр57-0,113-6/5Б 4Кр57-0,217-5/6А 5Кр57-0,28-7/4А 2Кр57-0,124-6/4А 3Кр57-0,165-6/6А 2Кр57-0,1-5/7А 6Кр57-0,333-6/5А 1Кр57-0,06-6/7А 6Кр57-0,32-7/3А 10Кр57-0,589-7/5А 1Кр57-0,05-6/2А 1Кр57-0,06-5/6А 1Кр57-0,05-7/6А 1Кр57-0,05-6/6А 2Кр57-0,11-5/5А 1Кр57-0,05-6/3А. Размер: 170</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Браслет</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">7.85</param>
+        <param name="Описание камней">2Кр57-0,113-6/5Б 4Кр57-0,217-5/6А 5Кр57-0,28-7/4А 2Кр57-0,124-6/4А 3Кр57-0,165-6/6А 2Кр57-0,1-5/7А 6Кр57-0,333-6/5А 1Кр57-0,06-6/7А 6Кр57-0,32-7/3А 10Кр57-0,589-7/5А 1Кр57-0,05-6/2А 1Кр57-0,06-5/6А 1Кр57-0,05-7/6А 1Кр57-0,05-6/6А 2Кр57-0,11-5/5А 1Кр57-0,05-6/3А</param>
         <param name="Размер">170</param>
       </offer>
       <offer id="38083" available="true" group_id="grp-fcb8769e5b266d68">
@@ -1045,7 +1045,7 @@
         
         <param name="Размер">165</param>
       </offer>
-      <offer id="38082" available="true" group_id="grp-fcb8769e5b266d68">
+      <offer id="38082" available="true">
         <name>Браслет из родированного золота с бриллиантами</name>
         <shortName>Браслет из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/braslet_iz_rodirovannogo_zolota_s_brilliantami_28/</url>
@@ -1060,10 +1060,10 @@
         <price>707909</price>
         <barcode>2000002611523</barcode>
         <description>Тип изделия: Браслет. Дизайн: Фантазийный. Вес: 7.06. Описание камней: 2Кр57-0,1-3/6А 5Кр57-0,295-3/3А 3Кр57-0,158-1/4А 5Кр57-0,292-3/3А 3Кр57-0,18-5/4А 2Кр57-0,1-4/5Б 1Кр57-0,06-2/5А 8Кр57-0,448-3/4В 7Кр57-0,404-3/5А 1Кр57-0,05-2/4А 4Кр57-0,246-3/4А 1Кр57-0,05-3/5А 1Кр57-0,05-3/6А 1Кр57-0,06-3/7А 1Кр57-0,05-1/6Б. Размер: 165</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Браслет</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">7.06</param>
+        <param name="Описание камней">2Кр57-0,1-3/6А 5Кр57-0,295-3/3А 3Кр57-0,158-1/4А 5Кр57-0,292-3/3А 3Кр57-0,18-5/4А 2Кр57-0,1-4/5Б 1Кр57-0,06-2/5А 8Кр57-0,448-3/4В 7Кр57-0,404-3/5А 1Кр57-0,05-2/4А 4Кр57-0,246-3/4А 1Кр57-0,05-3/5А 1Кр57-0,05-3/6А 1Кр57-0,06-3/7А 1Кр57-0,05-1/6Б</param>
         <param name="Размер">165</param>
       </offer>
       <offer id="38071" available="true">
@@ -1450,7 +1450,7 @@
         
         <param name="Размер">18,5</param>
       </offer>
-      <offer id="38150" available="true" group_id="grp-20ef2461596044e3">
+      <offer id="38150" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_675/</url>
@@ -1468,13 +1468,13 @@
         <price>128687</price>
         <barcode>2000002631040</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.34. Описание камней: 10КР57-0,281-3/5А. Размер: 18,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.34</param>
+        <param name="Описание камней">10КР57-0,281-3/5А</param>
         <param name="Размер">18,5</param>
       </offer>
-      <offer id="38149" available="true" group_id="grp-20ef2461596044e3">
+      <offer id="38149" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_674/</url>
@@ -1492,10 +1492,10 @@
         <price>129713</price>
         <barcode>2000002631019</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.38. Описание камней: 10КР57-0,281-3/5А. Размер: 18,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.38</param>
+        <param name="Описание камней">10КР57-0,281-3/5А</param>
         <param name="Размер">18,5</param>
       </offer>
       <offer id="38148" available="true" group_id="grp-20ef2461596044e3">
@@ -1522,7 +1522,7 @@
         
         <param name="Размер">18</param>
       </offer>
-      <offer id="38147" available="true" group_id="grp-20ef2461596044e3">
+      <offer id="38147" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_672/</url>
@@ -1540,13 +1540,13 @@
         <price>128687</price>
         <barcode>2000002630876</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.34. Описание камней: 10КР57-0,281-3/5А. Размер: 18</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.34</param>
+        <param name="Описание камней">10КР57-0,281-3/5А</param>
         <param name="Размер">18</param>
       </offer>
-      <offer id="38146" available="true" group_id="grp-20ef2461596044e3">
+      <offer id="38146" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_671/</url>
@@ -1564,10 +1564,10 @@
         <price>129969</price>
         <barcode>2000002630869</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.39. Описание камней: 10КР57-0,281-3/5А. Размер: 18</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.39</param>
+        <param name="Описание камней">10КР57-0,281-3/5А</param>
         <param name="Размер">18</param>
       </offer>
       <offer id="38145" available="true" group_id="grp-20ef2461596044e3">
@@ -1594,7 +1594,7 @@
         
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="38144" available="true" group_id="grp-20ef2461596044e3">
+      <offer id="38144" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_669/</url>
@@ -1612,10 +1612,10 @@
         <price>129969</price>
         <barcode>2000002630845</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.39. Описание камней: 10КР57-0,281-3/5А. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.39</param>
+        <param name="Описание камней">10КР57-0,281-3/5А</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="38143" available="true" group_id="grp-20ef2461596044e3">
@@ -1642,7 +1642,7 @@
         
         <param name="Размер">17</param>
       </offer>
-      <offer id="38142" available="true" group_id="grp-20ef2461596044e3">
+      <offer id="38142" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_667/</url>
@@ -1660,13 +1660,13 @@
         <price>126378</price>
         <barcode>2000002630746</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.25. Описание камней: 10КР57-0,281-3/5А. Размер: 17</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.25</param>
+        <param name="Описание камней">10КР57-0,281-3/5А</param>
         <param name="Размер">17</param>
       </offer>
-      <offer id="38141" available="true" group_id="grp-20ef2461596044e3">
+      <offer id="38141" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_666/</url>
@@ -1684,13 +1684,13 @@
         <price>126891</price>
         <barcode>2000002630739</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.27. Описание камней: 10КР57-0,281-3/5А. Размер: 17</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.27</param>
+        <param name="Описание камней">10КР57-0,281-3/5А</param>
         <param name="Размер">17</param>
       </offer>
-      <offer id="38140" available="true" group_id="grp-20ef2461596044e3">
+      <offer id="38140" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_665/</url>
@@ -1708,13 +1708,13 @@
         <price>128174</price>
         <barcode>2000002630722</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.32. Описание камней: 10КР57-0,281-3/5А. Размер: 17</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.32</param>
+        <param name="Описание камней">10КР57-0,281-3/5А</param>
         <param name="Размер">17</param>
       </offer>
-      <offer id="38139" available="true" group_id="grp-20ef2461596044e3">
+      <offer id="38139" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_664/</url>
@@ -1732,10 +1732,10 @@
         <price>126378</price>
         <barcode>2000002630654</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.25. Описание камней: 10КР57-0,281-3/5А. Размер: 17</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.25</param>
+        <param name="Описание камней">10КР57-0,281-3/5А</param>
         <param name="Размер">17</param>
       </offer>
       <offer id="38138" available="true" group_id="grp-db7c2646547ec26b">
@@ -1762,7 +1762,7 @@
         
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="38137" available="true" group_id="grp-db7c2646547ec26b">
+      <offer id="38137" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_662/</url>
@@ -1780,13 +1780,13 @@
         <price>66248</price>
         <barcode>2000002630562</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 1.83. Описание камней: 15КР57-0,075-6/5Б. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">1.83</param>
+        <param name="Описание камней">15КР57-0,075-6/5Б</param>
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="38136" available="true" group_id="grp-db7c2646547ec26b">
+      <offer id="38136" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_661/</url>
@@ -1804,13 +1804,13 @@
         <price>65735</price>
         <barcode>2000002630555</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 1.81. Описание камней: 15КР57-0,075-6/5Б. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">1.81</param>
+        <param name="Описание камней">15КР57-0,075-6/5Б</param>
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="38135" available="true" group_id="grp-db7c2646547ec26b">
+      <offer id="38135" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_660/</url>
@@ -1828,13 +1828,13 @@
         <price>65222</price>
         <barcode>2000002630548</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 1.79. Описание камней: 15КР57-0,075-6/5Б. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">1.79</param>
+        <param name="Описание камней">15КР57-0,075-6/5Б</param>
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="38134" available="true" group_id="grp-db7c2646547ec26b">
+      <offer id="38134" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_659/</url>
@@ -1852,13 +1852,13 @@
         <price>65222</price>
         <barcode>2000002630531</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 1.79. Описание камней: 15КР57-0,075-6/5Б. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">1.79</param>
+        <param name="Описание камней">15КР57-0,075-6/5Б</param>
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="38133" available="true" group_id="grp-db7c2646547ec26b">
+      <offer id="38133" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_658/</url>
@@ -1876,10 +1876,10 @@
         <price>64453</price>
         <barcode>2000002630524</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 1.76. Описание камней: 15КР57-0,075-6/5Б. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">1.76</param>
+        <param name="Описание камней">15КР57-0,075-6/5Б</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="38132" available="true" group_id="grp-db7c2646547ec26b">
@@ -1906,7 +1906,7 @@
         
         <param name="Размер">17</param>
       </offer>
-      <offer id="38131" available="true" group_id="grp-db7c2646547ec26b">
+      <offer id="38131" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_656/</url>
@@ -1924,10 +1924,10 @@
         <price>67017</price>
         <barcode>2000002630500</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 1.86. Описание камней: 15КР57-0,075-6/5Б. Размер: 17</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">1.86</param>
+        <param name="Описание камней">15КР57-0,075-6/5Б</param>
         <param name="Размер">17</param>
       </offer>
       <offer id="38130" available="true" group_id="grp-db7c2646547ec26b">
@@ -1954,7 +1954,7 @@
         
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="38124" available="true" group_id="grp-ac62182b324af46c">
+      <offer id="38124" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_654/</url>
@@ -1972,10 +1972,10 @@
         <price>175400</price>
         <barcode>2000002629283</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 3.64. Описание камней: 2КР57-0,148-5/4А 4КР57-0,034-3/5Б 4КР57-0,059-5/3Б 4КР57-0,155-6/5Б. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">3.64</param>
+        <param name="Описание камней">2КР57-0,148-5/4А 4КР57-0,034-3/5Б 4КР57-0,059-5/3Б 4КР57-0,155-6/5Б</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="38122" available="true" group_id="grp-ac62182b324af46c">
@@ -2002,7 +2002,7 @@
         
         <param name="Размер">18</param>
       </offer>
-      <offer id="38121" available="true" group_id="grp-ac62182b324af46c">
+      <offer id="38121" available="true">
         <name>Кольцо из желтого золота с бриллиантами</name>
         <shortName>Кольцо из желтого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota_s_brilliantami_192/</url>
@@ -2020,10 +2020,10 @@
         <price>187223</price>
         <barcode>2000002629030</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 3.85. Описание камней: 2КР57-0,176-5/4А 4КР57-0,059-5/3Б 4КР57-0,033-3/5Б 4КР57-0,155-6/5Б. Размер: 17</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">3.85</param>
+        <param name="Описание камней">2КР57-0,176-5/4А 4КР57-0,059-5/3Б 4КР57-0,033-3/5Б 4КР57-0,155-6/5Б</param>
         <param name="Размер">17</param>
       </offer>
       <offer id="37857" available="true" group_id="grp-6774ab29406a8978">
@@ -2290,7 +2290,7 @@
         <param name="Описание камней">30Кр57-0,23-4/5А 18Кр57-0,141-4/5А</param>
         
       </offer>
-      <offer id="37793" available="true" group_id="grp-9f4d3a8d6960e86b">
+      <offer id="37793" available="true">
         <name>Подвеска из красного золота с бриллиантами</name>
         <shortName>Подвеска из красного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/podveska_iz_krasnogo_zolota_s_brilliantami_66/</url>
@@ -2309,10 +2309,10 @@
         <oldprice>540854</oldprice>
         <barcode>2000000063188</barcode>
         <description>Тип изделия: Подвеска. Дизайн: Обручальное. Вес: 1.62. Описание камней: 1кр57-0,310-6/9А 1кр57-0,310-6/3А 1кр57-0,350-7/7А. Размер: 0,05 - 0,06</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Подвеска</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">1.62</param>
+        <param name="Описание камней">1кр57-0,310-6/9А 1кр57-0,310-6/3А 1кр57-0,350-7/7А</param>
         <param name="Размер">0,05 - 0,06</param>
       </offer>
       <offer id="37778" available="true">
@@ -2890,7 +2890,7 @@
         
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="37680" available="true" group_id="grp-7aa29658b918bbe9">
+      <offer id="37680" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_648/</url>
@@ -2908,10 +2908,10 @@
         <oldprice>115908</oldprice>
         <barcode>2000002454007</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.62. Описание камней: 11Кр57-0,226-3/4Б. Размер: 17</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.62</param>
+        <param name="Описание камней">11Кр57-0,226-3/4Б</param>
         <param name="Размер">17</param>
       </offer>
       <offer id="37679" available="true" group_id="grp-7aa29658b918bbe9">
@@ -3011,7 +3011,7 @@
         
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="37652" available="true" group_id="grp-b03f79163de89dba">
+      <offer id="37652" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_643/</url>
@@ -3030,10 +3030,10 @@
         <oldprice>106022</oldprice>
         <barcode>2000002371540</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 3.27. Описание камней: 19Кр57-0,062-6/4Б. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">3.27</param>
+        <param name="Описание камней">19Кр57-0,062-6/4Б</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="37651" available="true" group_id="grp-b03f79163de89dba">
@@ -3110,7 +3110,7 @@
         <param name="Описание камней">2Кр57-0,433-4/3Б</param>
         
       </offer>
-      <offer id="37201" available="true" group_id="grp-bc5a422ca6e7a5fb">
+      <offer id="37201" available="true">
         <name>Кольцо из родированного золота с бриллиантом</name>
         <shortName>Кольцо из родированного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantom_251/</url>
@@ -3129,10 +3129,10 @@
         <oldprice>621926</oldprice>
         <barcode>2000000038384</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.8. Описание камней: 1Кр57-0,523-4/7А. Размер: 18,3</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.8</param>
+        <param name="Описание камней">1Кр57-0,523-4/7А</param>
         <param name="Размер">18,3</param>
       </offer>
       <offer id="37199" available="true" group_id="grp-bc5a422ca6e7a5fb">
@@ -3318,7 +3318,7 @@
         <param name="Описание камней">1кр57-0,580-6/5Б 1кр57-0,500-6/5Б</param>
         
       </offer>
-      <offer id="35536" available="true" group_id="grp-bc5a422ca6e7a5fb">
+      <offer id="35536" available="true">
         <name>Кольцо из красного золота с бриллиантом</name>
         <shortName>Кольцо из красного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantom_280/</url>
@@ -3337,10 +3337,10 @@
         <oldprice>670269</oldprice>
         <barcode>2000000226439</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.65. Описание камней: 1кр57-0,543-3/7А. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.65</param>
+        <param name="Описание камней">1кр57-0,543-3/7А</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="35530" available="true">
@@ -3367,7 +3367,7 @@
         <param name="Описание камней">1кр57-0,130-6/5А 1кр57-0,110-6/6А</param>
         
       </offer>
-      <offer id="35524" available="true" group_id="grp-bc5a422ca6e7a5fb">
+      <offer id="35524" available="true">
         <name>Кольцо из родированного золота с бриллиантом</name>
         <shortName>Кольцо из родированного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantom_187/</url>
@@ -3386,13 +3386,13 @@
         <oldprice>639804</oldprice>
         <barcode>2000000225623</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.78. Описание камней: 1кр57-0,540-4/7А. Размер: 18,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.78</param>
+        <param name="Описание камней">1кр57-0,540-4/7А</param>
         <param name="Размер">18,5</param>
       </offer>
-      <offer id="35509" available="true" group_id="grp-bc5a422ca6e7a5fb">
+      <offer id="35509" available="true">
         <name>Кольцо из родированного золота с бриллиантом</name>
         <shortName>Кольцо из родированного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantom_183/</url>
@@ -3411,10 +3411,10 @@
         <oldprice>692007</oldprice>
         <barcode>2000000224503</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.7. Описание камней: 1кр57-0,526-4/6А. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.7</param>
+        <param name="Описание камней">1кр57-0,526-4/6А</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="35628" available="true" group_id="grp-599ebdfd2b6b1e2a">
@@ -3484,7 +3484,7 @@
         <param name="Описание камней">2кр57-0,425-4/5Б</param>
         
       </offer>
-      <offer id="35555" available="true" group_id="grp-bc5a422ca6e7a5fb">
+      <offer id="35555" available="true">
         <name>Кольцо из желтого золота с бриллиантом</name>
         <shortName>Кольцо из желтого золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota_s_brilliantom_66/</url>
@@ -3503,10 +3503,10 @@
         <oldprice>798362</oldprice>
         <barcode>2000000227450</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.77. Описание камней: 1кр57-0,550-2/6А. Размер: 19,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.77</param>
+        <param name="Описание камней">1кр57-0,550-2/6А</param>
         <param name="Размер">19,0</param>
       </offer>
       <offer id="35544" available="true">
@@ -3792,7 +3792,7 @@
         
         <param name="Размер">17</param>
       </offer>
-      <offer id="33441" available="true" group_id="grp-7aa29658b918bbe9">
+      <offer id="33441" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_524/</url>
@@ -3810,13 +3810,13 @@
         <oldprice>114296</oldprice>
         <barcode>2000002378808</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.46. Описание камней: 1Кр57-0,021-4/3Б 10Кр57-0,206-3/3Б. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.46</param>
+        <param name="Описание камней">1Кр57-0,021-4/3Б 10Кр57-0,206-3/3Б</param>
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="33440" available="true" group_id="grp-83a4515863472aa0">
+      <offer id="33440" available="true">
         <name>Серьги из красного золота с бриллиантами</name>
         <shortName>Серьги из красного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/sergi_iz_krasnogo_zolota_s_brilliantami_270/</url>
@@ -3834,10 +3834,10 @@
         <oldprice>450365</oldprice>
         <barcode>2000002378778</barcode>
         <description>Тип изделия: Серьги. Дизайн: Малинки. Вес: 2.85. Описание камней: 1Кр57-0,300-4/5Б 1Кр57-0,313-4/8А. Размер: 0,05 - 0,06</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Серьги</param>
+        <param name="Дизайн">Малинки</param>
+        <param name="Вес">2.85</param>
+        <param name="Описание камней">1Кр57-0,300-4/5Б 1Кр57-0,313-4/8А</param>
         <param name="Размер">0,05 - 0,06</param>
       </offer>
       <offer id="33437" available="true" group_id="grp-6abbef60c72160ea">
@@ -4066,7 +4066,7 @@
         
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="33406" available="true" group_id="grp-7aa29658b918bbe9">
+      <offer id="33406" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_515/</url>
@@ -4082,10 +4082,10 @@
         <oldprice>127308</oldprice>
         <barcode>2000002372707</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.69. Описание камней: 11Кр57-0,261-3/3Б. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.69</param>
+        <param name="Описание камней">11Кр57-0,261-3/3Б</param>
         <param name="Размер">18,0</param>
       </offer>
       <offer id="33403" available="true" group_id="grp-6abbef60c72160ea">
@@ -4231,7 +4231,7 @@
         
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="33398" available="true" group_id="grp-b03f79163de89dba">
+      <offer id="33398" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_492/</url>
@@ -4250,13 +4250,13 @@
         <oldprice>105970</oldprice>
         <barcode>2000002371564</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 3.23. Описание камней: 19Кр57-0,069-6/4Б. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">3.23</param>
+        <param name="Описание камней">19Кр57-0,069-6/4Б</param>
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="33397" available="true" group_id="grp-b03f79163de89dba">
+      <offer id="33397" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_491/</url>
@@ -4275,13 +4275,13 @@
         <oldprice>111375</oldprice>
         <barcode>2000002371519</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 3.47. Описание камней: 19Кр57-0,062-6/4Б. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">3.47</param>
+        <param name="Описание камней">19Кр57-0,062-6/4Б</param>
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="33396" available="true" group_id="grp-b03f79163de89dba">
+      <offer id="33396" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_490/</url>
@@ -4300,10 +4300,10 @@
         <oldprice>117531</oldprice>
         <barcode>2000002371472</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 3.7. Описание камней: 19Кр57-0,062-6/4Б. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">3.7</param>
+        <param name="Описание камней">19Кр57-0,062-6/4Б</param>
         <param name="Размер">18,0</param>
       </offer>
       <offer id="33393" available="true">
@@ -4988,7 +4988,7 @@
         <param name="Описание камней">6Кр57-0,071-3/5Б 16Кр57-0,097-6/4Б 2СапфирПТ-1,128-ОВ+5/4</param>
         
       </offer>
-      <offer id="33040" available="true" group_id="grp-9068df072e1168a0">
+      <offer id="33040" available="true">
         <name>Кольцо из родированного золота с изумрудом и бриллиантами</name>
         <shortName>Кольцо из родированного золота с изумрудом и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_izumrudom_i_brilliantami_3/</url>
@@ -5004,10 +5004,10 @@
         <oldprice>215451</oldprice>
         <barcode>2000002459866</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 3.54. Описание камней: 4Кр57-0,079-7/6Б 4Кр57-0,047-3/5Б 18Кр57-0,109-6/4Б 1ИзумрудПО-0,542-НРОПр+3/Г3. Размер: 17</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">3.54</param>
+        <param name="Описание камней">4Кр57-0,079-7/6Б 4Кр57-0,047-3/5Б 18Кр57-0,109-6/4Б 1ИзумрудПО-0,542-НРОПр+3/Г3</param>
         <param name="Размер">17</param>
       </offer>
       <offer id="33034" available="true">
@@ -5524,7 +5524,7 @@
         
         <param name="Размер">17</param>
       </offer>
-      <offer id="27532" available="true" group_id="grp-6774ab29406a8978">
+      <offer id="27532" available="true">
         <name>Кольцо из красного золота с бриллиантом</name>
         <shortName>Кольцо из красного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantom_120/</url>
@@ -5543,10 +5543,10 @@
         <oldprice>242794</oldprice>
         <barcode>2000002602729</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с двумя камнями. Вес: 2.62. Описание камней: 1Кр57-0,51-8-1/10А. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с двумя камнями</param>
+        <param name="Вес">2.62</param>
+        <param name="Описание камней">1Кр57-0,51-8-1/10А</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="27531" available="true">
@@ -5648,7 +5648,7 @@
         
         <param name="Размер">17</param>
       </offer>
-      <offer id="27644" available="true" group_id="grp-7aa29658b918bbe9">
+      <offer id="27644" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_316/</url>
@@ -5665,13 +5665,13 @@
         <oldprice>121753</oldprice>
         <barcode>2000002614500</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.97. Описание камней: 11Кр57-0,196-3/5А. Размер: 18</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.97</param>
+        <param name="Описание камней">11Кр57-0,196-3/5А</param>
         <param name="Размер">18</param>
       </offer>
-      <offer id="27636" available="true" group_id="grp-32bd4d90df026144">
+      <offer id="27636" available="true">
         <name>Кольцо из родированного золота с бриллиантом</name>
         <shortName>Кольцо из родированного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantom_50/</url>
@@ -5690,10 +5690,10 @@
         <oldprice>184034</oldprice>
         <barcode>2000002612988</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с двумя камнями. Вес: 2.55. Описание камней: 1Кр57-0,52-7/11Б. Размер: 16,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с двумя камнями</param>
+        <param name="Вес">2.55</param>
+        <param name="Описание камней">1Кр57-0,52-7/11Б</param>
         <param name="Размер">16,5</param>
       </offer>
       <offer id="27634" available="true">
@@ -6000,7 +6000,7 @@
         <param name="Описание камней">23Кр57-0,114-6/5Б</param>
         
       </offer>
-      <offer id="24481" available="true" group_id="grp-83064f4fe3ae8a18">
+      <offer id="24481" available="true">
         <name>Кольцо из родированного золота с изумрудом и бриллиантами</name>
         <shortName>Кольцо из родированного золота с изумрудом и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_izumrudom_i_brilliantami_2/</url>
@@ -6016,13 +6016,13 @@
         <oldprice>80640</oldprice>
         <barcode>2000002461647</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 2.55. Описание камней: 4Кр57-0,082-7/5Б 4Кр57-0,02-6/5Б 1ИзумрудПО-0,086-НРОКр+4/Г3. Размер: 17</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">2.55</param>
+        <param name="Описание камней">4Кр57-0,082-7/5Б 4Кр57-0,02-6/5Б 1ИзумрудПО-0,086-НРОКр+4/Г3</param>
         <param name="Размер">17</param>
       </offer>
-      <offer id="24480" available="true" group_id="grp-83064f4fe3ae8a18">
+      <offer id="24480" available="true">
         <name>Кольцо из родированного золота с изумрудом и бриллиантами</name>
         <shortName>Кольцо из родированного золота с изумрудом и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_izumrudom_i_brilliantami_1/</url>
@@ -6038,10 +6038,10 @@
         <oldprice>80114</oldprice>
         <barcode>2000002461630</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 2.53. Описание камней: 4Кр57-0,082-7/5Б 4Кр57-0,02-6/5Б 1ИзумрудПО-0,086-НРОКр+4/Г3. Размер: 17</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">2.53</param>
+        <param name="Описание камней">4Кр57-0,082-7/5Б 4Кр57-0,02-6/5Б 1ИзумрудПО-0,086-НРОКр+4/Г3</param>
         <param name="Размер">17</param>
       </offer>
       <offer id="24475" available="true" group_id="grp-311509d1f683f9ce">
@@ -6167,7 +6167,7 @@
         
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="24466" available="true" group_id="grp-d765d731515c902d">
+      <offer id="24466" available="true">
         <name>Кольцо из красного золота с бриллиантом</name>
         <shortName>Кольцо из красного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantom_95/</url>
@@ -6186,10 +6186,10 @@
         <oldprice>92012</oldprice>
         <barcode>2000000669502</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.05. Описание камней: 1Кр57-0,200-5/6Б. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.05</param>
+        <param name="Описание камней">1Кр57-0,200-5/6Б</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="24465" available="true" group_id="grp-311509d1f683f9ce">
@@ -6306,7 +6306,7 @@
         <param name="Описание камней">1Кр57-0,01-4/4А 2Кр57-0,015-4/4А 1Кр57-0,01-4/4А 2Кр57-0,015-4/4А</param>
         
       </offer>
-      <offer id="24452" available="true" group_id="grp-e872c71dca9b5e04">
+      <offer id="24452" available="true">
         <name>Кольцо из платины с бриллиантами</name>
         <shortName>Кольцо из платины с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_platiny_s_brilliantami_11/</url>
@@ -6326,13 +6326,13 @@
         <oldprice>241480</oldprice>
         <barcode>2000002223061</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 4.72. Описание камней: 15Кр57-0,12-4/4А. Размер: 16,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">4.72</param>
+        <param name="Описание камней">15Кр57-0,12-4/4А</param>
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="24451" available="true" group_id="grp-df769410dc141653">
+      <offer id="24451" available="true">
         <name>Кольцо из платины с бриллиантом</name>
         <shortName>Кольцо из платины с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_platiny_s_brilliantom_10/</url>
@@ -6351,10 +6351,10 @@
         <oldprice>197784</oldprice>
         <barcode>2000002222439</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 4.47. Описание камней: 1Кр57-0,02-5/4А. Размер: 16</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">4.47</param>
+        <param name="Описание камней">1Кр57-0,02-5/4А</param>
         <param name="Размер">16</param>
       </offer>
       <offer id="24437" available="true">
@@ -6405,7 +6405,7 @@
         <param name="Описание камней">22Кр57-0,081-6/4Б</param>
         
       </offer>
-      <offer id="24433" available="true" group_id="grp-b0e033291047ce7f">
+      <offer id="24433" available="true">
         <name>Кольцо из платины</name>
         <shortName>Кольцо из платины</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_platiny_1/</url>
@@ -6424,12 +6424,12 @@
         <oldprice>182017</oldprice>
         <barcode>2000002224747</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 4.79. Размер: 17</description>
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">4.79</param>
         <param name="Размер">17</param>
       </offer>
-      <offer id="24432" available="true" group_id="grp-3fe1419a282cd767">
+      <offer id="24432" available="true">
         <name>Кольцо из платины с бриллиантами</name>
         <shortName>Кольцо из платины с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_platiny_s_brilliantami_10/</url>
@@ -6449,10 +6449,10 @@
         <oldprice>313456</oldprice>
         <barcode>2000002223580</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 6.5. Описание камней: 9Кр57-0,16-4/5А. Размер: 18</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">6.5</param>
+        <param name="Описание камней">9Кр57-0,16-4/5А</param>
         <param name="Размер">18</param>
       </offer>
       <offer id="24431" available="true">
@@ -6507,7 +6507,7 @@
         <param name="Описание камней">21Кр57-0,08-4/4А</param>
         <param name="Размер">16</param>
       </offer>
-      <offer id="24429" available="true" group_id="grp-63398cc558e02b40">
+      <offer id="24429" available="true">
         <name>Кольцо из платины с бриллиантом</name>
         <shortName>Кольцо из платины с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_platiny_s_brilliantom_9/</url>
@@ -6526,13 +6526,13 @@
         <oldprice>318289</oldprice>
         <barcode>2000002222958</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 6.63. Описание камней: 1Кр57-0,09-5/5А. Размер: 18</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">6.63</param>
+        <param name="Описание камней">1Кр57-0,09-5/5А</param>
         <param name="Размер">18</param>
       </offer>
-      <offer id="24428" available="true" group_id="grp-bbc323d784797432">
+      <offer id="24428" available="true">
         <name>Кольцо из платины с бриллиантом</name>
         <shortName>Кольцо из платины с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_platiny_s_brilliantom_8/</url>
@@ -6551,13 +6551,13 @@
         <oldprice>286173</oldprice>
         <barcode>2000002222699</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 5.56. Описание камней: 1Кр57-0,1-5/5А. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">5.56</param>
+        <param name="Описание камней">1Кр57-0,1-5/5А</param>
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="24427" available="true" group_id="grp-4cea6f878e342137">
+      <offer id="24427" available="true">
         <name>Кольцо из платины с бриллиантом</name>
         <shortName>Кольцо из платины с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_platiny_s_brilliantom_7/</url>
@@ -6577,10 +6577,10 @@
         <oldprice>415428</oldprice>
         <barcode>2000002222569</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 9.11. Описание камней: 1Кр57-0,08-4/4А. Размер: 18</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">9.11</param>
+        <param name="Описание камней">1Кр57-0,08-4/4А</param>
         <param name="Размер">18</param>
       </offer>
       <offer id="24387" available="true">
@@ -7745,7 +7745,7 @@
         
         <param name="Размер">170</param>
       </offer>
-      <offer id="24294" available="true" group_id="grp-44af629176fcc925">
+      <offer id="24294" available="true">
         <name>Колье из родированного золота с сапфирпн и бриллиантами</name>
         <shortName>Колье из родированного золота с сапфирпн и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/kole_iz_rodirovannogo_zolota_s_sapfirpn_i_brilliantami_3/</url>
@@ -7763,13 +7763,13 @@
         <oldprice>335249</oldprice>
         <barcode>2000002393450</barcode>
         <description>Тип изделия: Колье. Дизайн: Фантазийное. Вес: 2.46. Описание камней: 1СапфирПН-0,30-КР+3/3 8Кр57-0,42-5/5А. Размер: 450</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Колье</param>
+        <param name="Дизайн">Фантазийное</param>
+        <param name="Вес">2.46</param>
+        <param name="Описание камней">1СапфирПН-0,30-КР+3/3 8Кр57-0,42-5/5А</param>
         <param name="Размер">450</param>
       </offer>
-      <offer id="24293" available="true" group_id="grp-44af629176fcc925">
+      <offer id="24293" available="true">
         <name>Колье из родированного золота с сапфирпн и бриллиантами</name>
         <shortName>Колье из родированного золота с сапфирпн и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/kole_iz_rodirovannogo_zolota_s_sapfirpn_i_brilliantami_2/</url>
@@ -7787,13 +7787,13 @@
         <oldprice>335249</oldprice>
         <barcode>2000002393412</barcode>
         <description>Тип изделия: Колье. Дизайн: Фантазийное. Вес: 2.48. Описание камней: 1СапфирПН-0,30-КР+3/3 8Кр57-0,42-5/5А. Размер: 450</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Колье</param>
+        <param name="Дизайн">Фантазийное</param>
+        <param name="Вес">2.48</param>
+        <param name="Описание камней">1СапфирПН-0,30-КР+3/3 8Кр57-0,42-5/5А</param>
         <param name="Размер">450</param>
       </offer>
-      <offer id="24292" available="true" group_id="grp-44af629176fcc925">
+      <offer id="24292" available="true">
         <name>Колье из родированного золота с сапфиром и бриллиантами</name>
         <shortName>Колье из родированного золота с сапфиром и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/kole_iz_rodirovannogo_zolota_s_sapfirom_i_brilliantami/</url>
@@ -7811,13 +7811,13 @@
         <oldprice>335249</oldprice>
         <barcode>2000002393405</barcode>
         <description>Тип изделия: Колье. Дизайн: Фантазийное. Вес: 2.43. Описание камней: 1СапфирПТ-0,30-КР+3/3 8Кр57-0,42-5/5А. Размер: 450</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Колье</param>
+        <param name="Дизайн">Фантазийное</param>
+        <param name="Вес">2.43</param>
+        <param name="Описание камней">1СапфирПТ-0,30-КР+3/3 8Кр57-0,42-5/5А</param>
         <param name="Размер">450</param>
       </offer>
-      <offer id="24291" available="true" group_id="grp-44af629176fcc925">
+      <offer id="24291" available="true">
         <name>Колье из родированного золота с сапфирпн и бриллиантами</name>
         <shortName>Колье из родированного золота с сапфирпн и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/kole_iz_rodirovannogo_zolota_s_sapfirpn_i_brilliantami_1/</url>
@@ -7835,13 +7835,13 @@
         <oldprice>335249</oldprice>
         <barcode>2000002393382</barcode>
         <description>Тип изделия: Колье. Дизайн: Фантазийное. Вес: 2.47. Описание камней: 1СапфирПН-0,30-КР+3/3 8Кр57-0,42-5/5А. Размер: 450</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Колье</param>
+        <param name="Дизайн">Фантазийное</param>
+        <param name="Вес">2.47</param>
+        <param name="Описание камней">1СапфирПН-0,30-КР+3/3 8Кр57-0,42-5/5А</param>
         <param name="Размер">450</param>
       </offer>
-      <offer id="24290" available="true" group_id="grp-44af629176fcc925">
+      <offer id="24290" available="true">
         <name>Колье из родированного золота с сапфирпн и бриллиантами</name>
         <shortName>Колье из родированного золота с сапфирпн и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/kole_iz_rodirovannogo_zolota_s_sapfirpn_i_brilliantami/</url>
@@ -7859,13 +7859,13 @@
         <oldprice>335249</oldprice>
         <barcode>2000002393351</barcode>
         <description>Тип изделия: Колье. Дизайн: Фантазийное. Вес: 2.46. Описание камней: 1СапфирПН-0,30-КР+3/3 8Кр57-0,42-5/5А. Размер: 450</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Колье</param>
+        <param name="Дизайн">Фантазийное</param>
+        <param name="Вес">2.46</param>
+        <param name="Описание камней">1СапфирПН-0,30-КР+3/3 8Кр57-0,42-5/5А</param>
         <param name="Размер">450</param>
       </offer>
-      <offer id="24289" available="true" group_id="grp-d77ab03269ced3b8">
+      <offer id="24289" available="true">
         <name>Кулон из родированного золота с бриллиантами</name>
         <shortName>Кулон из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/kulon_iz_rodirovannogo_zolota_s_brilliantami_5/</url>
@@ -7882,13 +7882,13 @@
         <oldprice>264109</oldprice>
         <barcode>2000002393238</barcode>
         <description>Тип изделия: Кулон. Дизайн: Кулон на цепи. Вес: 3.79. Описание камней: 28Кр57-0,17-5/5А 1Кр57-0,13-5/5А. Размер: 450</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кулон</param>
+        <param name="Дизайн">Кулон на цепи</param>
+        <param name="Вес">3.79</param>
+        <param name="Описание камней">28Кр57-0,17-5/5А 1Кр57-0,13-5/5А</param>
         <param name="Размер">450</param>
       </offer>
-      <offer id="24288" available="true" group_id="grp-15269cc16bffa8e7">
+      <offer id="24288" available="true">
         <name>Кулон из родированного золота с бриллиантами</name>
         <shortName>Кулон из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/kulon_iz_rodirovannogo_zolota_s_brilliantami_4/</url>
@@ -7907,13 +7907,13 @@
         <oldprice>303961</oldprice>
         <barcode>2000002391159</barcode>
         <description>Тип изделия: Кулон. Дизайн: Кулон на цепи. Вес: 2.93. Описание камней: 1И57-0,3-6/7А 16Кр57-0,11-5/5А. Размер: 450</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кулон</param>
+        <param name="Дизайн">Кулон на цепи</param>
+        <param name="Вес">2.93</param>
+        <param name="Описание камней">1И57-0,3-6/7А 16Кр57-0,11-5/5А</param>
         <param name="Размер">450</param>
       </offer>
-      <offer id="24287" available="true" group_id="grp-15269cc16bffa8e7">
+      <offer id="24287" available="true">
         <name>Кулон из родированного золота с бриллиантами</name>
         <shortName>Кулон из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/kulon_iz_rodirovannogo_zolota_s_brilliantami_3/</url>
@@ -7932,13 +7932,13 @@
         <oldprice>308496</oldprice>
         <barcode>2000002391142</barcode>
         <description>Тип изделия: Кулон. Дизайн: Кулон на цепи. Вес: 3.03. Описание камней: 1И57-0,3-6/7А 16Кр57-0,11-5/5А. Размер: 450</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кулон</param>
+        <param name="Дизайн">Кулон на цепи</param>
+        <param name="Вес">3.03</param>
+        <param name="Описание камней">1И57-0,3-6/7А 16Кр57-0,11-5/5А</param>
         <param name="Размер">450</param>
       </offer>
-      <offer id="24286" available="true" group_id="grp-15269cc16bffa8e7">
+      <offer id="24286" available="true">
         <name>Кулон из родированного золота с бриллиантами</name>
         <shortName>Кулон из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/kulon_iz_rodirovannogo_zolota_s_brilliantami_2/</url>
@@ -7957,13 +7957,13 @@
         <oldprice>308949</oldprice>
         <barcode>2000002391128</barcode>
         <description>Тип изделия: Кулон. Дизайн: Кулон на цепи. Вес: 3.04. Описание камней: 1И57-0,3-6/7А 16Кр57-0,11-5/5А. Размер: 450</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кулон</param>
+        <param name="Дизайн">Кулон на цепи</param>
+        <param name="Вес">3.04</param>
+        <param name="Описание камней">1И57-0,3-6/7А 16Кр57-0,11-5/5А</param>
         <param name="Размер">450</param>
       </offer>
-      <offer id="24285" available="true" group_id="grp-15269cc16bffa8e7">
+      <offer id="24285" available="true">
         <name>Кулон из родированного золота с бриллиантами</name>
         <shortName>Кулон из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/kulon_iz_rodirovannogo_zolota_s_brilliantami_1/</url>
@@ -7982,10 +7982,10 @@
         <oldprice>309403</oldprice>
         <barcode>2000002391111</barcode>
         <description>Тип изделия: Кулон. Дизайн: Кулон на цепи. Вес: 3.05. Описание камней: 1И57-0,3-6/7А 16Кр57-0,11-5/5А. Размер: 450</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кулон</param>
+        <param name="Дизайн">Кулон на цепи</param>
+        <param name="Вес">3.05</param>
+        <param name="Описание камней">1И57-0,3-6/7А 16Кр57-0,11-5/5А</param>
         <param name="Размер">450</param>
       </offer>
       <offer id="24113" available="true">
@@ -8445,7 +8445,7 @@
         
         <param name="Размер">18,5</param>
       </offer>
-      <offer id="23652" available="true" group_id="grp-796ea985ab5ec92e">
+      <offer id="23652" available="true">
         <name>Кольцо из родированного золота с /6а, кр57, бриллиант</name>
         <shortName>Кольцо из родированного золота с /6а, кр57, бриллиант</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_6a_kr57_brilliant/</url>
@@ -8461,13 +8461,13 @@
         <oldprice>162727</oldprice>
         <barcode>2000002265740</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 2.43. Описание камней: 1КР57-0,180-3/6А 4КР57-0,019 3/6А. Размер: 17</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">2.43</param>
+        <param name="Описание камней">1КР57-0,180-3/6А 4КР57-0,019 3/6А</param>
         <param name="Размер">17</param>
       </offer>
-      <offer id="23671" available="true" group_id="grp-796ea985ab5ec92e">
+      <offer id="23671" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_254/</url>
@@ -8483,10 +8483,10 @@
         <oldprice>96639</oldprice>
         <barcode>2000002373483</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 1.76. Описание камней: 4Кр57-0,014-6/4Б 1Кр57-0,172-5/4А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">1.76</param>
+        <param name="Описание камней">4Кр57-0,014-6/4Б 1Кр57-0,172-5/4А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="23670" available="true" group_id="grp-796ea985ab5ec92e">
@@ -8533,7 +8533,7 @@
         
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="23667" available="true" group_id="grp-2baaa6541fe95b9b">
+      <offer id="23667" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_252/</url>
@@ -8549,10 +8549,10 @@
         <oldprice>85101</oldprice>
         <barcode>2000002372981</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Малинки. Вес: 2.01. Описание камней: 7Кр57-0,132-3/4А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Малинки</param>
+        <param name="Вес">2.01</param>
+        <param name="Описание камней">7Кр57-0,132-3/4А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="23666" available="true" group_id="grp-2baaa6541fe95b9b">
@@ -8577,7 +8577,7 @@
         
         <param name="Размер">18,0</param>
       </offer>
-      <offer id="23665" available="true" group_id="grp-2baaa6541fe95b9b">
+      <offer id="23665" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_250/</url>
@@ -8593,13 +8593,13 @@
         <oldprice>87256</oldprice>
         <barcode>2000002372950</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Малинки. Вес: 2.16. Описание камней: 2Кр57-0,038-3/4А 5Кр57-0,094-3/3Б. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Малинки</param>
+        <param name="Вес">2.16</param>
+        <param name="Описание камней">2Кр57-0,038-3/4А 5Кр57-0,094-3/3Б</param>
         <param name="Размер">18,0</param>
       </offer>
-      <offer id="23664" available="true" group_id="grp-2baaa6541fe95b9b">
+      <offer id="23664" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_249/</url>
@@ -8615,10 +8615,10 @@
         <oldprice>86500</oldprice>
         <barcode>2000002372943</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Малинки. Вес: 2.16. Описание камней: 7Кр57-0,132-3/3Б. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Малинки</param>
+        <param name="Вес">2.16</param>
+        <param name="Описание камней">7Кр57-0,132-3/3Б</param>
         <param name="Размер">18,0</param>
       </offer>
       <offer id="23663" available="true" group_id="grp-a727d11d1cef48d0">
@@ -8671,7 +8671,7 @@
         
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="23661" available="true" group_id="grp-1e0bcc1fb9dfc060">
+      <offer id="23661" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_248/</url>
@@ -8687,10 +8687,10 @@
         <oldprice>113263</oldprice>
         <barcode>2000002372271</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Малинки. Вес: 2.65. Описание камней: 10Кр57-0,037-6/4Б 7Кр57-0,155-3/5А. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Малинки</param>
+        <param name="Вес">2.65</param>
+        <param name="Описание камней">10Кр57-0,037-6/4Б 7Кр57-0,155-3/5А</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="23660" available="true" group_id="grp-1e0bcc1fb9dfc060">
@@ -8719,7 +8719,7 @@
         
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="23659" available="true" group_id="grp-1e0bcc1fb9dfc060">
+      <offer id="23659" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_246/</url>
@@ -8735,10 +8735,10 @@
         <oldprice>106962</oldprice>
         <barcode>2000002372226</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Малинки. Вес: 2.42. Описание камней: 10Кр57-0,036-6/4Б 7Кр57-0,155-3/5А. Размер: 16,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Малинки</param>
+        <param name="Вес">2.42</param>
+        <param name="Описание камней">10Кр57-0,036-6/4Б 7Кр57-0,155-3/5А</param>
         <param name="Размер">16,5</param>
       </offer>
       <offer id="23657" available="true" group_id="grp-4ccd413b830174b7">
@@ -8832,7 +8832,7 @@
         
         <param name="Размер">18,5</param>
       </offer>
-      <offer id="23628" available="true" group_id="grp-0e8cda3abeb0cda2">
+      <offer id="23628" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_242/</url>
@@ -8848,10 +8848,10 @@
         <oldprice>99679</oldprice>
         <barcode>2000002265238</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 1.55. Описание камней: 1КР57-0,110-3/6А 10КР57-0,079-3/6А. Размер: 16,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">1.55</param>
+        <param name="Описание камней">1КР57-0,110-3/6А 10КР57-0,079-3/6А</param>
         <param name="Размер">16,5</param>
       </offer>
       <offer id="23627" available="true" group_id="grp-1e0bcc1fb9dfc060">
@@ -9079,7 +9079,7 @@
         
         <param name="Размер">19</param>
       </offer>
-      <offer id="23592" available="true" group_id="grp-b03f79163de89dba">
+      <offer id="23592" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_235/</url>
@@ -9098,10 +9098,10 @@
         <oldprice>161876</oldprice>
         <barcode>2000002266389</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 3.58. Описание камней: 19КР57-0,135-3/6А. Размер: 17</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">3.58</param>
+        <param name="Описание камней">19КР57-0,135-3/6А</param>
         <param name="Размер">17</param>
       </offer>
       <offer id="23591" available="true" group_id="grp-8eda891355b6ccc0">
@@ -9179,7 +9179,7 @@
         
         <param name="Размер">17</param>
       </offer>
-      <offer id="23602" available="true" group_id="grp-e9f965f589aae43f">
+      <offer id="23602" available="true">
         <name>Кольцо из комбинированного золота с бриллиантами</name>
         <shortName>Кольцо из комбинированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_kombinirovannogo_zolota_s_brilliantami_170/</url>
@@ -9198,13 +9198,13 @@
         <oldprice>117295</oldprice>
         <barcode>2000002378457</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 3.96. Описание камней: 11Кр57-0,040-6/4Б. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">3.96</param>
+        <param name="Описание камней">11Кр57-0,040-6/4Б</param>
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="23601" available="true" group_id="grp-7aa29658b918bbe9">
+      <offer id="23601" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_232/</url>
@@ -9222,13 +9222,13 @@
         <oldprice>127308</oldprice>
         <barcode>2000002372677</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.69. Описание камней: 11Кр57-0,261-3/3Б. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.69</param>
+        <param name="Описание камней">11Кр57-0,261-3/3Б</param>
         <param name="Размер">18,0</param>
       </offer>
-      <offer id="23600" available="true" group_id="grp-b03f79163de89dba">
+      <offer id="23600" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_231/</url>
@@ -9247,13 +9247,13 @@
         <oldprice>107093</oldprice>
         <barcode>2000002371533</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 3.31. Описание камней: 19Кр57-0,062-6/4Б. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">3.31</param>
+        <param name="Описание камней">19Кр57-0,062-6/4Б</param>
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="23599" available="true" group_id="grp-b03f79163de89dba">
+      <offer id="23599" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_230/</url>
@@ -9272,13 +9272,13 @@
         <oldprice>111107</oldprice>
         <barcode>2000002371489</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 3.46. Описание камней: 19Кр57-0,062-6/4Б. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">3.46</param>
+        <param name="Описание камней">19Кр57-0,062-6/4Б</param>
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="23598" available="true" group_id="grp-b03f79163de89dba">
+      <offer id="23598" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_229/</url>
@@ -9297,10 +9297,10 @@
         <oldprice>115925</oldprice>
         <barcode>2000002371465</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 3.64. Описание камней: 19Кр57-0,062-6/4Б. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">3.64</param>
+        <param name="Описание камней">19Кр57-0,062-6/4Б</param>
         <param name="Размер">18,0</param>
       </offer>
       <offer id="23596" available="true" group_id="grp-e9f965f589aae43f">
@@ -10352,7 +10352,7 @@
         <param name="Описание камней">2Кр57-0,175-4/4А 12Кр57-0,248-3/4Б 14Кр57-0,282-4/4Б</param>
         
       </offer>
-      <offer id="23379" available="true" group_id="grp-fcc151a5281cfb00">
+      <offer id="23379" available="true">
         <name>Серьги из красного золота с бриллиантами</name>
         <shortName>Серьги из красного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/sergi_iz_krasnogo_zolota_s_brilliantami_136/</url>
@@ -10370,13 +10370,13 @@
         <oldprice>250881</oldprice>
         <barcode>2000002378754</barcode>
         <description>Тип изделия: Серьги. Дизайн: Малинки. Вес: 4.11. Описание камней: 2Кр57-0,263-4/5А 26Кр57-0,404-3/5Б. Размер: 0,05 - 0,06</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Серьги</param>
+        <param name="Дизайн">Малинки</param>
+        <param name="Вес">4.11</param>
+        <param name="Описание камней">2Кр57-0,263-4/5А 26Кр57-0,404-3/5Б</param>
         <param name="Размер">0,05 - 0,06</param>
       </offer>
-      <offer id="23378" available="true" group_id="grp-39a11f391ddf787d">
+      <offer id="23378" available="true">
         <name>Браслет из комбинированного золота с бриллиантами</name>
         <shortName>Браслет из комбинированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/braslet_iz_kombinirovannogo_zolota_s_brilliantami_9/</url>
@@ -10392,10 +10392,10 @@
         <oldprice>517695</oldprice>
         <barcode>2000002377481</barcode>
         <description>Тип изделия: Браслет. Дизайн: Обручальное. Вес: 14.67. Описание камней: 28Кр57-0,582-3/3Б. Размер: 170</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Браслет</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">14.67</param>
+        <param name="Описание камней">28Кр57-0,582-3/3Б</param>
         <param name="Размер">170</param>
       </offer>
       <offer id="23377" available="true" group_id="grp-21401515741c0a15">
@@ -11493,7 +11493,7 @@
         
         <param name="Размер">175</param>
       </offer>
-      <offer id="23040" available="true" group_id="grp-21401515741c0a15">
+      <offer id="23040" available="true">
         <name>Браслет из комбинированного золота с бриллиантами</name>
         <shortName>Браслет из комбинированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/braslet_iz_kombinirovannogo_zolota_s_brilliantami_6/</url>
@@ -11509,10 +11509,10 @@
         <oldprice>527679</oldprice>
         <barcode>2000002377306</barcode>
         <description>Тип изделия: Браслет. Дизайн: Обручальное. Вес: 15.05. Описание камней: 28Кр57-0,581-3/3Б. Размер: 170</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Браслет</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">15.05</param>
+        <param name="Описание камней">28Кр57-0,581-3/3Б</param>
         <param name="Размер">170</param>
       </offer>
       <offer id="23039" available="true">
@@ -11607,7 +11607,7 @@
         
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="23025" available="true" group_id="grp-ee04609ad917f252">
+      <offer id="23025" available="true">
         <name>Кольцо из желтого золота с бриллиантами</name>
         <shortName>Кольцо из желтого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota_s_brilliantami_83/</url>
@@ -11623,10 +11623,10 @@
         <oldprice>117563</oldprice>
         <barcode>2000001911723</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.41. Описание камней: 9КР57-0,358-4/6А. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.41</param>
+        <param name="Описание камней">9КР57-0,358-4/6А</param>
         <param name="Размер">18,0</param>
       </offer>
       <offer id="23015" available="true">
@@ -11792,7 +11792,7 @@
         <param name="Описание камней">1Кр57-0,41-3/6А 1Кр57-0,41-3/7А 148Кр57-0,896-6/4Б</param>
         
       </offer>
-      <offer id="22992" available="true" group_id="grp-67ef722c88bda59d">
+      <offer id="22992" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_223/</url>
@@ -11811,10 +11811,10 @@
         <oldprice>154911</oldprice>
         <barcode>2000002388210</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийное. Вес: 3.07. Описание камней: 4Кр57-0,06-5/5А. Размер: 16</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийное</param>
+        <param name="Вес">3.07</param>
+        <param name="Описание камней">4Кр57-0,06-5/5А</param>
         <param name="Размер">16</param>
       </offer>
       <offer id="22993" available="true">
@@ -12943,7 +12943,7 @@
         <param name="Описание камней">1Кр57-0,123-5/3А 1Кр57-0,110-5/3А 1Кр57-0,110-5/3А 3Кр57-0,375-5/3А 1Кр57-0,125-5/6А 2Кр57-0,220-5/6А 1Кр57-0,129-5/6А 2Кр57-0,230-5/4А 1Кр57-0,126-5/4А 2Кр57-0,257-5/4А 2Кр57-0,230-5/5А 4Кр57-0,469-5/5А 3Кр57-0,375-5/5А 3Кр57-0,364-5/5А 1Кр57-0,115-7/3А 1Кр57-0,105-6/3А 2Кр57-0,210-6/4А 2Кр57-0,220-6/4А 1Кр57-0,127-7/5А 3Кр57-0,373-7/5А 1Кр57-0,110-7/6А 2Кр57-0,235-7/6А 1Кр57-0,122-6/6А</param>
         <param name="Размер">170</param>
       </offer>
-      <offer id="22832" available="true" group_id="grp-21401515741c0a15">
+      <offer id="22832" available="true">
         <name>Браслет из комбинированного золота с бриллиантами</name>
         <shortName>Браслет из комбинированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/braslet_iz_kombinirovannogo_zolota_s_brilliantami_5/</url>
@@ -12962,10 +12962,10 @@
         <oldprice>464287</oldprice>
         <barcode>2000002584452</barcode>
         <description>Тип изделия: Браслет. Дизайн: Фантазийный. Вес: 14.23. Описание камней: 28Кр57-0,443-3/5А. Размер: 170</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Браслет</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">14.23</param>
+        <param name="Описание камней">28Кр57-0,443-3/5А</param>
         <param name="Размер">170</param>
       </offer>
       <offer id="24926" available="true">
@@ -15164,7 +15164,7 @@
         
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="24781" available="true" group_id="grp-6774ab29406a8978">
+      <offer id="24781" available="true">
         <name>Кольцо из красного золота с бриллиантом</name>
         <shortName>Кольцо из красного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantom_92/</url>
@@ -15183,10 +15183,10 @@
         <oldprice>402887</oldprice>
         <barcode>2000002582274</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.46. Описание камней: 1Кр57-0,527-7/6А. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.46</param>
+        <param name="Описание камней">1Кр57-0,527-7/6А</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="22653" available="true">
@@ -15336,7 +15336,7 @@
         <param name="Описание камней">7Кр57-0,111-3/5А 10Кр57-0,049-3/5А</param>
         <param name="Размер">18,0</param>
       </offer>
-      <offer id="22639" available="true" group_id="grp-1e0bcc1fb9dfc060">
+      <offer id="22639" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_201/</url>
@@ -15356,10 +15356,10 @@
         <oldprice>99500</oldprice>
         <barcode>2000002581925</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 2.43. Описание камней: 7Кр57-0,111-3/5А 10Кр57-0,049-3/5А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">2.43</param>
+        <param name="Описание камней">7Кр57-0,111-3/5А 10Кр57-0,049-3/5А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="24773" available="true">
@@ -15411,7 +15411,7 @@
         <param name="Описание камней">11Кр57-0,174-3/5А</param>
         <param name="Размер">18,5</param>
       </offer>
-      <offer id="24771" available="true" group_id="grp-7aa29658b918bbe9">
+      <offer id="24771" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_199/</url>
@@ -15429,10 +15429,10 @@
         <oldprice>93527</oldprice>
         <barcode>2000002581833</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.27. Описание камней: 11Кр57-0,174-3/5А. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.27</param>
+        <param name="Описание камней">11Кр57-0,174-3/5А</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="22629" available="true">
@@ -15481,7 +15481,7 @@
         
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="24767" available="true" group_id="grp-2baaa6541fe95b9b">
+      <offer id="24767" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_197/</url>
@@ -15500,10 +15500,10 @@
         <oldprice>79087</oldprice>
         <barcode>2000002581772</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 2.18. Описание камней: 7Кр57-0,110-3/5А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">2.18</param>
+        <param name="Описание камней">7Кр57-0,110-3/5А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="24766" available="true">
@@ -16604,7 +16604,7 @@
         <param name="Описание камней">1Кр57-0,410-5/4А</param>
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="24997" available="true" group_id="grp-1afa3b55ab121c6a">
+      <offer id="24997" available="true">
         <name>Кольцо из родированного золота с 1кр57-0,110-, /4б, бриллианты</name>
         <shortName>Кольцо из родированного золота с 1кр57-0,110-, /4б, бриллианты</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_1kr57_0_110_4b_brillianty/</url>
@@ -16620,10 +16620,10 @@
         <oldprice>215669</oldprice>
         <barcode>2000002580638</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 3.67. Описание камней: 10Кр57-0,083-6/5Б 42Кр57-0,285-3/5А 4Кр57-0,498-7/5А. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">3.67</param>
+        <param name="Описание камней">10Кр57-0,083-6/5Б 42Кр57-0,285-3/5А 4Кр57-0,498-7/5А</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="24716" available="true">
@@ -17878,7 +17878,7 @@
         <param name="Описание камней">26Кр57-0,276-3/5Б</param>
         
       </offer>
-      <offer id="21328" available="true" group_id="grp-c5c7c697674ddfc1">
+      <offer id="21328" available="true">
         <name>Кольцо из желтого золота с опалом и бриллиантами</name>
         <shortName>Кольцо из желтого золота с опалом и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota_s_opalom_i_brilliantami_2/</url>
@@ -17897,10 +17897,10 @@
         <oldprice>99808</oldprice>
         <barcode>2000002568681</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 3.04. Описание камней: Опал 6Кр57-0,046-3/5Б. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">3.04</param>
+        <param name="Описание камней">Опал 6Кр57-0,046-3/5Б</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="21327" available="true">
@@ -18038,7 +18038,7 @@
         <param name="Описание камней">Турмалины</param>
         
       </offer>
-      <offer id="21317" available="true" group_id="grp-875b3a882d0830ae">
+      <offer id="21317" available="true">
         <name>Кольцо из родированного золота с танзанит</name>
         <shortName>Кольцо из родированного золота с танзанит</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_tanzanit_8/</url>
@@ -18057,10 +18057,10 @@
         <oldprice>85599</oldprice>
         <barcode>2000002564645</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.56. Описание камней: Танзанит. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.56</param>
+        <param name="Описание камней">Танзанит</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="21316" available="true" group_id="grp-06cfdbfbcee02bd8">
@@ -20351,7 +20351,7 @@
         
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="21039" available="true" group_id="grp-c5c7c697674ddfc1">
+      <offer id="21039" available="true">
         <name>Кольцо из желтого золота с опалом и бриллиантами</name>
         <shortName>Кольцо из желтого золота с опалом и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota_s_opalom_i_brilliantami_1/</url>
@@ -20370,13 +20370,13 @@
         <oldprice>100536</oldprice>
         <barcode>2000002568711</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 3.06. Описание камней: Опал 6Кр57-0,046-3/5Б. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">3.06</param>
+        <param name="Описание камней">Опал 6Кр57-0,046-3/5Б</param>
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="21038" available="true" group_id="grp-c5c7c697674ddfc1">
+      <offer id="21038" available="true">
         <name>Кольцо из желтого золота с опалом и бриллиантами</name>
         <shortName>Кольцо из желтого золота с опалом и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota_s_opalom_i_brilliantami/</url>
@@ -20395,10 +20395,10 @@
         <oldprice>97881</oldprice>
         <barcode>2000002568650</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 2.93. Описание камней: Опал 6Кр57-0,046-3/5Б. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">2.93</param>
+        <param name="Описание камней">Опал 6Кр57-0,046-3/5Б</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="21037" available="true">
@@ -20963,7 +20963,7 @@
         <param name="Описание камней">Опал</param>
         
       </offer>
-      <offer id="20987" available="true" group_id="grp-875b3a882d0830ae">
+      <offer id="20987" available="true">
         <name>Кольцо из родированного золота с танзанит</name>
         <shortName>Кольцо из родированного золота с танзанит</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_tanzanit_5/</url>
@@ -20982,13 +20982,13 @@
         <oldprice>85519</oldprice>
         <barcode>2000002564720</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.51. Описание камней: Танзанит. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.51</param>
+        <param name="Описание камней">Танзанит</param>
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="20986" available="true" group_id="grp-875b3a882d0830ae">
+      <offer id="20986" available="true">
         <name>Кольцо из родированного золота с танзанит</name>
         <shortName>Кольцо из родированного золота с танзанит</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_tanzanit_4/</url>
@@ -21007,13 +21007,13 @@
         <oldprice>84689</oldprice>
         <barcode>2000002564676</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.49. Описание камней: Танзанит. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.49</param>
+        <param name="Описание камней">Танзанит</param>
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="20985" available="true" group_id="grp-06cfdbfbcee02bd8">
+      <offer id="20985" available="true">
         <name>Кольцо из родированного золота с аквамарином</name>
         <shortName>Кольцо из родированного золота с аквамарином</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_akvamarinom_7/</url>
@@ -21032,10 +21032,10 @@
         <oldprice>75490</oldprice>
         <barcode>2000002564546</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.27. Описание камней: Аквамарин. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.27</param>
+        <param name="Описание камней">Аквамарин</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="20984" available="true" group_id="grp-06cfdbfbcee02bd8">
@@ -21115,7 +21115,7 @@
         
         <param name="Размер">18,0</param>
       </offer>
-      <offer id="20979" available="true" group_id="grp-fb5d06906b57f5f3">
+      <offer id="20979" available="true">
         <name>Кольцо из родированного золота с турмалинами</name>
         <shortName>Кольцо из родированного золота с турмалинами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_turmalinami_3/</url>
@@ -21134,13 +21134,13 @@
         <oldprice>73864</oldprice>
         <barcode>2000002564164</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.19. Описание камней: Турмалины. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.19</param>
+        <param name="Описание камней">Турмалины</param>
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="20978" available="true" group_id="grp-fb5d06906b57f5f3">
+      <offer id="20978" available="true">
         <name>Кольцо из родированного золота с турмалинами</name>
         <shortName>Кольцо из родированного золота с турмалинами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_turmalinami_2/</url>
@@ -21159,10 +21159,10 @@
         <oldprice>75754</oldprice>
         <barcode>2000002564133</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.27. Описание камней: Турмалины. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.27</param>
+        <param name="Описание камней">Турмалины</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="20977" available="true" group_id="grp-fb5d06906b57f5f3">
@@ -21190,7 +21190,7 @@
         
         <param name="Размер">18,0</param>
       </offer>
-      <offer id="20976" available="true" group_id="grp-fb5d06906b57f5f3">
+      <offer id="20976" available="true">
         <name>Кольцо из родированного золота с турмалинами</name>
         <shortName>Кольцо из родированного золота с турмалинами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_turmalinami/</url>
@@ -21209,10 +21209,10 @@
         <oldprice>76214</oldprice>
         <barcode>2000002563983</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.28. Описание камней: Турмалины. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.28</param>
+        <param name="Описание камней">Турмалины</param>
         <param name="Размер">18,0</param>
       </offer>
       <offer id="20975" available="true" group_id="grp-4d7c070f8b3fcbf4">
@@ -21240,7 +21240,7 @@
         
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="20974" available="true" group_id="grp-4d7c070f8b3fcbf4">
+      <offer id="20974" available="true">
         <name>Кольцо из родированного золота с танзанит</name>
         <shortName>Кольцо из родированного золота с танзанит</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_tanzanit_2/</url>
@@ -21259,10 +21259,10 @@
         <oldprice>70654</oldprice>
         <barcode>2000002563655</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.18. Описание камней: Танзанит. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.18</param>
+        <param name="Описание камней">Танзанит</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="20973" available="true" group_id="grp-4d7c070f8b3fcbf4">
@@ -21290,7 +21290,7 @@
         
         <param name="Размер">18,0</param>
       </offer>
-      <offer id="20972" available="true" group_id="grp-4d7c070f8b3fcbf4">
+      <offer id="20972" available="true">
         <name>Кольцо из родированного золота с танзанит</name>
         <shortName>Кольцо из родированного золота с танзанит</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_tanzanit/</url>
@@ -21309,10 +21309,10 @@
         <oldprice>68872</oldprice>
         <barcode>2000002563631</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.11. Описание камней: Танзанит. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.11</param>
+        <param name="Описание камней">Танзанит</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="20970" available="true" group_id="grp-f82664b8df7a5014">
@@ -21392,7 +21392,7 @@
         
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="20966" available="true" group_id="grp-6a131a5518e51db5">
+      <offer id="20966" available="true">
         <name>Кольцо из родированного золота с танзанит и бриллиантами</name>
         <shortName>Кольцо из родированного золота с танзанит и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_tanzanit_i_brilliantami/</url>
@@ -21411,10 +21411,10 @@
         <oldprice>205530</oldprice>
         <barcode>2000002563211</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 2.98. Описание камней: Танзанит 34Кр57-0,258-3/5Б. Размер: 16,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">2.98</param>
+        <param name="Описание камней">Танзанит 34Кр57-0,258-3/5Б</param>
         <param name="Размер">16,5</param>
       </offer>
       <offer id="20965" available="true" group_id="grp-453f0efe8321a0ba">
@@ -21805,7 +21805,7 @@
         <param name="Описание камней">14Кр57-0,36-4/5А</param>
         
       </offer>
-      <offer id="20275" available="true" group_id="grp-d6551bd69e8600fc">
+      <offer id="20275" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_292/</url>
@@ -21824,13 +21824,13 @@
         <oldprice>195588</oldprice>
         <barcode>2000002404170</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийное. Вес: 2.21. Описание камней: 1Кр57-0,07-4/5А 26Кр57-0,15-4/5А 8Кр57-0,04-4/5А. Размер: 18</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийное</param>
+        <param name="Вес">2.21</param>
+        <param name="Описание камней">1Кр57-0,07-4/5А 26Кр57-0,15-4/5А 8Кр57-0,04-4/5А</param>
         <param name="Размер">18</param>
       </offer>
-      <offer id="20274" available="true" group_id="grp-d6551bd69e8600fc">
+      <offer id="20274" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_291/</url>
@@ -21849,13 +21849,13 @@
         <oldprice>195124</oldprice>
         <barcode>2000002404163</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийное. Вес: 2.2. Описание камней: 1Кр57-0,07-4/5А 26Кр57-0,15-4/5А 8Кр57-0,04-4/5А. Размер: 18</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийное</param>
+        <param name="Вес">2.2</param>
+        <param name="Описание камней">1Кр57-0,07-4/5А 26Кр57-0,15-4/5А 8Кр57-0,04-4/5А</param>
         <param name="Размер">18</param>
       </offer>
-      <offer id="20266" available="true" group_id="grp-6c61069bfbf2793b">
+      <offer id="20266" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_131/</url>
@@ -21873,13 +21873,13 @@
         <oldprice>146388</oldprice>
         <barcode>2000002402190</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 1.97. Описание камней: 21Кр57-0,16-4/5А. Размер: 16,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">1.97</param>
+        <param name="Описание камней">21Кр57-0,16-4/5А</param>
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="20265" available="true" group_id="grp-6c61069bfbf2793b">
+      <offer id="20265" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_130/</url>
@@ -21897,10 +21897,10 @@
         <oldprice>145459</oldprice>
         <barcode>2000002402183</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 1.95. Описание камней: 21Кр57-0,16-4/5А. Размер: 16,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">1.95</param>
+        <param name="Описание камней">21Кр57-0,16-4/5А</param>
         <param name="Размер">16,5</param>
       </offer>
       <offer id="20320" available="true">
@@ -21927,7 +21927,7 @@
         <param name="Описание камней">1Кр57-0,26-4/3А 1Кр57-0,26-5/3А 24Кр57-0,145-6/4Б 28Кр57-0,139-6/5Б</param>
         
       </offer>
-      <offer id="20319" available="true" group_id="grp-81f23075f89d91d0">
+      <offer id="20319" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_129/</url>
@@ -21946,13 +21946,13 @@
         <oldprice>151592</oldprice>
         <barcode>2000002412304</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийное. Вес: 1.89. Описание камней: 1Кр57-0,1-5/5А 24Кр57-0,1-4/5А. Размер: 17</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийное</param>
+        <param name="Вес">1.89</param>
+        <param name="Описание камней">1Кр57-0,1-5/5А 24Кр57-0,1-4/5А</param>
         <param name="Размер">17</param>
       </offer>
-      <offer id="20318" available="true" group_id="grp-81f23075f89d91d0">
+      <offer id="20318" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_128/</url>
@@ -21971,10 +21971,10 @@
         <oldprice>150694</oldprice>
         <barcode>2000002412298</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийное. Вес: 1.87. Описание камней: 1Кр57-0,1-5/5А 24Кр57-0,1-4/5А. Размер: 17</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийное</param>
+        <param name="Вес">1.87</param>
+        <param name="Описание камней">1Кр57-0,1-5/5А 24Кр57-0,1-4/5А</param>
         <param name="Размер">17</param>
       </offer>
       <offer id="20317" available="true" group_id="grp-0eae2a588731e0bc">
@@ -22002,7 +22002,7 @@
         
         <param name="Размер">17</param>
       </offer>
-      <offer id="20301" available="true" group_id="grp-bfa3ee43af7a2ae5">
+      <offer id="20301" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_116/</url>
@@ -22020,10 +22020,10 @@
         <oldprice>224436</oldprice>
         <barcode>2000002409281</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийное. Вес: 4.08. Описание камней: 3Кр57-0,17-5/5А. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийное</param>
+        <param name="Вес">4.08</param>
+        <param name="Описание камней">3Кр57-0,17-5/5А</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="20322" available="true">
@@ -22513,7 +22513,7 @@
         <param name="Описание камней">1Мод.П-0,43-8-1/10 4Кр57-0,13-2/2А 4Кр57-0,12-2/2Б 4Кр57-0,12-2/3Б 40Кр17-0,10-2/3А</param>
         <param name="Размер">21</param>
       </offer>
-      <offer id="19651" available="true" group_id="grp-ee04609ad917f252">
+      <offer id="19651" available="true">
         <name>Кольцо из красного золота с бриллиантами</name>
         <shortName>Кольцо из красного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantami_59/</url>
@@ -22530,10 +22530,10 @@
         <oldprice>99066</oldprice>
         <barcode>2000002486329</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.26. Описание камней: 9Кр57-0,305-6/5Б. Размер: 16</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.26</param>
+        <param name="Описание камней">9Кр57-0,305-6/5Б</param>
         <param name="Размер">16</param>
       </offer>
       <offer id="19649" available="true" group_id="grp-8de88553237b633c">
@@ -22558,7 +22558,7 @@
         
         <param name="Размер">16</param>
       </offer>
-      <offer id="19648" available="true" group_id="grp-8de88553237b633c">
+      <offer id="19648" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_99/</url>
@@ -22574,13 +22574,13 @@
         <oldprice>112881</oldprice>
         <barcode>2000002485797</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.19. Описание камней: 11Кр57-0,261-3/3Б. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.19</param>
+        <param name="Описание камней">11Кр57-0,261-3/3Б</param>
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="19647" available="true" group_id="grp-8de88553237b633c">
+      <offer id="19647" available="true">
         <name>Кольцо из красного золота с бриллиантами</name>
         <shortName>Кольцо из красного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantami_58/</url>
@@ -22596,13 +22596,13 @@
         <oldprice>117754</oldprice>
         <barcode>2000002485773</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.38. Описание камней: 11Кр57-0,261-3/3Б. Размер: 17</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.38</param>
+        <param name="Описание камней">11Кр57-0,261-3/3Б</param>
         <param name="Размер">17</param>
       </offer>
-      <offer id="19646" available="true" group_id="grp-8de88553237b633c">
+      <offer id="19646" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_98/</url>
@@ -22618,10 +22618,10 @@
         <oldprice>118267</oldprice>
         <barcode>2000002485728</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.4. Описание камней: 11Кр57-0,261-3/3Б. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.4</param>
+        <param name="Описание камней">11Кр57-0,261-3/3Б</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="18797" available="true">
@@ -22696,7 +22696,7 @@
         <param name="Описание камней">20Кр57-0,1-4/5А</param>
         
       </offer>
-      <offer id="18820" available="true" group_id="grp-d77ab03269ced3b8">
+      <offer id="18820" available="true">
         <name>Кулон из родированного золота с бриллиантами</name>
         <shortName>Кулон из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/kulon_iz_rodirovannogo_zolota_s_brilliantami/</url>
@@ -22713,10 +22713,10 @@
         <oldprice>267736</oldprice>
         <barcode>2000002393283</barcode>
         <description>Тип изделия: Кулон. Дизайн: Кулон на цепи. Вес: 3.87. Описание камней: 28Кр57-0,17-5/5А 1Кр57-0,13-5/5А. Размер: 450</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кулон</param>
+        <param name="Дизайн">Кулон на цепи</param>
+        <param name="Вес">3.87</param>
+        <param name="Описание камней">28Кр57-0,17-5/5А 1Кр57-0,13-5/5А</param>
         <param name="Размер">450</param>
       </offer>
       <offer id="18806" available="true">
@@ -22791,7 +22791,7 @@
         <param name="Описание камней">14Кр57-0,36-4/5А</param>
         
       </offer>
-      <offer id="18873" available="true" group_id="grp-bfa3ee43af7a2ae5">
+      <offer id="18873" available="true">
         <name>Кольцо из родированного золота с бриллиантами</name>
         <shortName>Кольцо из родированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_rodirovannogo_zolota_s_brilliantami_36/</url>
@@ -22809,10 +22809,10 @@
         <oldprice>237446</oldprice>
         <barcode>2000002403395</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийное. Вес: 4.19. Описание камней: 3Кр57-0,17-5/5А. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийное</param>
+        <param name="Вес">4.19</param>
+        <param name="Описание камней">3Кр57-0,17-5/5А</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="18975" available="true">
@@ -23179,7 +23179,7 @@
         
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="17849" available="true" group_id="grp-ee04609ad917f252">
+      <offer id="17849" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_282/</url>
@@ -23195,10 +23195,10 @@
         <oldprice>123379</oldprice>
         <barcode>2000002248965</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.53. Описание камней: 5Кр-57-0,17-3/5А 1Кр-57-0,035-3/5А 3Кр-57-0,09-3/5А. Размер: 18</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.53</param>
+        <param name="Описание камней">5Кр-57-0,17-3/5А 1Кр-57-0,035-3/5А 3Кр-57-0,09-3/5А</param>
         <param name="Размер">18</param>
       </offer>
       <offer id="17848" available="true" group_id="grp-311509d1f683f9ce">
@@ -23604,7 +23604,7 @@
         
         <param name="Размер">400</param>
       </offer>
-      <offer id="24963" available="true" group_id="grp-ca13ce6ddfe165d7">
+      <offer id="24963" available="true">
         <name>Цепь из белого золота</name>
         <shortName>Цепь из белого золота</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/tsep_iz_belogo_zolota_12/</url>
@@ -23622,9 +23622,9 @@
         <oldprice>80770</oldprice>
         <barcode>2000002506775</barcode>
         <description>Тип изделия: Цепь. Дизайн: Снейк гран.. Вес: 3.94. Размер: 400</description>
-        
-        
-        
+        <param name="Тип изделия">Цепь</param>
+        <param name="Дизайн">Снейк гран.</param>
+        <param name="Вес">3.94</param>
         <param name="Размер">400</param>
       </offer>
       <offer id="16962" available="true" group_id="grp-c26ef8c9eb8b8a90">
@@ -23673,7 +23673,7 @@
         
         <param name="Размер">400</param>
       </offer>
-      <offer id="24961" available="true" group_id="grp-c26ef8c9eb8b8a90">
+      <offer id="24961" available="true">
         <name>Цепь из белого золота</name>
         <shortName>Цепь из белого золота</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/tsep_iz_belogo_zolota_9/</url>
@@ -23691,12 +23691,12 @@
         <oldprice>60065</oldprice>
         <barcode>2000002506133</barcode>
         <description>Тип изделия: Цепь. Дизайн: Снейк гран.. Вес: 2.93. Размер: 400</description>
-        
-        
-        
+        <param name="Тип изделия">Цепь</param>
+        <param name="Дизайн">Снейк гран.</param>
+        <param name="Вес">2.93</param>
         <param name="Размер">400</param>
       </offer>
-      <offer id="16898" available="true" group_id="grp-ee04609ad917f252">
+      <offer id="16898" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_274/</url>
@@ -23712,10 +23712,10 @@
         <oldprice>106913</oldprice>
         <barcode>2000002486022</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.52. Описание камней: 9Кр57-0,305-6/5Б. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.52</param>
+        <param name="Описание камней">9Кр57-0,305-6/5Б</param>
         <param name="Размер">18,0</param>
       </offer>
       <offer id="16897" available="true" group_id="grp-8de88553237b633c">
@@ -23764,7 +23764,7 @@
         <param name="Описание камней">28Кр57-0,237-6/5Б 2Кр57-0,113-4/4Б</param>
         
       </offer>
-      <offer id="16650" available="true" group_id="grp-44af629176fcc925">
+      <offer id="16650" available="true">
         <name>Колье из белого золота с сапфиром и бриллиантами</name>
         <shortName>Колье из белого золота с сапфиром и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/kole_iz_belogo_zolota_s_sapfirom_i_brilliantami/</url>
@@ -23782,13 +23782,13 @@
         <oldprice>335249</oldprice>
         <barcode>2000002393344</barcode>
         <description>Тип изделия: Колье. Дизайн: Фантазийное. Вес: 2.48. Описание камней: 1СапфирПН-0,30-КР+3/3 8Кр57-0,42-5/5А. Размер: 450</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Колье</param>
+        <param name="Дизайн">Фантазийное</param>
+        <param name="Вес">2.48</param>
+        <param name="Описание камней">1СапфирПН-0,30-КР+3/3 8Кр57-0,42-5/5А</param>
         <param name="Размер">450</param>
       </offer>
-      <offer id="16649" available="true" group_id="grp-d77ab03269ced3b8">
+      <offer id="16649" available="true">
         <name>Кулон из белого золота с бриллиантами</name>
         <shortName>Кулон из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/kulon_iz_belogo_zolota_s_brilliantami_1/</url>
@@ -23805,13 +23805,13 @@
         <oldprice>259121</oldprice>
         <barcode>2000002393184</barcode>
         <description>Тип изделия: Кулон. Дизайн: Кулон на цепи. Вес: 3.68. Описание камней: 28Кр57-0,17-5/5А 1Кр57-0,13-5/5А. Размер: 450</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кулон</param>
+        <param name="Дизайн">Кулон на цепи</param>
+        <param name="Вес">3.68</param>
+        <param name="Описание камней">28Кр57-0,17-5/5А 1Кр57-0,13-5/5А</param>
         <param name="Размер">450</param>
       </offer>
-      <offer id="24882" available="true" group_id="grp-15269cc16bffa8e7">
+      <offer id="24882" available="true">
         <name>Кулон из белого золота с бриллиантами</name>
         <shortName>Кулон из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/kulon_iz_belogo_zolota_s_brilliantami/</url>
@@ -23830,10 +23830,10 @@
         <oldprice>309403</oldprice>
         <barcode>2000002391098</barcode>
         <description>Тип изделия: Кулон. Дизайн: Кулон на цепи. Вес: 3.05. Описание камней: 1И57-0,3-6/7А 16Кр57-0,11-5/5А. Размер: 450</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кулон</param>
+        <param name="Дизайн">Кулон на цепи</param>
+        <param name="Вес">3.05</param>
+        <param name="Описание камней">1И57-0,3-6/7А 16Кр57-0,11-5/5А</param>
         <param name="Размер">450</param>
       </offer>
       <offer id="16629" available="true">
@@ -23860,7 +23860,7 @@
         <param name="Описание камней">50Кр57-0,38-5/5А</param>
         
       </offer>
-      <offer id="16621" available="true" group_id="grp-67ef722c88bda59d">
+      <offer id="16621" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_261/</url>
@@ -23879,10 +23879,10 @@
         <oldprice>149923</oldprice>
         <barcode>2000002388197</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийное. Вес: 2.96. Описание камней: 4Кр57-0,06-5/5А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийное</param>
+        <param name="Вес">2.96</param>
+        <param name="Описание камней">4Кр57-0,06-5/5А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="16611" available="true">
@@ -24094,7 +24094,7 @@
         
         <param name="Размер">200</param>
       </offer>
-      <offer id="16318" available="true" group_id="grp-bc003d12f42e3d88">
+      <offer id="16318" available="true">
         <name>Браслет из красного золота</name>
         <shortName>Браслет из красного золота</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/braslet_iz_krasnogo_zolota_2/</url>
@@ -24112,9 +24112,9 @@
         <oldprice>70315</oldprice>
         <barcode>2000002491569</barcode>
         <description>Тип изделия: Браслет. Дизайн: Бисмарк двойной гран.. Вес: 3.43. Размер: 200</description>
-        
-        
-        
+        <param name="Тип изделия">Браслет</param>
+        <param name="Дизайн">Бисмарк двойной гран.</param>
+        <param name="Вес">3.43</param>
         <param name="Размер">200</param>
       </offer>
       <offer id="16317" available="true" group_id="grp-bc003d12f42e3d88">
@@ -24572,7 +24572,7 @@
         <param name="Описание камней">67Кр57-0,34025-4/5А</param>
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="13916" available="true" group_id="grp-435cf7c8e68718fe">
+      <offer id="13916" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_220/</url>
@@ -24590,10 +24590,10 @@
         <oldprice>86900</oldprice>
         <barcode>2000002451983</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.61. Описание камней: 15Кр57-0,075-6/5Б. Размер: 20,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.61</param>
+        <param name="Описание камней">15Кр57-0,075-6/5Б</param>
         <param name="Размер">20,5</param>
       </offer>
       <offer id="13914" available="true">
@@ -24621,7 +24621,7 @@
         <param name="Описание камней">1Кр57-0,021-4/4Б 8Кр57-0,048-6/4Б</param>
         
       </offer>
-      <offer id="13912" available="true" group_id="grp-b03f79163de89dba">
+      <offer id="13912" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_219/</url>
@@ -24640,10 +24640,10 @@
         <oldprice>104829</oldprice>
         <barcode>2000002380184</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 3.22. Описание камней: 19Кр57-0,063-6/4Б. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">3.22</param>
+        <param name="Описание камней">19Кр57-0,063-6/4Б</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="13911" available="true">
@@ -24753,7 +24753,7 @@
         <param name="Вес">4.05</param>
         
       </offer>
-      <offer id="13894" available="true" group_id="grp-1e0bcc1fb9dfc060">
+      <offer id="13894" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_253/</url>
@@ -24772,13 +24772,13 @@
         <oldprice>108805</oldprice>
         <barcode>2000002378822</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Малинки. Вес: 2.47. Описание камней: 10Кр57-0,037-6/4Б 6Кр57-0,134-3/5А 1Кр57-0,020-3/4А. Размер: 16,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Малинки</param>
+        <param name="Вес">2.47</param>
+        <param name="Описание камней">10Кр57-0,037-6/4Б 6Кр57-0,134-3/5А 1Кр57-0,020-3/4А</param>
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="13893" available="true" group_id="grp-4cc2500aa118c2fc">
+      <offer id="13893" available="true">
         <name>Серьги из желтого золота с бриллиантами</name>
         <shortName>Серьги из желтого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/sergi_iz_zheltogo_zolota_s_brilliantami_53/</url>
@@ -24796,13 +24796,13 @@
         <oldprice>99971</oldprice>
         <barcode>2000002378723</barcode>
         <description>Тип изделия: Серьги. Дизайн: Пусеты. Вес: 1.85. Описание камней: 1Кр57-0,111-3/5Б 1Кр57-0,102-5/2А. Размер: 0,05 - 0,06</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Серьги</param>
+        <param name="Дизайн">Пусеты</param>
+        <param name="Вес">1.85</param>
+        <param name="Описание камней">1Кр57-0,111-3/5Б 1Кр57-0,102-5/2А</param>
         <param name="Размер">0,05 - 0,06</param>
       </offer>
-      <offer id="13889" available="true" group_id="grp-39a11f391ddf787d">
+      <offer id="13889" available="true">
         <name>Браслет из комбинированного золота с бриллиантами</name>
         <shortName>Браслет из комбинированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/braslet_iz_kombinirovannogo_zolota_s_brilliantami/</url>
@@ -24821,10 +24821,10 @@
         <oldprice>515554</oldprice>
         <barcode>2000002377498</barcode>
         <description>Тип изделия: Браслет. Дизайн: Обручальное. Вес: 14.59. Описание камней: 28Кр57-0,582-3/3Б. Размер: 170</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Браслет</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">14.59</param>
+        <param name="Описание камней">28Кр57-0,582-3/3Б</param>
         <param name="Размер">170</param>
       </offer>
       <offer id="13886" available="true" group_id="grp-713cbba9498adceb">
@@ -24874,7 +24874,7 @@
         <param name="Описание камней">1Кр57-0,024-6/4Б</param>
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="13879" available="true" group_id="grp-2baaa6541fe95b9b">
+      <offer id="13879" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_245/</url>
@@ -24893,10 +24893,10 @@
         <oldprice>84104</oldprice>
         <barcode>2000002373001</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Малинки. Вес: 1.96. Описание камней: 3Кр57-0,066-4/3Б 4Кр57-0,074-3/3А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Малинки</param>
+        <param name="Вес">1.96</param>
+        <param name="Описание камней">3Кр57-0,066-4/3Б 4Кр57-0,074-3/3А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="13878" available="true">
@@ -25039,7 +25039,7 @@
         <param name="Описание камней">1Кр57-0,02-4/4Б 2Кр57-0,01-6/5Б 1СапфирПТ-0,356-КР+5/4</param>
         
       </offer>
-      <offer id="13986" available="true" group_id="grp-1afa3b55ab121c6a">
+      <offer id="13986" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_257/</url>
@@ -25055,10 +25055,10 @@
         <oldprice>275304</oldprice>
         <barcode>2000002460008</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Фантазийный. Вес: 3.76. Описание камней: 3Кр57-0,36-5/5А 1Кр57-0,12-5/4Б 10Кр57-0,086-3/5Б 46Кр57-0,278-6/4Б. Размер: 19,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Фантазийный</param>
+        <param name="Вес">3.76</param>
+        <param name="Описание камней">3Кр57-0,36-5/5А 1Кр57-0,12-5/4Б 10Кр57-0,086-3/5Б 46Кр57-0,278-6/4Б</param>
         <param name="Размер">19,0</param>
       </offer>
       <offer id="13983" available="true">
@@ -25290,7 +25290,7 @@
         <param name="Описание камней">1Кр57-0,27-2/4А 1Кр57-0,265-3/3А 4Кр57-0,505-5/3А 4Кр57-0,505-5/5Б 2Кр57-0,252-5/4А 4Кр57-0,4-5/5А</param>
         
       </offer>
-      <offer id="13956" available="true" group_id="grp-7aa29658b918bbe9">
+      <offer id="13956" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_243/</url>
@@ -25308,10 +25308,10 @@
         <oldprice>128849</oldprice>
         <barcode>2000002456544</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.75. Описание камней: 4Кр57-0,083-3/4А 7Кр57-0,143-3/3А. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.75</param>
+        <param name="Описание камней">4Кр57-0,083-3/4А 7Кр57-0,143-3/3А</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="13950" available="true">
@@ -25433,7 +25433,7 @@
         
         <param name="Размер">15,5</param>
       </offer>
-      <offer id="16310" available="true" group_id="grp-7aa29658b918bbe9">
+      <offer id="16310" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_223/</url>
@@ -25451,13 +25451,13 @@
         <oldprice>125543</oldprice>
         <barcode>2000002453116</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.98. Описание камней: 11Кр57-0,226-3/4Б. Размер: 19,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.98</param>
+        <param name="Описание камней">11Кр57-0,226-3/4Б</param>
         <param name="Размер">19,0</param>
       </offer>
-      <offer id="13926" available="true" group_id="grp-7aa29658b918bbe9">
+      <offer id="13926" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_222/</url>
@@ -25475,10 +25475,10 @@
         <oldprice>129111</oldprice>
         <barcode>2000002453109</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.95. Описание камней: 11Кр57-0,212-3/4А. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.95</param>
+        <param name="Описание камней">11Кр57-0,212-3/4А</param>
         <param name="Размер">18,0</param>
       </offer>
       <offer id="13922" available="true">
@@ -25624,7 +25624,7 @@
         <param name="Описание камней">8Кр57-0,08-4/4А</param>
         <param name="Размер">15,0</param>
       </offer>
-      <offer id="13791" available="true" group_id="grp-b0e033291047ce7f">
+      <offer id="13791" available="true">
         <name>Кольцо из платины</name>
         <shortName>Кольцо из платины</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_platiny/</url>
@@ -25643,9 +25643,9 @@
         <oldprice>170815</oldprice>
         <barcode>2000002224730</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 4.65. Размер: 17,0</description>
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">4.65</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="13789" available="true">
@@ -25793,7 +25793,7 @@
         <param name="Описание камней">1Кр57-0,01-4/4А 2Кр57-0,015-4/4А 1Кр57-0,01-4/4А 2Кр57-0,015-4/4А</param>
         
       </offer>
-      <offer id="13781" available="true" group_id="grp-3fe1419a282cd767">
+      <offer id="13781" available="true">
         <name>Кольцо из платины с бриллиантами</name>
         <shortName>Кольцо из платины с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_platiny_s_brilliantami_3/</url>
@@ -25813,10 +25813,10 @@
         <oldprice>309110</oldprice>
         <barcode>2000002223597</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 6.4. Описание камней: 9Кр57-0,16-4/5А. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">6.4</param>
+        <param name="Описание камней">9Кр57-0,16-4/5А</param>
         <param name="Размер">18,0</param>
       </offer>
       <offer id="13780" available="true">
@@ -25895,7 +25895,7 @@
         <param name="Описание камней">1Кр57-0,16-5/4А</param>
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="13777" available="true" group_id="grp-e872c71dca9b5e04">
+      <offer id="13777" available="true">
         <name>Кольцо из платины с бриллиантами</name>
         <shortName>Кольцо из платины с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_platiny_s_brilliantami/</url>
@@ -25915,13 +25915,13 @@
         <oldprice>229746</oldprice>
         <barcode>2000002223078</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 4.45. Описание камней: 15Кр57-0,12-4/4А. Размер: 16,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">4.45</param>
+        <param name="Описание камней">15Кр57-0,12-4/4А</param>
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="13776" available="true" group_id="grp-63398cc558e02b40">
+      <offer id="13776" available="true">
         <name>Кольцо из платины с бриллиантом</name>
         <shortName>Кольцо из платины с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_platiny_s_brilliantom_4/</url>
@@ -25940,10 +25940,10 @@
         <oldprice>301965</oldprice>
         <barcode>2000002222941</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 6.29. Описание камней: 1Кр57-0,09-5/4А. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">6.29</param>
+        <param name="Описание камней">1Кр57-0,09-5/4А</param>
         <param name="Размер">18,0</param>
       </offer>
       <offer id="13775" available="true">
@@ -25971,7 +25971,7 @@
         <param name="Описание камней">1Кр57-0,08-5/5А</param>
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="13774" available="true" group_id="grp-bbc323d784797432">
+      <offer id="13774" available="true">
         <name>Кольцо из платины с бриллиантом</name>
         <shortName>Кольцо из платины с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_platiny_s_brilliantom_2/</url>
@@ -25990,13 +25990,13 @@
         <oldprice>286815</oldprice>
         <barcode>2000002222682</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 5.78. Описание камней: 1Кр57-0,1-5/5А. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">5.78</param>
+        <param name="Описание камней">1Кр57-0,1-5/5А</param>
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="13773" available="true" group_id="grp-4cea6f878e342137">
+      <offer id="13773" available="true">
         <name>Кольцо из платины с бриллиантом</name>
         <shortName>Кольцо из платины с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_platiny_s_brilliantom_1/</url>
@@ -26016,13 +26016,13 @@
         <oldprice>407605</oldprice>
         <barcode>2000002222552</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 8.93. Описание камней: 1Кр57-0,08-4/4А. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">8.93</param>
+        <param name="Описание камней">1Кр57-0,08-4/4А</param>
         <param name="Размер">18,0</param>
       </offer>
-      <offer id="13772" available="true" group_id="grp-df769410dc141653">
+      <offer id="13772" available="true">
         <name>Кольцо из платины с бриллиантом</name>
         <shortName>Кольцо из платины с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_platiny_s_brilliantom/</url>
@@ -26041,10 +26041,10 @@
         <oldprice>207257</oldprice>
         <barcode>2000002222422</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 4.67. Описание камней: 1Кр57-0,02-4/4А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">4.67</param>
+        <param name="Описание камней">1Кр57-0,02-4/4А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="8002" available="true">
@@ -27267,7 +27267,7 @@
         <param name="Вес">8.24</param>
         <param name="Размер">190</param>
       </offer>
-      <offer id="6551" available="true" group_id="grp-c26ef8c9eb8b8a90">
+      <offer id="6551" available="true">
         <name>Цепь из белого золота</name>
         <shortName>Цепь из белого золота</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/tsep_iz_belogo_zolota_s_bez_i_kamney_12/</url>
@@ -27285,13 +27285,13 @@
         <oldprice>66830</oldprice>
         <barcode>2000002025498</barcode>
         <description>Тип изделия: Цепь. Дизайн: Снейк. Вес: 3.26. Описание камней: Без камней. Размер: 450</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Цепь</param>
+        <param name="Дизайн">Снейк</param>
+        <param name="Вес">3.26</param>
+        <param name="Описание камней">Без камней</param>
         <param name="Размер">450</param>
       </offer>
-      <offer id="6550" available="true" group_id="grp-c26ef8c9eb8b8a90">
+      <offer id="6550" available="true">
         <name>Цепь из белого золота</name>
         <shortName>Цепь из белого золота</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/tsep_iz_belogo_zolota_s_bez_i_kamney_22/</url>
@@ -27310,10 +27310,10 @@
         <oldprice>56990</oldprice>
         <barcode>2000002025252</barcode>
         <description>Тип изделия: Цепь. Дизайн: Снейк. Вес: 2.78. Описание камней: Без камней. Размер: 400</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Цепь</param>
+        <param name="Дизайн">Снейк</param>
+        <param name="Вес">2.78</param>
+        <param name="Описание камней">Без камней</param>
         <param name="Размер">400</param>
       </offer>
       <offer id="6545" available="true">
@@ -27386,7 +27386,7 @@
         
         <param name="Размер">400</param>
       </offer>
-      <offer id="6520" available="true" group_id="grp-ca13ce6ddfe165d7">
+      <offer id="6520" available="true">
         <name>Цепь из белого золота</name>
         <shortName>Цепь из белого золота</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/tsep_iz_belogo_zolota_s_bez_i_kamney_18/</url>
@@ -27404,10 +27404,10 @@
         <oldprice>107420</oldprice>
         <barcode>2000001977903</barcode>
         <description>Тип изделия: Цепь. Дизайн: Снейк. Вес: 5.24. Описание камней: Без камней. Размер: 500</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Цепь</param>
+        <param name="Дизайн">Снейк</param>
+        <param name="Вес">5.24</param>
+        <param name="Описание камней">Без камней</param>
         <param name="Размер">500</param>
       </offer>
       <offer id="7117" available="true" group_id="grp-ee04609ad917f252">
@@ -28045,7 +28045,7 @@
         
         <param name="Размер">23,0</param>
       </offer>
-      <offer id="6743" available="true" group_id="grp-e589a6b3eaec0e91">
+      <offer id="6743" available="true">
         <name>Колье из желтого золота с хромдиопсидом и бриллиантами</name>
         <shortName>Колье из желтого золота с хромдиопсидом и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/kole_iz_zheltogo_zolota_s_khromdiopsidom_i_brilliantami/</url>
@@ -28062,10 +28062,10 @@
         <oldprice>866330</oldprice>
         <barcode>2000002075967</barcode>
         <description>Тип изделия: Колье. Дизайн: Обручальное. Вес: 10.35. Описание камней: Хромдиопсид 1Кр57-0,260-3/5А 1Кр57-0,150-4/5А 1Кр57-0,130-4/5А 1Кр57-0,040-4/5А. Размер: 500</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Колье</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">10.35</param>
+        <param name="Описание камней">Хромдиопсид 1Кр57-0,260-3/5А 1Кр57-0,150-4/5А 1Кр57-0,130-4/5А 1Кр57-0,040-4/5А</param>
         <param name="Размер">500</param>
       </offer>
       <offer id="6742" available="true" group_id="grp-bf6215ca2c5c4939">
@@ -28527,7 +28527,7 @@
         
         <param name="Размер">18,5</param>
       </offer>
-      <offer id="6718" available="true" group_id="grp-958b1d77984266e0">
+      <offer id="6718" available="true">
         <name>Кольцо из красного золота с бриллиантом</name>
         <shortName>Кольцо из красного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantom_66/</url>
@@ -28544,10 +28544,10 @@
         <oldprice>80225</oldprice>
         <barcode>2000002074397</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 1.52. Описание камней: 1Кр57-0,080-5/4А. Размер: 18,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">1.52</param>
+        <param name="Описание камней">1Кр57-0,080-5/4А</param>
         <param name="Размер">18,5</param>
       </offer>
       <offer id="6717" available="true" group_id="grp-358ec4b007f549bd">
@@ -28745,7 +28745,7 @@
         
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="7930" available="true" group_id="grp-3c25195e26e16f0a">
+      <offer id="7930" available="true">
         <name>Кольцо из комбинированного золота с бриллиантами</name>
         <shortName>Кольцо из комбинированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_kombinirovannogo_zolota_s_brilliantami_11/</url>
@@ -28762,10 +28762,10 @@
         <oldprice>103280</oldprice>
         <barcode>2000002074304</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Тюльпан. Вес: 2.39. Описание камней: 1Кр57-0,120-4/8А 3Кр57-0,060-3/4Б. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Тюльпан</param>
+        <param name="Вес">2.39</param>
+        <param name="Описание камней">1Кр57-0,120-4/8А 3Кр57-0,060-3/4Б</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="7484" available="true" group_id="grp-11fcd95b25abf688">
@@ -28969,7 +28969,7 @@
         <param name="Описание камней">Самородок 10Кр57-0,45-4/3А</param>
         <param name="Размер">21,0</param>
       </offer>
-      <offer id="6685" available="true" group_id="grp-eb8ef75eb4cde7cf">
+      <offer id="6685" available="true">
         <name>Кольцо из желтого золота с хромдиопсидом и бриллиантами</name>
         <shortName>Кольцо из желтого золота с хромдиопсидом и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota_s_khromdiopsidom_i_brilliantami_7/</url>
@@ -28986,10 +28986,10 @@
         <oldprice>599539</oldprice>
         <barcode>2000002072737</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Эксклюзив. Вес: 6.67. Описание камней: Хромдиопсид 1Кр57-0,29-5/3А 6Кр57-0,0405-4/5А 3Кр57-0,0402-4/5А 6Кр57-0,120-4/5А. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Эксклюзив</param>
+        <param name="Вес">6.67</param>
+        <param name="Описание камней">Хромдиопсид 1Кр57-0,29-5/3А 6Кр57-0,0405-4/5А 3Кр57-0,0402-4/5А 6Кр57-0,120-4/5А</param>
         <param name="Размер">18,0</param>
       </offer>
       <offer id="7243" available="true">
@@ -29280,7 +29280,7 @@
         <param name="Описание камней">27КР57-0,110-4/5А</param>
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="6662" available="true" group_id="grp-5d997ed5ca43d889">
+      <offer id="6662" available="true">
         <name>Кольцо из желтого золота с хромдиопсидом и бриллиантами</name>
         <shortName>Кольцо из желтого золота с хромдиопсидом и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota_s_khromdiopsidom_i_brilliantami_2/</url>
@@ -29297,10 +29297,10 @@
         <oldprice>210071</oldprice>
         <barcode>2000002072492</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Эксклюзив. Вес: 5. Описание камней: Хромдиопсид 6Кр57-0,050-4/5А. Размер: 18,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Эксклюзив</param>
+        <param name="Вес">5</param>
+        <param name="Описание камней">Хромдиопсид 6Кр57-0,050-4/5А</param>
         <param name="Размер">18,5</param>
       </offer>
       <offer id="6661" available="true">
@@ -29470,7 +29470,7 @@
         <param name="Описание камней">Опал 32Кр57-0,240-4/5А 13Кр57-0,052-4/5А</param>
         
       </offer>
-      <offer id="6654" available="true" group_id="grp-1ddb3d81ea3c5869">
+      <offer id="6654" available="true">
         <name>Кольцо из желтого золота с хромдиопсидом и бриллиантами</name>
         <shortName>Кольцо из желтого золота с хромдиопсидом и бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota_s_khromdiopsidom_i_brilliantami_3/</url>
@@ -29487,10 +29487,10 @@
         <oldprice>367074</oldprice>
         <barcode>2000002072393</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Эксклюзив. Вес: 7.28. Описание камней: Хромдиопсид 44Кр57-0,33-4/5А. Размер: 18,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Эксклюзив</param>
+        <param name="Вес">7.28</param>
+        <param name="Описание камней">Хромдиопсид 44Кр57-0,33-4/5А</param>
         <param name="Размер">18,5</param>
       </offer>
       <offer id="7409" available="true">
@@ -30209,7 +30209,7 @@
         <param name="Вес">2.03</param>
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="6595" available="true" group_id="grp-311509d1f683f9ce">
+      <offer id="6595" available="true">
         <name>Кольцо из красного золота</name>
         <shortName>Кольцо из красного золота</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_28/</url>
@@ -30226,9 +30226,9 @@
         <oldprice>56785</oldprice>
         <barcode>2000002049180</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 2.77. Размер: 17,0</description>
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">2.77</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="6594" available="true">
@@ -30297,7 +30297,7 @@
         
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="7421" available="true" group_id="grp-b4e9a2f761f86657">
+      <offer id="7421" available="true">
         <name>Кольцо из красного золота</name>
         <shortName>Кольцо из красного золота</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_26/</url>
@@ -30314,9 +30314,9 @@
         <oldprice>35875</oldprice>
         <barcode>2000002047858</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 1.75. Размер: 17,0</description>
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">1.75</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="6591" available="true" group_id="grp-5871ecb352f3b4b2">
@@ -30363,7 +30363,7 @@
         
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="6588" available="true" group_id="grp-311509d1f683f9ce">
+      <offer id="6588" available="true">
         <name>Кольцо из желтого золота</name>
         <shortName>Кольцо из желтого золота</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota/</url>
@@ -30380,12 +30380,12 @@
         <oldprice>55145</oldprice>
         <barcode>2000002045939</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 2.69. Размер: 16,5</description>
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">2.69</param>
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="7446" available="true" group_id="grp-b4e9a2f761f86657">
+      <offer id="7446" available="true">
         <name>Кольцо из желтого золота</name>
         <shortName>Кольцо из желтого золота</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota_1/</url>
@@ -30401,9 +30401,9 @@
         <oldprice>35465</oldprice>
         <barcode>2000002045632</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 1.73. Размер: 17,0</description>
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">1.73</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="7266" available="true">
@@ -31047,7 +31047,7 @@
         
         <param name="Размер">18,5</param>
       </offer>
-      <offer id="7049" available="true" group_id="grp-f3dc1f61b9e8a6ea">
+      <offer id="7049" available="true">
         <name>Кольцо из красного золота с гранатом</name>
         <shortName>Кольцо из красного золота с гранатом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_granatom_2/</url>
@@ -31065,10 +31065,10 @@
         <oldprice>49275</oldprice>
         <barcode>2000002208600</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 2.19. Описание камней: Гранат. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">2.19</param>
+        <param name="Описание камней">Гранат</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="7048" available="true" group_id="grp-52e10ce0d3d88776">
@@ -31119,7 +31119,7 @@
         
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="7046" available="true" group_id="grp-52e10ce0d3d88776">
+      <offer id="7046" available="true">
         <name>Кольцо из красного золота с гранатом</name>
         <shortName>Кольцо из красного золота с гранатом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_granatom_1/</url>
@@ -31137,10 +31137,10 @@
         <oldprice>71325</oldprice>
         <barcode>2000002208327</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 3.17. Описание камней: Гранат. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">3.17</param>
+        <param name="Описание камней">Гранат</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="6529" available="true">
@@ -31352,7 +31352,7 @@
         <param name="Описание камней">&lt;&gt;</param>
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="7195" available="true" group_id="grp-d03bd7f6371be127">
+      <offer id="7195" available="true">
         <name>Кольцо из белого золота</name>
         <shortName>Кольцо из белого золота</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_30/</url>
@@ -31368,10 +31368,10 @@
         <oldprice>61705</oldprice>
         <barcode>2000000124940</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 3.01. Описание камней: &lt;&gt;. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">3.01</param>
+        <param name="Описание камней">&lt;&gt;</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="7194" available="true" group_id="grp-311509d1f683f9ce">
@@ -31417,7 +31417,7 @@
         <param name="Вес">2.87</param>
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="7564" available="true" group_id="grp-ac62182b324af46c">
+      <offer id="7564" available="true">
         <name>Кольцо из красного золота с бриллиантами</name>
         <shortName>Кольцо из красного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantami_22/</url>
@@ -31436,10 +31436,10 @@
         <oldprice>291513</oldprice>
         <barcode>2000001905692</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 3.83. Описание камней: 4КР57-0,104-3/3Б 4КР57-0,159-4/6А 1КР57-0,059-3/4А 3КР57-0,256-7/6А 2КР57-0,300-3/5А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">3.83</param>
+        <param name="Описание камней">4КР57-0,104-3/3Б 4КР57-0,159-4/6А 1КР57-0,059-3/4А 3КР57-0,256-7/6А 2КР57-0,300-3/5А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="7357" available="true" group_id="grp-bf1b48f1574b6932">
@@ -31464,7 +31464,7 @@
         
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="7542" available="true" group_id="grp-ac62182b324af46c">
+      <offer id="7542" available="true">
         <name>Кольцо из красного золота с бриллиантами</name>
         <shortName>Кольцо из красного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantami_32/</url>
@@ -31483,13 +31483,13 @@
         <oldprice>368421</oldprice>
         <barcode>2000001900833</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 3.8. Описание камней: 4КР57-0,104-3/3Б 4КР57-0,139-1/6А 1КР57-0,060-2/4Б 3КР57-0,263-2/6А 2КР57-0,300-2/3А. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">3.8</param>
+        <param name="Описание камней">4КР57-0,104-3/3Б 4КР57-0,139-1/6А 1КР57-0,060-2/4Б 3КР57-0,263-2/6А 2КР57-0,300-2/3А</param>
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="7311" available="true" group_id="grp-ee04609ad917f252">
+      <offer id="7311" available="true">
         <name>Кольцо из желтого золота с бриллиантами</name>
         <shortName>Кольцо из желтого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_zheltogo_zolota_s_brilliantami_12/</url>
@@ -31505,10 +31505,10 @@
         <oldprice>118633</oldprice>
         <barcode>2000001900192</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.45. Описание камней: 9КР57-0,358-4/6А. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.45</param>
+        <param name="Описание камней">9КР57-0,358-4/6А</param>
         <param name="Размер">18,0</param>
       </offer>
       <offer id="7247" available="true">
@@ -31999,7 +31999,7 @@
         
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="6476" available="true" group_id="grp-b2ba844cf6058192">
+      <offer id="6476" available="true">
         <name>Кольцо из комбинированного золота с бриллиантами</name>
         <shortName>Кольцо из комбинированного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_kombinirovannogo_zolota_s_brilliantami_17/</url>
@@ -32016,10 +32016,10 @@
         <oldprice>335444</oldprice>
         <barcode>2000000919928</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 2.97. Описание камней: 1Кр57-0,327-4/6А 8Кр57-0,021-6/6Б. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">2.97</param>
+        <param name="Описание камней">1Кр57-0,327-4/6А 8Кр57-0,021-6/6Б</param>
         <param name="Размер">18,0</param>
       </offer>
       <offer id="24689" available="true">
@@ -32282,7 +32282,7 @@
         
         <param name="Размер">18,0</param>
       </offer>
-      <offer id="24688" available="true" group_id="grp-d765d731515c902d">
+      <offer id="24688" available="true">
         <name>Кольцо из красного золота с бриллиантом</name>
         <shortName>Кольцо из красного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantom_76/</url>
@@ -32301,10 +32301,10 @@
         <oldprice>175734</oldprice>
         <barcode>2000000669410</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 1.99. Описание камней: 1КР57-0,210-3/4А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">1.99</param>
+        <param name="Описание камней">1КР57-0,210-3/4А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="6460" available="true">
@@ -33448,7 +33448,7 @@
         <param name="Описание камней">1ИзумрудПМ-0,875-НРООв+3/Г3 2П65-0,405-3/3А</param>
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="6850" available="true" group_id="grp-b79f4810353fc89f">
+      <offer id="6850" available="true">
         <name>Кольцо из белого золота</name>
         <shortName>Кольцо из белого золота</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_36/</url>
@@ -33466,9 +33466,9 @@
         <oldprice>38335</oldprice>
         <barcode>2000002155782</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Каст. Вес: 1.87. Размер: 17,0</description>
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Каст</param>
+        <param name="Вес">1.87</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="6400" available="true">
@@ -33638,7 +33638,7 @@
         <param name="Описание камней">3Бп-0,270-4/4А</param>
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="6848" available="true" group_id="grp-b79f4810353fc89f">
+      <offer id="6848" available="true">
         <name>Кольцо из белого золота</name>
         <shortName>Кольцо из белого золота</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_69/</url>
@@ -33656,9 +33656,9 @@
         <oldprice>40795</oldprice>
         <barcode>2000002155690</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Каст. Вес: 1.99. Размер: 17,0</description>
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Каст</param>
+        <param name="Вес">1.99</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="7649" available="true">
@@ -33803,7 +33803,7 @@
         <param name="Описание камней">75Кр57-0,880-3/5А</param>
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="7477" available="true" group_id="grp-bf6215ca2c5c4939">
+      <offer id="7477" available="true">
         <name>Кольцо из красного золота</name>
         <shortName>Кольцо из красного золота</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_54/</url>
@@ -33821,9 +33821,9 @@
         <oldprice>47714</oldprice>
         <barcode>2000002154808</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Каст. Вес: 2.23. Размер: 19,0</description>
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Каст</param>
+        <param name="Вес">2.23</param>
         <param name="Размер">19,0</param>
       </offer>
       <offer id="7308" available="true" group_id="grp-bc9964306a065d57">
@@ -35193,7 +35193,7 @@
         <param name="Описание камней">3Кр57-0,050-3/3А</param>
         <param name="Размер">23,0</param>
       </offer>
-      <offer id="6818" available="true" group_id="grp-bc5a422ca6e7a5fb">
+      <offer id="6818" available="true">
         <name>Кольцо из белого золота с бриллиантом</name>
         <shortName>Кольцо из белого золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantom_281/</url>
@@ -35213,10 +35213,10 @@
         <oldprice>457535</oldprice>
         <barcode>2000002124313</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 2.65. Описание камней: 1КР57-0,41-3/7А. Размер: 18,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">2.65</param>
+        <param name="Описание камней">1КР57-0,41-3/7А</param>
         <param name="Размер">18,5</param>
       </offer>
       <offer id="6334" available="true">
@@ -35753,7 +35753,7 @@
         
         <param name="Размер">20,0</param>
       </offer>
-      <offer id="6803" available="true" group_id="grp-311509d1f683f9ce">
+      <offer id="6803" available="true">
         <name>Кольцо из красного золота с бриллиантом</name>
         <shortName>Кольцо из красного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantom_62/</url>
@@ -35773,10 +35773,10 @@
         <oldprice>97692</oldprice>
         <barcode>2000002123057</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 2.27. Описание камней: 1КР57-0,12-2/5А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">2.27</param>
+        <param name="Описание камней">1КР57-0,12-2/5А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="6300" available="true">
@@ -36020,7 +36020,7 @@
         
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="6276" available="true" group_id="grp-8de88553237b633c">
+      <offer id="6276" available="true">
         <name>Кольцо из красного золота с бриллиантами</name>
         <shortName>Кольцо из красного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantami_5/</url>
@@ -36036,10 +36036,10 @@
         <oldprice>163885</oldprice>
         <barcode>2000000125992</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.98. Описание камней: 11Кр57-0,304-2/2А. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.98</param>
+        <param name="Описание камней">11Кр57-0,304-2/2А</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="6792" available="true" group_id="grp-b0d0a090688f7168">
@@ -36159,7 +36159,7 @@
         <param name="Описание камней">1Кр57-0,160-3/5А 12Кр57-0,240-3/4Б</param>
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="6787" available="true" group_id="grp-edd41ece1c147240">
+      <offer id="6787" available="true">
         <name>Кольцо из красного золота с бриллиантом</name>
         <shortName>Кольцо из красного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantom_23/</url>
@@ -36178,13 +36178,13 @@
         <oldprice>79302</oldprice>
         <barcode>2000002078111</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 1.46. Описание камней: 1Кр57-0,110-6/4А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">1.46</param>
+        <param name="Описание камней">1Кр57-0,110-6/4А</param>
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="6786" available="true" group_id="grp-edd41ece1c147240">
+      <offer id="6786" available="true">
         <name>Кольцо из красного золота с бриллиантом</name>
         <shortName>Кольцо из красного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantom_43/</url>
@@ -36203,10 +36203,10 @@
         <oldprice>83328</oldprice>
         <barcode>2000002078098</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 1.68. Описание камней: 1Кр57-0,100-6/3А. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">1.68</param>
+        <param name="Описание камней">1Кр57-0,100-6/3А</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="7561" available="true" group_id="grp-6fead3cfffbffdd3">
@@ -46906,7 +46906,7 @@
         <param name="Описание камней">18Кр57-0,459-2/2А</param>
         
       </offer>
-      <offer id="6275" available="true" group_id="grp-8de88553237b633c">
+      <offer id="6275" available="true">
         <name>Кольцо из красного золота с бриллиантами</name>
         <shortName>Кольцо из красного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantami_18/</url>
@@ -46922,10 +46922,10 @@
         <oldprice>156884</oldprice>
         <barcode>2000000125978</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.96. Описание камней: 11Кр57-0,279-2/2А. Размер: 17,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.96</param>
+        <param name="Описание камней">11Кр57-0,279-2/2А</param>
         <param name="Размер">17,5</param>
       </offer>
       <offer id="6274" available="true">
@@ -48444,7 +48444,7 @@
         
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="6190" available="true" group_id="grp-ef4dcaeb03e7aba4">
+      <offer id="6190" available="true">
         <name>Кольцо из белого золота с бриллиантом</name>
         <shortName>Кольцо из белого золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantom_222/</url>
@@ -48461,10 +48461,10 @@
         <oldprice>50955</oldprice>
         <barcode>2000000127774</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 1.46. Описание камней: 1Кр57-0,043-1/2А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">1.46</param>
+        <param name="Описание камней">1Кр57-0,043-1/2А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="6188" available="true" group_id="grp-8bf85e55574b33a7">
@@ -49949,7 +49949,7 @@
         <param name="Описание камней">1Кр57-0,110-6/6А 1Кр57-0,110-6/6А 12Кр57-0,330-4/6А</param>
         
       </offer>
-      <offer id="6117" available="true" group_id="grp-3d14279ee5adc977">
+      <offer id="6117" available="true">
         <name>Кольцо из белого золота с бриллиантом</name>
         <shortName>Кольцо из белого золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantom_75/</url>
@@ -49966,10 +49966,10 @@
         <oldprice>92235</oldprice>
         <barcode>2000000122625</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Обручальное. Вес: 3.11. Описание камней: 1Кр57-0,060-6/4А. Размер: 16,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Обручальное</param>
+        <param name="Вес">3.11</param>
+        <param name="Описание камней">1Кр57-0,060-6/4А</param>
         <param name="Размер">16,5</param>
       </offer>
       <offer id="7584" available="true">
@@ -50061,7 +50061,7 @@
         <param name="Описание камней">2Кр57-0,117-3/3А</param>
         
       </offer>
-      <offer id="6111" available="true" group_id="grp-270848f0ab2ce972">
+      <offer id="6111" available="true">
         <name>Кольцо из комбинированного золота с бриллиантом</name>
         <shortName>Кольцо из комбинированного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_kombinirovannogo_zolota_s_brilliantom_64/</url>
@@ -50077,10 +50077,10 @@
         <oldprice>95659</oldprice>
         <barcode>2000000122533</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 3.06. Описание камней: 1Кр57-0,058-3/3А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">3.06</param>
+        <param name="Описание камней">1Кр57-0,058-3/3А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="6109" available="true">
@@ -50153,7 +50153,7 @@
         <param name="Описание камней">1Кр57-0,370-6/3А 6Кр57-0,060-2/5А 4Кр57-0,020-3/4А</param>
         <param name="Размер">18,0</param>
       </offer>
-      <offer id="6105" available="true" group_id="grp-311509d1f683f9ce">
+      <offer id="6105" available="true">
         <name>Кольцо из красного золота с бриллиантом</name>
         <shortName>Кольцо из красного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantom_65/</url>
@@ -50173,10 +50173,10 @@
         <oldprice>112251</oldprice>
         <barcode>2000000122472</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.96. Описание камней: 1Кр57-0,200-5/6В. Размер: 16,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.96</param>
+        <param name="Описание камней">1Кр57-0,200-5/6В</param>
         <param name="Размер">16,5</param>
       </offer>
       <offer id="7386" available="true">
@@ -50224,7 +50224,7 @@
         
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="6103" available="true" group_id="grp-270848f0ab2ce972">
+      <offer id="6103" available="true">
         <name>Кольцо из комбинированного золота с бриллиантом</name>
         <shortName>Кольцо из комбинированного золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_kombinirovannogo_zolota_s_brilliantom_37/</url>
@@ -50241,10 +50241,10 @@
         <oldprice>92180</oldprice>
         <barcode>2000000122410</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.93. Описание камней: 1Кр57-0,058-3/3А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.93</param>
+        <param name="Описание камней">1Кр57-0,058-3/3А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="6101" available="true" group_id="grp-cd2b8a39a09c01c9">
@@ -50613,7 +50613,7 @@
         <param name="Описание камней">2Кр57-0,067-1/4А</param>
         
       </offer>
-      <offer id="6079" available="true" group_id="grp-ee04609ad917f252">
+      <offer id="6079" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_46/</url>
@@ -50629,13 +50629,13 @@
         <oldprice>125934</oldprice>
         <barcode>2000000122014</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.54. Описание камней: 2Кр57-0,072-5/2А 2Кр57-0,071-5/2А 5Кр57-0,190-5/3А. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.54</param>
+        <param name="Описание камней">2Кр57-0,072-5/2А 2Кр57-0,071-5/2А 5Кр57-0,190-5/3А</param>
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="24610" available="true" group_id="grp-8de88553237b633c">
+      <offer id="24610" available="true">
         <name>Кольцо из красного золота с бриллиантами</name>
         <shortName>Кольцо из красного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantami_3/</url>
@@ -50651,10 +50651,10 @@
         <oldprice>128039</oldprice>
         <barcode>2000000122007</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.53. Описание камней: 11Кр57-0,276-2/5А. Размер: 18,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.53</param>
+        <param name="Описание камней">11Кр57-0,276-2/5А</param>
         <param name="Размер">18,0</param>
       </offer>
       <offer id="7523" available="true" group_id="grp-c41b95df18addb9c">
@@ -50681,7 +50681,7 @@
         
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="6077" available="true" group_id="grp-8de88553237b633c">
+      <offer id="6077" available="true">
         <name>Кольцо из красного золота с бриллиантами</name>
         <shortName>Кольцо из красного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantami_31/</url>
@@ -50697,10 +50697,10 @@
         <oldprice>144332</oldprice>
         <barcode>2000000121970</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.52. Описание камней: 11Кр57-0,276-2/2А. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.52</param>
+        <param name="Описание камней">11Кр57-0,276-2/2А</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="6075" available="true" group_id="grp-e3d46c43f577cdeb">
@@ -50819,7 +50819,7 @@
         
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="7596" available="true" group_id="grp-8de88553237b633c">
+      <offer id="7596" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_152/</url>
@@ -50835,10 +50835,10 @@
         <oldprice>143295</oldprice>
         <barcode>2000000121871</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.46. Описание камней: 11Кр57-0,275-1/3А. Размер: 17,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.46</param>
+        <param name="Описание камней">11Кр57-0,275-1/3А</param>
         <param name="Размер">17,0</param>
       </offer>
       <offer id="6070" available="true">
@@ -51052,7 +51052,7 @@
         
         <param name="Размер">16,0</param>
       </offer>
-      <offer id="24609" available="true" group_id="grp-d3d1f44484ddd82e">
+      <offer id="24609" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_71/</url>
@@ -51069,10 +51069,10 @@
         <oldprice>81976</oldprice>
         <barcode>2000000121666</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.32. Описание камней: 5Кр57-0,160-6/6А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.32</param>
+        <param name="Описание камней">5Кр57-0,160-6/6А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="6058" available="true">
@@ -51190,7 +51190,7 @@
         <param name="Описание камней">1Кр57-0,121-2/6А 6Кр57-0,741-3/5А</param>
         
       </offer>
-      <offer id="24537" available="true" group_id="grp-c41b95df18addb9c">
+      <offer id="24537" available="true">
         <name>Кольцо из белого золота с бриллиантом</name>
         <shortName>Кольцо из белого золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantom_170/</url>
@@ -51208,10 +51208,10 @@
         <oldprice>152493</oldprice>
         <barcode>2000000121505</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 2.21. Описание камней: 1Кр57-0,213-4/3Б. Размер: 15,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">2.21</param>
+        <param name="Описание камней">1Кр57-0,213-4/3Б</param>
         <param name="Размер">15,5</param>
       </offer>
       <offer id="6047" available="true">
@@ -51283,7 +51283,7 @@
         <param name="Описание камней">3Кр57-0,120-3/3А 18Кр57-0,456-1/6А</param>
         <param name="Размер">19,0</param>
       </offer>
-      <offer id="6042" available="true" group_id="grp-5d26859fd0c7343b">
+      <offer id="6042" available="true">
         <name>Кольцо из красного золота с бриллиантами</name>
         <shortName>Кольцо из красного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantami_25/</url>
@@ -51299,10 +51299,10 @@
         <oldprice>250920</oldprice>
         <barcode>2000000121437</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с тремя камнями. Вес: 2.18. Описание камней: 3Кр57-0,660-4/6Б. Размер: 16,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с тремя камнями</param>
+        <param name="Вес">2.18</param>
+        <param name="Описание камней">3Кр57-0,660-4/6Б</param>
         <param name="Размер">16,5</param>
       </offer>
       <offer id="6041" available="true" group_id="grp-8f15252c8c194306">
@@ -51397,7 +51397,7 @@
         
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="6035" available="true" group_id="grp-d3d1f44484ddd82e">
+      <offer id="6035" available="true">
         <name>Кольцо из красного золота с бриллиантами</name>
         <shortName>Кольцо из красного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantami_35/</url>
@@ -51414,10 +51414,10 @@
         <oldprice>76891</oldprice>
         <barcode>2000000121307</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 2.13. Описание камней: 5Кр57-0,160-6/6А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">2.13</param>
+        <param name="Описание камней">5Кр57-0,160-6/6А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="6031" available="true">
@@ -51603,7 +51603,7 @@
         <param name="Описание камней">1Кр57-0,190-4/6А</param>
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="24534" available="true" group_id="grp-c4ebe3630f819f19">
+      <offer id="24534" available="true">
         <name>Кольцо из белого золота с бриллиантом</name>
         <shortName>Кольцо из белого золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantom_161/</url>
@@ -51620,10 +51620,10 @@
         <oldprice>74096</oldprice>
         <barcode>2000000121000</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 1.94. Описание камней: 1Кр57-0,105-4/5Б. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">1.94</param>
+        <param name="Описание камней">1Кр57-0,105-4/5Б</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="6021" available="true">
@@ -51649,7 +51649,7 @@
         <param name="Описание камней">5Кр57-0,127-1/6А</param>
         <param name="Размер">16,5</param>
       </offer>
-      <offer id="24533" available="true" group_id="grp-c4ebe3630f819f19">
+      <offer id="24533" available="true">
         <name>Кольцо из белого золота с бриллиантом</name>
         <shortName>Кольцо из белого золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantom_68/</url>
@@ -51666,10 +51666,10 @@
         <oldprice>70284</oldprice>
         <barcode>2000000120935</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 1.91. Описание камней: 1Кр57-0,100-2/6В. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">1.91</param>
+        <param name="Описание камней">1Кр57-0,100-2/6В</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="7346" available="true">
@@ -51695,7 +51695,7 @@
         <param name="Описание камней">1Кр57-0,540-4/9А</param>
         <param name="Размер">17,5</param>
       </offer>
-      <offer id="6018" available="true" group_id="grp-ee04609ad917f252">
+      <offer id="6018" available="true">
         <name>Кольцо из красного золота с бриллиантами</name>
         <shortName>Кольцо из красного золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_krasnogo_zolota_s_brilliantami_20/</url>
@@ -51712,10 +51712,10 @@
         <oldprice>86374</oldprice>
         <barcode>2000000120904</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 1.89. Описание камней: 9Кр57-0,288-6/6А. Размер: 16,0</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">1.89</param>
+        <param name="Описание камней">9Кр57-0,288-6/6А</param>
         <param name="Размер">16,0</param>
       </offer>
       <offer id="6017" available="true">
@@ -51994,7 +51994,7 @@
         <param name="Описание камней">1Кр57-0,118-4/5А 3Кр17-0,020-2/4А 3Кр17-0,008-2/3А</param>
         <param name="Размер">17,0</param>
       </offer>
-      <offer id="6004" available="true" group_id="grp-bf1b48f1574b6932">
+      <offer id="6004" available="true">
         <name>Кольцо из белого золота с бриллиантом</name>
         <shortName>Кольцо из белого золота с бриллиантом</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantom_270/</url>
@@ -52012,10 +52012,10 @@
         <oldprice>65769</oldprice>
         <barcode>2000000120645</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Классика с одним камнем. Вес: 1.81. Описание камней: 1Кр57-0,086-2/6А. Размер: 18,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Классика с одним камнем</param>
+        <param name="Вес">1.81</param>
+        <param name="Описание камней">1Кр57-0,086-2/6А</param>
         <param name="Размер">18,5</param>
       </offer>
       <offer id="6002" available="true">
@@ -52132,7 +52132,7 @@
         <param name="Описание камней">1Кр57-0,182-4/5А</param>
         <param name="Размер">15,5</param>
       </offer>
-      <offer id="5996" available="true" group_id="grp-ee04609ad917f252">
+      <offer id="5996" available="true">
         <name>Кольцо из белого золота с бриллиантами</name>
         <shortName>Кольцо из белого золота с бриллиантами</shortName>
         <url>https://diamondsofyakutia.ru/catalog/product/koltso_iz_belogo_zolota_s_brilliantami_169/</url>
@@ -52148,10 +52148,10 @@
         <oldprice>93582</oldprice>
         <barcode>2000000120560</barcode>
         <description>Тип изделия: Кольцо. Дизайн: Дорожка. Вес: 1.77. Описание камней: 9Кр57-0,351-5/6А. Размер: 16,5</description>
-        
-        
-        
-        
+        <param name="Тип изделия">Кольцо</param>
+        <param name="Дизайн">Дорожка</param>
+        <param name="Вес">1.77</param>
+        <param name="Описание камней">9Кр57-0,351-5/6А</param>
         <param name="Размер">16,5</param>
       </offer>
       <offer id="5995" available="true">
