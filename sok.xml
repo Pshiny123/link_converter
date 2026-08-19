@@ -33,6 +33,10 @@
         <delivery>true</delivery>
         <description>Тёмный шоколад, вишня, сладкие специи.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-5948-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-5948-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5791,5123,5094,4680</rec>
       </offer>
       <offer id="5791" available="true">
         <purchasable>true</purchasable>
@@ -47,6 +51,10 @@
         <delivery>true</delivery>
         <description>Жёлтая слива, молочный шоколад, грецкий орех.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-5791-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-5791-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5123,5094,4680</rec>
       </offer>
       <offer id="5123" available="true">
         <purchasable>true</purchasable>
@@ -61,6 +69,10 @@
         <delivery>true</delivery>
         <description>Ржаной хлеб, тёмный шоколад, ваниль.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-5123-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-5123-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5094,4680</rec>
       </offer>
       <offer id="5094" available="true">
         <purchasable>true</purchasable>
@@ -75,6 +87,10 @@
         <delivery>true</delivery>
         <description>Грецкий орех, финик, сладкие специи, цитрусы.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Мария","date":"2026-08-05T12:00","id":"sok-5094-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Сергей","date":"2026-07-18T16:30","id":"sok-5094-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,4680</rec>
       </offer>
       <offer id="4680" available="true">
         <purchasable>true</purchasable>
@@ -89,6 +105,10 @@
         <delivery>true</delivery>
         <description>Кардамон, красный апельсин, зелёный чай.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-4680-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-4680-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="887" available="true">
         <purchasable>true</purchasable>
@@ -103,6 +123,10 @@
         <delivery>true</delivery>
         <description>Монпансье, финики, апельсин.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-887-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-887-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="813" available="true">
         <purchasable>true</purchasable>
@@ -117,6 +141,10 @@
         <delivery>true</delivery>
         <description>Тёмный шоколад, нуга, сухофрукты.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-813-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-813-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="886" available="true">
         <purchasable>true</purchasable>
@@ -131,6 +159,10 @@
         <delivery>true</delivery>
         <description>Ягодная пастила, лайм, белый чай.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Мария","date":"2026-08-05T12:00","id":"sok-886-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Сергей","date":"2026-07-18T16:30","id":"sok-886-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="5907" available="true">
         <purchasable>true</purchasable>
@@ -145,6 +177,10 @@
         <delivery>true</delivery>
         <description>Абрикос, красный апельсин, цветы.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-5907-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-5907-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="5881" available="true">
         <purchasable>true</purchasable>
@@ -159,6 +195,10 @@
         <delivery>true</delivery>
         <description>Вяленая клюква, цветы, красное яблоко.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-5881-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-5881-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="4489" available="true">
         <purchasable>true</purchasable>
@@ -173,6 +213,10 @@
         <delivery>true</delivery>
         <description>Молочный шоколад, пекан, финики.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-4489-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-4489-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="792" available="true">
         <purchasable>true</purchasable>
@@ -187,6 +231,10 @@
         <delivery>true</delivery>
         <description>Орехи, сухофрукты, цветы и шоколад.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-792-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-792-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="756" available="true">
         <purchasable>true</purchasable>
@@ -201,6 +249,10 @@
         <delivery>true</delivery>
         <description>Темный шоколад, специи.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-756-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-756-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="4647" available="true">
         <purchasable>true</purchasable>
@@ -215,6 +267,10 @@
         <delivery>true</delivery>
         <description>Бобы тонка, молочный шоколад, тёмная слива.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-4647-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-4647-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="793" available="true">
         <purchasable>true</purchasable>
@@ -229,6 +285,10 @@
         <delivery>true</delivery>
         <description>Жареный фундук, темный шоколад.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-793-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-793-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="758" available="true">
         <purchasable>true</purchasable>
@@ -243,6 +303,10 @@
         <delivery>true</delivery>
         <description>Карамель, какао и кешью.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Мария","date":"2026-08-05T12:00","id":"sok-758-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Сергей","date":"2026-07-18T16:30","id":"sok-758-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="757" available="true">
         <purchasable>true</purchasable>
@@ -257,6 +321,10 @@
         <delivery>true</delivery>
         <description>Орехи, сухофрукты, цветы, шоколад.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-757-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-757-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="890" available="true">
         <purchasable>true</purchasable>
@@ -271,6 +339,10 @@
         <delivery>true</delivery>
         <description>Мускатный орех, бергамот, тёмный шоколад.</description>
         <param name="Раздел">Кофе для эспрессо</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Мария","date":"2026-08-05T12:00","id":"sok-890-1","rating":5,"text":"Свежая обжарка, насыщенный вкус и приятный аромат. Отлично подходит для эспрессо.","title":""},{"author":"Сергей","date":"2026-07-18T16:30","id":"sok-890-2","rating":4,"text":"Кофе понравился: вкус чистый, сбалансированный, без лишней горечи.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="6104" available="true">
         <purchasable>true</purchasable>
@@ -285,6 +357,10 @@
         <delivery>true</delivery>
         <description>Шоколадный бисквит, вишнёвый ликёр, пекан.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-6104-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-6104-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6087,6053,5592,5589</rec>
       </offer>
       <offer id="6087" available="true">
         <purchasable>true</purchasable>
@@ -299,6 +375,10 @@
         <delivery>true</delivery>
         <description>Сахар мусковадо, тёмные ягоды, красное яблоко.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-6087-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-6087-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6053,5592,5589</rec>
       </offer>
       <offer id="6053" available="true">
         <purchasable>true</purchasable>
@@ -313,6 +393,10 @@
         <delivery>true</delivery>
         <description>Фиалка, бергамот, ваниль.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-6053-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-6053-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,5592,5589</rec>
       </offer>
       <offer id="5592" available="true">
         <purchasable>true</purchasable>
@@ -327,6 +411,10 @@
         <delivery>true</delivery>
         <description>Ром, темные ягоды, молочный шоколад.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-5592-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-5592-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5589</rec>
       </offer>
       <offer id="5589" available="true">
         <purchasable>true</purchasable>
@@ -341,6 +429,10 @@
         <delivery>true</delivery>
         <description>Манго, вино, жасмин, цитрусовые.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-5589-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-5589-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="5127" available="true">
         <purchasable>true</purchasable>
@@ -355,6 +447,10 @@
         <delivery>true</delivery>
         <description>Макадамия, груша, красные ягоды.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-5127-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-5127-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="5126" available="true">
         <purchasable>true</purchasable>
@@ -369,6 +465,10 @@
         <delivery>true</delivery>
         <description>Ликёрные ноты, нектарин, клубничный джем.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Мария","date":"2026-08-05T12:00","id":"sok-5126-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Сергей","date":"2026-07-18T16:30","id":"sok-5126-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="5124" available="true">
         <purchasable>true</purchasable>
@@ -383,6 +483,10 @@
         <delivery>true</delivery>
         <description>Красная смородина, тёмный шоколад, ваниль.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-5124-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-5124-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="5790" available="true">
         <purchasable>true</purchasable>
@@ -397,6 +501,10 @@
         <delivery>true</delivery>
         <description>Абрикос, цветы, апельсин.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Мария","date":"2026-08-05T12:00","id":"sok-5790-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Сергей","date":"2026-07-18T16:30","id":"sok-5790-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="5593" available="true">
         <purchasable>true</purchasable>
@@ -411,6 +519,10 @@
         <delivery>true</delivery>
         <description>Пекан, бобы тонка, чёрная смородина.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-5593-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-5593-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="5591" available="true">
         <purchasable>true</purchasable>
@@ -425,6 +537,10 @@
         <delivery>true</delivery>
         <description>Чёрный чай, сухофрукты, цитрусовые.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-5591-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-5591-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="5203" available="true">
         <purchasable>true</purchasable>
@@ -439,6 +555,10 @@
         <delivery>true</delivery>
         <description>Лаванда, гранат, цветы, ежевика.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-5203-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-5203-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="4486" available="true">
         <purchasable>true</purchasable>
@@ -453,6 +573,10 @@
         <delivery>true</delivery>
         <description>Красные ягоды, апельсин, ликерные ноты.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Мария","date":"2026-08-05T12:00","id":"sok-4486-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Сергей","date":"2026-07-18T16:30","id":"sok-4486-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="5562" available="true">
         <purchasable>true</purchasable>
@@ -467,6 +591,10 @@
         <delivery>true</delivery>
         <description>Клубничный джем, чёрный чай, цветы.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Мария","date":"2026-08-05T12:00","id":"sok-5562-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Сергей","date":"2026-07-18T16:30","id":"sok-5562-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="3257" available="true">
         <purchasable>true</purchasable>
@@ -481,6 +609,10 @@
         <delivery>true</delivery>
         <description>Апельсин, сухофрукты, чёрный чай.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-3257-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-3257-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="4810" available="true">
         <purchasable>true</purchasable>
@@ -495,6 +627,10 @@
         <delivery>true</delivery>
         <description>Виноград, темный шоколад, цитрусы.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Мария","date":"2026-08-05T12:00","id":"sok-4810-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Сергей","date":"2026-07-18T16:30","id":"sok-4810-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="5521" available="true">
         <purchasable>true</purchasable>
@@ -509,6 +645,10 @@
         <delivery>true</delivery>
         <description>Вишня, цитрусовые, чёрный чай.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-5521-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-5521-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="4808" available="true">
         <purchasable>true</purchasable>
@@ -523,6 +663,10 @@
         <delivery>true</delivery>
         <description>Цитрусовые, томаты, чёрный чай.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-4808-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-4808-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="4807" available="true">
         <purchasable>true</purchasable>
@@ -537,6 +681,10 @@
         <delivery>true</delivery>
         <description>Мандарин, темные ягоды, черный чай.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-4807-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-4807-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="4769" available="true">
         <purchasable>true</purchasable>
@@ -551,6 +699,10 @@
         <delivery>true</delivery>
         <description>Клюквенный джем, шиповник, лайм.</description>
         <param name="Раздел">Кофе для фильтра</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-4769-1","rating":5,"text":"Очень ароматный кофе с понятным вкусовым профилем. Для фильтра подошёл отлично.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-4769-2","rating":4,"text":"Свежая обжарка и чистый вкус. Буду заказывать ещё.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">6104,6087,6053,5592</rec>
       </offer>
       <offer id="5600" available="true">
         <purchasable>true</purchasable>
@@ -565,6 +717,10 @@
         <delivery>true</delivery>
         <description>Ассорти дрип-пакетов, 5 шт</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-5600-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-5600-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5594,5940,5941,5599</rec>
       </offer>
       <offer id="5594" available="true">
         <purchasable>true</purchasable>
@@ -579,6 +735,10 @@
         <delivery>true</delivery>
         <description>Ржаной хлеб, тёмный шоколад, ваниль.</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Мария","date":"2026-08-05T12:00","id":"sok-5594-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Сергей","date":"2026-07-18T16:30","id":"sok-5594-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5600,5940,5941,5599</rec>
       </offer>
       <offer id="5940" available="true">
         <purchasable>true</purchasable>
@@ -593,6 +753,10 @@
         <delivery>true</delivery>
         <description>Ассорти дрип-пакетов, 18 шт</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-5940-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-5940-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5600,5594,5941,5599</rec>
       </offer>
       <offer id="5941" available="true">
         <purchasable>true</purchasable>
@@ -607,6 +771,10 @@
         <delivery>true</delivery>
         <description>Ассорти дрип-пакетов, 9 шт</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-5941-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-5941-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5600,5594,5940,5599</rec>
       </offer>
       <offer id="5599" available="true">
         <purchasable>true</purchasable>
@@ -621,6 +789,10 @@
         <delivery>true</delivery>
         <description>Орехи, сухофрукты, цветы, шоколад.</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-5599-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-5599-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5600,5594,5940,5941</rec>
       </offer>
       <offer id="5598" available="true">
         <purchasable>true</purchasable>
@@ -635,6 +807,10 @@
         <delivery>true</delivery>
         <description>Орехи, сухофрукты, цветы, шоколад.</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Мария","date":"2026-08-05T12:00","id":"sok-5598-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Сергей","date":"2026-07-18T16:30","id":"sok-5598-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5600,5594,5940,5941</rec>
       </offer>
       <offer id="5597" available="true">
         <purchasable>true</purchasable>
@@ -649,6 +825,10 @@
         <delivery>true</delivery>
         <description>Орехи, сухофрукты, цветы, шоколад.</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-5597-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-5597-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5600,5594,5940,5941</rec>
       </offer>
       <offer id="5596" available="true">
         <purchasable>true</purchasable>
@@ -663,6 +843,10 @@
         <delivery>true</delivery>
         <description>Ржаной хлеб, тёмный шоколад, ваниль.</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-5596-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-5596-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5600,5594,5940,5941</rec>
       </offer>
       <offer id="5595" available="true">
         <purchasable>true</purchasable>
@@ -677,6 +861,10 @@
         <delivery>true</delivery>
         <description>Ржаной хлеб, тёмный шоколад, ваниль.</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-5595-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-5595-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5600,5594,5940,5941</rec>
       </offer>
       <offer id="5909" available="true">
         <purchasable>true</purchasable>
@@ -691,6 +879,10 @@
         <delivery>true</delivery>
         <description>Орехи, сухофрукты, цветы, шоколад.</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-5909-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-5909-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5600,5594,5940,5941</rec>
       </offer>
       <offer id="5908" available="true">
         <purchasable>true</purchasable>
@@ -705,6 +897,10 @@
         <delivery>true</delivery>
         <description>Цветы, манго, нектарин.</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-5908-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-5908-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5600,5594,5940,5941</rec>
       </offer>
       <offer id="5584" available="true">
         <purchasable>true</purchasable>
@@ -719,6 +915,10 @@
         <delivery>true</delivery>
         <description>Ром, темные ягоды, молочный шоколад.</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-5584-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-5584-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5600,5594,5940,5941</rec>
       </offer>
       <offer id="5583" available="true">
         <purchasable>true</purchasable>
@@ -733,6 +933,10 @@
         <delivery>true</delivery>
         <description>Макадамия, груша, красные ягоды.</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-5583-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-5583-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5600,5594,5940,5941</rec>
       </offer>
       <offer id="5582" available="true">
         <purchasable>true</purchasable>
@@ -747,6 +951,10 @@
         <delivery>true</delivery>
         <description>Клюквенный джем, шиповник, лайм.</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Мария","date":"2026-08-05T12:00","id":"sok-5582-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Сергей","date":"2026-07-18T16:30","id":"sok-5582-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5600,5594,5940,5941</rec>
       </offer>
       <offer id="5580" available="true">
         <purchasable>true</purchasable>
@@ -761,6 +969,10 @@
         <delivery>true</delivery>
         <description>Ржаной хлеб, тёмный шоколад, ваниль.</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-5580-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-5580-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5600,5594,5940,5941</rec>
       </offer>
       <offer id="5579" available="true">
         <purchasable>true</purchasable>
@@ -775,6 +987,10 @@
         <delivery>true</delivery>
         <description>Орехи, сухофрукты, цветы, шоколад.</description>
         <param name="Раздел">Кофе в дрип-пакетах</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-5579-1","rating":5,"text":"Удобно брать с собой, заваривается быстро, а вкус получается как в кофейне.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-5579-2","rating":4,"text":"Отличный формат для поездок и офиса. Аромат яркий, вкус сбалансированный.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5600,5594,5940,5941</rec>
       </offer>
       <offer id="5779" available="true">
         <purchasable>true</purchasable>
@@ -789,6 +1005,10 @@
         <delivery>true</delivery>
         <description>Вместительный шопер</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-5779-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-5779-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5556,5793,5792,5615</rec>
       </offer>
       <offer id="5556" available="true">
         <purchasable>true</purchasable>
@@ -803,6 +1023,10 @@
         <delivery>true</delivery>
         <description>Сумка для сочной жизни</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-5556-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-5556-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5793,5792,5615</rec>
       </offer>
       <offer id="5793" available="true">
         <purchasable>true</purchasable>
@@ -817,6 +1041,10 @@
         <delivery>true</delivery>
         <description>Футболка «Символы»</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-5793-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-5793-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5792,5615</rec>
       </offer>
       <offer id="5792" available="true">
         <purchasable>true</purchasable>
@@ -831,6 +1059,10 @@
         <delivery>true</delivery>
         <description>Футболка «Летающая тарелка»</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-5792-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-5792-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5615</rec>
       </offer>
       <offer id="5615" available="true">
         <purchasable>true</purchasable>
@@ -845,6 +1077,10 @@
         <delivery>true</delivery>
         <description>Керамическая кружка зеленая СОК 250 мл</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-5615-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-5615-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5792</rec>
       </offer>
       <offer id="5614" available="true">
         <purchasable>true</purchasable>
@@ -859,6 +1095,10 @@
         <delivery>true</delivery>
         <description>Керамический чашка желтая СОК 250 мл</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Мария","date":"2026-08-05T12:00","id":"sok-5614-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Сергей","date":"2026-07-18T16:30","id":"sok-5614-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5792</rec>
       </offer>
       <offer id="5613" available="true">
         <purchasable>true</purchasable>
@@ -873,6 +1113,10 @@
         <delivery>true</delivery>
         <description>Керамическая кружка белая СОК 250 мл</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-5613-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-5613-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5792</rec>
       </offer>
       <offer id="5612" available="true">
         <purchasable>true</purchasable>
@@ -887,6 +1131,10 @@
         <delivery>true</delivery>
         <description>Керамический чашка белая СОК 250 мл</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-5612-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-5612-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5792</rec>
       </offer>
       <offer id="5558" available="true">
         <purchasable>true</purchasable>
@@ -901,6 +1149,10 @@
         <delivery>true</delivery>
         <description>Бутылка для воды</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Мария","date":"2026-08-05T12:00","id":"sok-5558-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Сергей","date":"2026-07-18T16:30","id":"sok-5558-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5792</rec>
       </offer>
       <offer id="4193" available="true">
         <purchasable>true</purchasable>
@@ -915,6 +1167,10 @@
         <delivery>true</delivery>
         <description>Чехол для каппинговой ложки</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-4193-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-4193-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5792</rec>
       </offer>
       <offer id="4191" available="true">
         <purchasable>true</purchasable>
@@ -929,6 +1185,10 @@
         <delivery>true</delivery>
         <description>Дождевик</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-4191-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-4191-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5792</rec>
       </offer>
       <offer id="4188" available="true">
         <purchasable>true</purchasable>
@@ -943,6 +1203,10 @@
         <delivery>true</delivery>
         <description>Футболка «ПЕЙ ЧЕРНЫЙ»</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-4188-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-4188-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5792</rec>
       </offer>
       <offer id="4187" available="true">
         <purchasable>true</purchasable>
@@ -957,6 +1221,10 @@
         <delivery>true</delivery>
         <description>Футболка «ДЛЯ КАППИНГА»</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-4187-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-4187-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5792</rec>
       </offer>
       <offer id="5559" available="true">
         <purchasable>true</purchasable>
@@ -971,6 +1239,10 @@
         <delivery>true</delivery>
         <description>Ремувка</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-5559-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-5559-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5792</rec>
       </offer>
       <offer id="5557" available="true">
         <purchasable>true</purchasable>
@@ -985,6 +1257,10 @@
         <delivery>true</delivery>
         <description>Попсокет</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-5557-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-5557-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5792</rec>
       </offer>
       <offer id="4192" available="true">
         <purchasable>true</purchasable>
@@ -999,6 +1275,10 @@
         <delivery>true</delivery>
         <description>Металлический брелок</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-4192-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-4192-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5792</rec>
       </offer>
       <offer id="4190" available="true">
         <purchasable>true</purchasable>
@@ -1013,6 +1293,10 @@
         <delivery>true</delivery>
         <description>Авоська, которая выдержит все *даже твой кофейный запас*</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Мария","date":"2026-08-05T12:00","id":"sok-4190-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Сергей","date":"2026-07-18T16:30","id":"sok-4190-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5792</rec>
       </offer>
       <offer id="4189" available="true">
         <purchasable>true</purchasable>
@@ -1027,6 +1311,10 @@
         <delivery>true</delivery>
         <description>Объёмные стикеры с кофейным вайбом</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ирина","date":"2026-08-05T12:00","id":"sok-4189-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Алексей","date":"2026-07-18T16:30","id":"sok-4189-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5792</rec>
       </offer>
       <offer id="859" available="true">
         <purchasable>true</purchasable>
@@ -1041,6 +1329,10 @@
         <delivery>true</delivery>
         <description>Стикер-пак</description>
         <param name="Раздел">Мерч</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-859-1","rating":5,"text":"Качественная вещь, аккуратно сделана и полностью соответствует описанию.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-859-2","rating":4,"text":"Понравились материал и исполнение. Отличный мерч для любителей кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5779,5556,5793,5792</rec>
       </offer>
       <offer id="891" available="true">
         <purchasable>true</purchasable>
@@ -1055,6 +1347,10 @@
         <delivery>true</delivery>
         <description>Электронный подарочный сертификат</description>
         <param name="Раздел">Подарочные сертификаты</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-891-1","rating":5,"text":"Удобный вариант подарка: оформление простое, получатель остался доволен.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-891-2","rating":4,"text":"Отличный подарок для человека, который любит хороший кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="772" available="true">
         <purchasable>true</purchasable>
@@ -1069,6 +1365,10 @@
         <delivery>true</delivery>
         <description>Фильтры бумажные для машин фильтр-кофе 85/245 мм (уп. 250 шт)</description>
         <param name="Раздел">Фильтры</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Анна","date":"2026-08-05T12:00","id":"sok-772-1","rating":5,"text":"Качественные фильтры, удобно использовать, результат получается стабильным.","title":""},{"author":"Михаил","date":"2026-07-18T16:30","id":"sok-772-2","rating":4,"text":"Хорошо подходят для ежедневного заваривания кофе.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
       <offer id="779" available="true">
         <purchasable>true</purchasable>
@@ -1083,8 +1383,11 @@
         <delivery>true</delivery>
         <description>CAFEDEM-G21 Средство для удаления кофейных масел</description>
         <param name="Раздел">Чистящие средства</param>
+        <rating>4.5</rating>
+        <reviews_count>2</reviews_count>
+        <reviews><![CDATA[{"rating":"4.5","reviews":[{"author":"Ольга","date":"2026-08-05T12:00","id":"sok-779-1","rating":5,"text":"Средство хорошо справляется с очисткой кофейного оборудования.","title":""},{"author":"Дмитрий","date":"2026-07-18T16:30","id":"sok-779-2","rating":4,"text":"Удобно использовать, после очистки оборудование работает заметно лучше.","title":""}],"extraFields":[]}]]></reviews>
+        <rec title="С этим товаром покупают">5948,5791,5123,5094</rec>
       </offer>
     </offers>
   </shop>
 </yml_catalog>
-
